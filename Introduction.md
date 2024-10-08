@@ -43,4 +43,41 @@ On peut retenir deux points essentiels de cet exemple :
 
 Prenons cet exemple pour conclure. Cela fait maintenant 50 jours que le pays est gouverné par un gouvernement démissionnaire, chargé d'expédier les affaires courantes. Toutefois, qui assure la continuité de la vie nationale alors que la situation politique est extrêmement instable ? C'est l'administration. L'administration incarne l'État en action. Elle est chargée de la mise en œuvre concrète et quotidienne des décisions et des politiques publiques définies par l'État.
 
-**Définition générale de droit administratif** : Le droit administratif est une branche du droit public qui désigne l'ensemble des règles applicables à l'administration.
+**Définition générale du droit administratif** : Le droit administratif est une branche du droit public qui désigne l'ensemble des règles applicables à l'administration.
+
+## Section 1 : Définition
+
+**Édouard Laferrière** est considéré comme l'un des pères fondateurs du droit administratif. En 1887, alors vice-président du Conseil d'État, il rédige son célèbre *Traité de la juridiction administrative*. Dans cet ouvrage, il affirme que le droit administratif repose sur deux idées fondamentales : **l’idée d’administration** et **l’idée de droit**.
+
+### 1. Le droit
+
+Le modèle juridique français est en effet marqué par trois grands dualismes fondamentaux :
+
+1. Le dualisme juridictionnel
+
+   En France, il existe deux ordres de juridiction : **l'ordre juridictionnel administratif** et **l'ordre juridictionnel judiciaire**. Chacun de ces ordres est doté d'une cour suprême. 
+
+   - L'ordre judiciaire a pour cour suprême la **Cour de cassation**.
+   - L'ordre administratif a pour cour suprême le **Conseil d'État**.
+
+   Une cour suprême se distingue des juridictions ordinaires dans la mesure où ses décisions sont **incontestables et définitives**. Cela signifie qu'elles ne peuvent être ni appelées ni soumises à un pourvoi en cassation. C'est ce qui définit le caractère d'une cour suprême.
+
+   Ainsi, le **Conseil d'État** est au sommet de l'ordre administratif, et la **Cour de cassation** au sommet de l'ordre judiciaire. Entre ces deux ordres existe un organe spécial : le **Tribunal des conflits**. Cet organe a pour mission de trancher les conflits de compétences entre les deux ordres, c'est-à-dire déterminer quel juge — judiciaire ou administratif — est compétent pour statuer sur une affaire en cas de doute.
+
+2. Le dualisme juridique
+
+   Ces deux grandes catégories de juges, n'appliquent pas les mêmes règles. Le juge judiciaire applique le droit privé. Le juge administratif applique le droit administratif.
+
+3. Le dualisme statutaire ou fonctionnel
+
+   Il nécessite d'examiner de plus près l'une des deux cours suprêmes, le Conseil d'État.
+
+   Le Conseil d'État n'est pas une juridiction comme les autres. C'est un organe doté de deux grands types de fonctions. Le Conseil d'État exerce des fonctions juridictionnelles : il tranche des litiges sur la base de règles de droit, mais il exerce également des fonctions consultatives, qui constituent sa fonction historique. Le Conseil d'État a été créé au XVIIIᵉ siècle par Napoléon, en tant que conseiller de l'exécutif. Cette mission consultative est donc sa fonction originelle. Aujourd'hui, ce dualisme fonctionnel et statutaire subsiste : le Conseil d'État exerce à la fois des attributions juridictionnelles et consultatives. Le droit administratif répond ainsi à la fois à l'idée de droit et à celle d'administration.
+
+### 2. L’administration
+
+### 3. L’administration et le droit
+
+## Section 2 : Naissance du droit administratif
+
+## Section 3 : Caractères du droit administratif
