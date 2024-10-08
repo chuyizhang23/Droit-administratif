@@ -55,7 +55,7 @@ Le modèle juridique français est en effet marqué par trois grands dualismes f
 
 1. Le dualisme juridictionnel
 
-   En France, il existe deux ordres de juridiction : **l'ordre juridictionnel administratif** et **l'ordre juridictionnel judiciaire**. Chacun de ces ordres est doté d'une cour suprême. 
+   En France, il existe deux ordres de juridiction : **l'ordre juridictionnel administratif** et **l'ordre juridictionnel judiciaire**. Chacun de ces ordres est doté d'une cour suprême.
 
    - L'ordre judiciaire a pour cour suprême la **Cour de cassation**.
    - L'ordre administratif a pour cour suprême le **Conseil d'État**.
@@ -72,9 +72,45 @@ Le modèle juridique français est en effet marqué par trois grands dualismes f
 
    Il nécessite d'examiner de plus près l'une des deux cours suprêmes, le Conseil d'État.
 
-   Le Conseil d'État n'est pas une juridiction comme les autres. C'est un organe doté de deux grands types de fonctions. Le Conseil d'État exerce des fonctions juridictionnelles : il tranche des litiges sur la base de règles de droit, mais il exerce également des fonctions consultatives, qui constituent sa fonction historique. Le Conseil d'État a été créé au XVIIIᵉ siècle par Napoléon, en tant que conseiller de l'exécutif. Cette mission consultative est donc sa fonction originelle. Aujourd'hui, ce dualisme fonctionnel et statutaire subsiste : le Conseil d'État exerce à la fois des attributions juridictionnelles et consultatives. Le droit administratif répond ainsi à la fois à l'idée de droit et à celle d'administration.
+   Le Conseil d'État n'est pas une juridiction comme les autres. C'est un organe doté de deux grands types de fonctions. Le Conseil d'État exerce des fonctions juridictionnelles : il tranche des litiges sur la base de règles de droit, mais il exerce également des fonctions consultatives, qui constituent sa fonction historique. Le Conseil d'État a été créé au XVIIIᵉ siècle par Napoléon, en tant que conseiller de l'exécutif. Cette mission consultative est donc sa fonction historique. Aujourd'hui, ce dualisme fonctionnel et statutaire demeures : le Conseil d'État exerce à la fois des attributions juridictionnelles et consultatives. Le droit administratif répond ainsi à la fois à l'idée de droit et à celle d'administration.
 
 ### 2. L’administration
+
+Lorsque je vous dis "administration", peut-être que l'image qui vous vient immédiatement à l'esprit ressemble à celle-ci. Le problème est que, depuis longtemps, la critique de l'administration et de la bureaucratie est devenue une pratique extrêmement prisée des usagers et des médias. C'est presque devenu un genre littéraire. Pour ceux qui apprécient la littérature, on retrouve dans les romans de Flaubert, de Balzac, de Zola, des descriptions extrêmement sarcastiques de l'administration.
+
+Je citerai en exemple Anatole France, qui faisait dire à l'un de ses personnages que « l'État est un monsieur piteux et malgracieux assis derrière un guichet ». Évidemment, présenté de cette manière, il n'est pas surprenant que l'administration soit critiquée. Cela ne rend pas service à l'administration, ce qui n'est pourtant pas notre objectif. De plus, ces critiques littéraires ne nous aident pas à comprendre ce qu'est réellement l'administration ni à en donner une définition précise. Il nous faut, en tant que juristes, tenter d'approcher une définition de l'administration.
+
+Si l'on se réfère à la théorie de la séparation des pouvoirs de Montesquieu, que l'on retrouve à l'article 16 de la *Déclaration des Droits de l'Homme et du Citoyen*, où se situe l'administration dans cette théorie ? On peut dire que l'administration est une activité relevant du pouvoir exécutif, qui ne consiste ni à juger ni à légiférer. L'administration relève donc du pouvoir exécutif. L'article 20 de la Constitution : « Le Gouvernement détermine et conduit la politique de la Nation. Il dispose de l'administration et de la force armée. »
+
+Essayons d'approfondir davantage la définition de l'administration. Étymologiquement, le terme « administration » vient du latin « administrare », composé de « ad » signifiant « vers » et « ministrare » signifiant « servir ». Cette racine latine montre que l'administration est au service. On dit souvent qu'elle est le bras armé du gouvernement, son bras droit. Elle existe pour servir, pour mettre en œuvre efficacement la politique du gouvernement. Comme nous l'avons dit, elle représente la mise en œuvre concrète et quotidienne de l'action. Elle est là pour mettre en œuvre, dans les rouages, la politique du gouvernement.
+
+#### Définition de l'administration
+
+Poursuivons notre exploration du sens de l'administration et examinons ce qu'en dit la doctrine, c'est-à-dire les professeurs de droit qui réfléchissent sur le droit administratif. La doctrine propose deux grandes définitions de l'administration : une définition **organique** et une définition **fonctionnelle**.
+
+##### Définition organique de l’Administration
+
+La première approche doctrinale est la définition organique de l'administration. Ici, l'Administration est écrite avec un « A » majuscule, contrairement à l'approche fonctionnelle où elle s'écrit avec un « a » minuscule.
+
+Dans l'approche organique de l'Administration, l'Administration est définie par ses organes : les autorités, les institutions, les personnes qui la composent. Elle renvoie aux personnes morales de droit public, telles que l'État, les collectivités territoriales (régions, départements) et les institutions spécialisées de droit public comme les établissements publics. Par exemple, les universités ou les musées sont des établissements publics et constituent des institutions publiques spécialisées.
+
+Nous approfondirons cette approche organique dans la première partie du cours, qui est consacrée aux acteurs de l'Administration. Dans cette première section organique, l'Administration avec un « A » majuscule se compose de tous les organes relevant de l'État, des collectivités territoriales et des institutions spécialisées.
+
+> Une **personne morale** est une entité juridique qui a une existence légale distincte de celle des individus qui la composent. Cela peut inclure des entreprises, des associations, des fondations, des institutions publiques, etc. Les personnes morales ont des droits et des obligations propres : elles peuvent posséder des biens, signer des contrats, engager des actions en justice ou être poursuivies.
+>
+> L'objectif principal de la création d'une personne morale est de permettre à un groupe d'individus de mener des activités collectives tout en bénéficiant d'une structure juridique qui protège les membres individuels en limitant leur responsabilité personnelle.
+>
+> **Exemple :** Une société anonyme (SA) est une personne morale. Les actionnaires de la SA ne sont pas personnellement responsables des dettes de l'entreprise au-delà de leur investissement initial.
+
+##### Définition fonctionnelle de l'administration
+
+La deuxième approche est l'approche fonctionnelle de l'administration, cette fois écrite avec un « a » minuscule. Dans cette perspective, l'administration est définie par ses fonctions. Elle est vue comme un ensemble d'activités ayant pour finalité l'intérêt général. L'administration agit toujours en visant cet objectif. Ainsi, les activités d'intérêt général, c'est-à-dire les services publics, sont prises en charge par les personnes publiques pour répondre aux besoins de la population.
+
+Deux grandes fonctions de l'administration :
+
+La première fonction de l'administration est d'assurer le maintien de l'ordre public, c'est-à-dire la paix interne qui permet à un groupe humain de faire société. Il s'agit de sa mission de police administrative, que nous avons déjà abordée et que nous approfondirons dans la partie 3 du livre. Ainsi, la mission de police administrative vise à sauvegarder l'ordre public.
+
+La deuxième grande mission de l'administration est d'offrir à la population certaines prestations. Il s'agit des services publics, qui sont des activités d'intérêt général que l'administration propose dans divers domaines tels que l'environnement, la santé, les transports publics et la culture. Ainsi, les services publics regroupent toutes ces activités d'intérêt général que l'administration exerce au profit de la population dans ces domaines.
 
 ### 3. L’administration et le droit
 
