@@ -2,38 +2,38 @@
 
 Matière vivante construite autour de grands concepts fondateurs : **intérêt général**, **service public**, **puissance publique**.
 
-Au cœur du droit administratif se trouve le juge administratif, véritable architecte de cette branche du droit. Il est le garant de la soumission de l’administration au droit ainsi que le protecteur des droits des administrés. Depuis les années 2000, il est devenu un acteur majeur de l'actualité politique et médiatique. Il peut être saisi en urgence par le biais de recours en référé, ce qui lui permet de se positionner au centre des enjeux de notre société.
+Au cœur du droit administratif se trouve le juge administratif, véritable architecte de cette branche du droit. Il est le garant de la soumission de l'administration au droit ainsi que le protecteur des droits des administrés. Depuis les années 2000, il est devenu un acteur majeur de l'actualité politique et médiatique. Il peut être saisi en urgence par le biais de recours en référé, ce qui lui permet de se positionner au centre des enjeux de notre société.
 
 Example 1 :
 
-Le Premier ministre a bloqué le réseau social TikTok en Nouvelle-Calédonie, sur fond d’état d’urgence et de troubles importants à l’ordre public. Une association, La Quadrature du Net, a saisi le juge administratif dans le cadre d’un référé liberté. Ce dernier a examiné les arguments des parties, et dans une décision (que l’on qualifie d’ordonnance en référé), il s’est prononcé le 23 mai 2020. Le Conseil d'État a refusé de suspendre ce blocage. Il a en effet jugé que TikTok devait rester bloqué en Nouvelle-Calédonie. Selon le Conseil d'État, la condition d’urgence n’était pas remplie. Pourquoi ? Parce qu’en Nouvelle-Calédonie, ni les autres réseaux sociaux n’étaient affectés, ni les autres moyens de communication perturbés. De plus, la mesure était limitée et temporaire.
+Le Premier ministre a bloqué le réseau social TikTok en Nouvelle-Calédonie, sur fond d'état d'urgence et de troubles importants à l'ordre public. Une association, La Quadrature du Net, a saisi le juge administratif dans le cadre d'un référé liberté. Ce dernier a examiné les arguments des parties, et dans une décision (que l'on qualifie d'ordonnance en référé), il s'est prononcé le 23 mai 2020. Le Conseil d'État a refusé de suspendre ce blocage. Il a en effet jugé que TikTok devait rester bloqué en Nouvelle-Calédonie. Selon le Conseil d'État, la condition d'urgence n'était pas remplie. Pourquoi ? Parce qu'en Nouvelle-Calédonie, ni les autres réseaux sociaux n'étaient affectés, ni les autres moyens de communication perturbés. De plus, la mesure était limitée et temporaire.
 
 Trois enseignements de cet exemple :
 
-**Premier enseignement** : La mesure de blocage prise par le Premier ministre relève de ce que l’on appelle la police administrative. Nous étudierons la police administrative dans la partie 3 du cours.
+**Premier enseignement** : La mesure de blocage prise par le Premier ministre relève de ce que l'on appelle la police administrative. Nous étudierons la police administrative dans la partie 3 du cours.
 
-**Deuxième enseignement** : Le Conseil d'État est ici saisi dans le cadre d’un référé liberté. C'est une procédure d'urgence qui oblige le juge à statuer dans un délai de 48 heures.
+**Deuxième enseignement** : Le Conseil d'État est ici saisi dans le cadre d'un référé liberté. C'est une procédure d'urgence qui oblige le juge à statuer dans un délai de 48 heures.
 
 Deux conditions doivent être remplies pour que le Conseil intervienne :
 
-- L’urgence;
+- L'urgence;
 - L'existence d'une atteinte grave et manifestement illégale à une liberté fondamentale.
 
 Cette procédure est encadrée par l'article L.521-2 du Code de justice administrative.
 
 > Saisi d'une demande en ce sens justifiée par l'urgence, le juge des référés peut ordonner toutes mesures nécessaires à la sauvegarde d'une liberté fondamentale à laquelle une personne morale de droit public ou un organisme de droit privé chargé de la gestion d'un service public aurait porté, dans l'exercice d'un de ses pouvoirs, une atteinte grave et manifestement illégale. Le juge des référés se prononce dans un délai de quarante-huit heures.
 
-**Troisième enseignement** : Le Conseil d'État, notre juge administratif, joue un rôle nouveau et résolument moderne. Il s'adapte aux problématiques contemporaines, notamment en ce qui concerne les réseaux sociaux et d'autres enjeux numériques. C'est un juge pleinement en phase avec l’esprit de notre époque, capable de traiter des sujets aussi variés que les plateformes en ligne ou les nouvelles technologies.
+**Troisième enseignement** : Le Conseil d'État, notre juge administratif, joue un rôle nouveau et résolument moderne. Il s'adapte aux problématiques contemporaines, notamment en ce qui concerne les réseaux sociaux et d'autres enjeux numériques. C'est un juge pleinement en phase avec l'esprit de notre époque, capable de traiter des sujets aussi variés que les plateformes en ligne ou les nouvelles technologies.
 
 Example 2 :
 
-Le deuxième exemple concerne la lutte contre le réchauffement climatique. Le juge administratif a été saisi par plusieurs associations, et il a reconnu la responsabilité de l’État en raison de ses carences dans la lutte contre le réchauffement climatique. Le tribunal administratif a admis que l'État n'en faisait pas assez, et que sa responsabilité pouvait être engagée en raison de ces insuffisances. Il s'agit d'un jugement du tribunal administratif de Paris, rendu le 3 février 2021, et connu sous le nom de "l'Affaire du siècle". Depuis cette décision, les recours contentieux de ce type se sont multipliés devant le juge administratif. Cet exemple illustre la question de la responsabilité administrative, sujet que nous aborderons plus en détail dans la deuxième partie.
+Le deuxième exemple concerne la lutte contre le réchauffement climatique. Le juge administratif a été saisi par plusieurs associations, et il a reconnu la responsabilité de l'État en raison de ses carences dans la lutte contre le réchauffement climatique. Le tribunal administratif a admis que l'État n'en faisait pas assez, et que sa responsabilité pouvait être engagée en raison de ces insuffisances. Il s'agit d'un jugement du tribunal administratif de Paris, rendu le 3 février 2021, et connu sous le nom de "l'Affaire du siècle". Depuis cette décision, les recours contentieux de ce type se sont multipliés devant le juge administratif. Cet exemple illustre la question de la responsabilité administrative, sujet que nous aborderons plus en détail dans la deuxième partie.
 
 Example 3 :
 
-En 2020, l’État a créé l'ARCOM (Autorité de régulation de la communication audiovisuelle et numérique), une nouvelle instance de régulation des médias et du numérique. L'ARCOM a remplacé le CSA et fusionné avec la Hadopi, devenant ainsi le principal régulateur dans ces domaines.
+En 2020, l'État a créé l'ARCOM (Autorité de régulation de la communication audiovisuelle et numérique), une nouvelle instance de régulation des médias et du numérique. L'ARCOM a remplacé le CSA et fusionné avec la Hadopi, devenant ainsi le principal régulateur dans ces domaines.
 
-Le 9 février 2023, l’ARCOM a infligé une amende record de 3,5 millions d'euros à la chaîne C8. Cette sanction faisait suite aux propos injurieux tenus par Cyril Hanouna à l’encontre du député Louis Boyard lors de l’émission "Touche pas à mon poste" diffusée le 10 novembre 2022. Hanouna avait insulté Boyard en direct, ce qui a conduit à des signalements et à l’intervention de l’ARCOM, qui a estimé que ces propos portaient atteinte aux droits de l’invité et que la chaîne avait failli à son obligation de maîtrise de l’antenne​
+Le 9 février 2023, l'ARCOM a infligé une amende record de 3,5 millions d'euros à la chaîne C8. Cette sanction faisait suite aux propos injurieux tenus par Cyril Hanouna à l'encontre du député Louis Boyard lors de l'émission "Touche pas à mon poste" diffusée le 10 novembre 2022. Hanouna avait insulté Boyard en direct, ce qui a conduit à des signalements et à l'intervention de l'ARCOM, qui a estimé que ces propos portaient atteinte aux droits de l'invité et que la chaîne avait failli à son obligation de maîtrise de l'antenne
 
 On peut retenir deux points essentiels de cet exemple :
 
@@ -47,54 +47,54 @@ Prenons cet exemple pour conclure. Cela fait maintenant 50 jours que le pays est
 
 ## Section 1 : Définition
 
-**Édouard Laferrière** est considéré comme l'un des pères fondateurs du droit administratif. En 1887, alors vice-président du Conseil d'État, il rédige son célèbre *Traité de la juridiction administrative*. Dans cet ouvrage, il affirme que le droit administratif repose sur deux idées fondamentales : **l’idée d’administration** et **l’idée de droit**.
+**Édouard Laferrière** est considéré comme l'un des pères fondateurs du droit administratif. En 1887, alors vice-président du Conseil d'État, il rédige son célèbre *Traité de la juridiction administrative*. Dans cet ouvrage, il affirme que le droit administratif repose sur deux idées fondamentales : **l'idée d'administration** et **l'idée de droit**.
 
-### 1. Le droit
+### I. Le droit
 
 Le modèle juridique français est en effet marqué par trois grands dualismes fondamentaux :
 
-1. Le dualisme juridictionnel
+- Le dualisme juridictionnel
 
-   En France, il existe deux ordres de juridiction : **l'ordre juridictionnel administratif** et **l'ordre juridictionnel judiciaire**. Chacun de ces ordres est doté d'une cour suprême.
+  En France, il existe deux ordres de juridiction : **l'ordre juridictionnel administratif** et **l'ordre juridictionnel judiciaire**. Chacun de ces ordres est doté d'une cour suprême.
 
-   - L'ordre judiciaire a pour cour suprême la **Cour de cassation**.
-   - L'ordre administratif a pour cour suprême le **Conseil d'État**.
+  - L'ordre judiciaire a pour cour suprême la **Cour de cassation**.
+  - L'ordre administratif a pour cour suprême le **Conseil d'État**.
 
-   Une cour suprême se distingue des juridictions ordinaires dans la mesure où ses décisions sont **incontestables et définitives**. Cela signifie qu'elles ne peuvent être ni appelées ni soumises à un pourvoi en cassation. C'est ce qui définit le caractère d'une cour suprême.
+  Une cour suprême se distingue des juridictions ordinaires dans la mesure où ses décisions sont **incontestables et définitives**. Cela signifie qu'elles ne peuvent être ni appelées ni soumises à un pourvoi en cassation. C'est ce qui définit le caractère d'une cour suprême.
 
-   Ainsi, le **Conseil d'État** est au sommet de l'ordre administratif, et la **Cour de cassation** au sommet de l'ordre judiciaire. Entre ces deux ordres existe un organe spécial : le **Tribunal des conflits**. Cet organe a pour mission de trancher les conflits de compétences entre les deux ordres, c'est-à-dire déterminer quel juge — judiciaire ou administratif — est compétent pour statuer sur une affaire en cas de doute.
+  Ainsi, le **Conseil d'État** est au sommet de l'ordre administratif, et la **Cour de cassation** au sommet de l'ordre judiciaire. Entre ces deux ordres existe un organe spécial : le **Tribunal des conflits**. Cet organe a pour mission de trancher les conflits de compétences entre les deux ordres, c'est-à-dire déterminer quel juge — judiciaire ou administratif — est compétent pour statuer sur une affaire en cas de doute.
 
-2. Le dualisme juridique
+- Le dualisme juridique
 
-   Ces deux grandes catégories de juges, n'appliquent pas les mêmes règles. Le juge judiciaire applique le droit privé. Le juge administratif applique le droit administratif.
+  Ces deux grandes catégories de juges, n'appliquent pas les mêmes règles. Le juge judiciaire applique le droit privé. Le juge administratif applique le droit administratif.
 
-3. Le dualisme statutaire ou fonctionnel
+- Le dualisme statutaire ou fonctionnel
 
-   Il nécessite d'examiner de plus près l'une des deux cours suprêmes, le Conseil d'État.
+  Il nécessite d'examiner de plus près l'une des deux cours suprêmes, le Conseil d'État.
 
-   Le Conseil d'État n'est pas une juridiction comme les autres. C'est un organe doté de deux grands types de fonctions. Le Conseil d'État exerce des fonctions juridictionnelles : il tranche des litiges sur la base de règles de droit, mais il exerce également des fonctions consultatives, qui constituent sa fonction historique. Le Conseil d'État a été créé au XVIIIᵉ siècle par Napoléon, en tant que conseiller de l'exécutif. Cette mission consultative est donc sa fonction historique. Aujourd'hui, ce dualisme fonctionnel et statutaire demeures : le Conseil d'État exerce à la fois des attributions juridictionnelles et consultatives. Le droit administratif répond ainsi à la fois à l'idée de droit et à celle d'administration.
+  Le Conseil d'État n'est pas une juridiction comme les autres. C'est un organe doté de deux grands types de fonctions. Le Conseil d'État exerce des fonctions juridictionnelles : il tranche des litiges sur la base de règles de droit, mais il exerce également des fonctions consultatives, qui constituent sa fonction historique. Le Conseil d'État a été créé au XVIIIᵉ siècle par Napoléon, en tant que conseiller de l'exécutif. Cette mission consultative est donc sa fonction historique. Aujourd'hui, ce dualisme fonctionnel et statutaire demeures : le Conseil d'État exerce à la fois des attributions juridictionnelles et consultatives. Le droit administratif répond ainsi à la fois à l'idée de droit et à celle d'administration.
 
-### 2. L’administration
+### Ⅱ. L'administration
 
 Lorsque je vous dis "administration", peut-être que l'image qui vous vient immédiatement à l'esprit ressemble à celle-ci. Le problème est que, depuis longtemps, la critique de l'administration et de la bureaucratie est devenue une pratique extrêmement prisée des usagers et des médias. C'est presque devenu un genre littéraire. Pour ceux qui apprécient la littérature, on retrouve dans les romans de Flaubert, de Balzac, de Zola, des descriptions extrêmement sarcastiques de l'administration.
 
-Je citerai en exemple Anatole France, qui faisait dire à l'un de ses personnages que « l'État est un monsieur piteux et malgracieux assis derrière un guichet ». Évidemment, présenté de cette manière, il n'est pas surprenant que l'administration soit critiquée. Cela ne rend pas service à l'administration, ce qui n'est pourtant pas notre objectif. De plus, ces critiques littéraires ne nous aident pas à comprendre ce qu'est réellement l'administration ni à en donner une définition précise. Il nous faut, en tant que juristes, tenter d'approcher une définition de l'administration.
+Je citerai en exemple Anatole France, qui faisait dire à l'un de ses personnages que « l'État est un monsieur piteux et malgracieux assis derrière un guichet ». Évidemment, présenté de cette manière, il n'est pas surprenant que l'administration soit critiquée. Cela ne rend pas service à l'administration, ce qui n'est pourtant pas notre objectif. De plus, ces critiques littéraires ne nous aident pas à comprendre ce qu'est réellement l'administration ni à en donner une définition précise. Il nous faut, en tant que juristes, tenter d'approcher une définition de l'administration.
 
-Si l'on se réfère à la théorie de la séparation des pouvoirs de Montesquieu, que l'on retrouve à l'article 16 de la *Déclaration des Droits de l'Homme et du Citoyen*, où se situe l'administration dans cette théorie ? On peut dire que l'administration est une activité relevant du pouvoir exécutif, qui ne consiste ni à juger ni à légiférer. L'administration relève donc du pouvoir exécutif. L'article 20 de la Constitution : « Le Gouvernement détermine et conduit la politique de la Nation. Il dispose de l'administration et de la force armée. »
+Si l'on se réfère à la théorie de la séparation des pouvoirs de Montesquieu, que l'on retrouve à l'article 16 de la *Déclaration des Droits de l'Homme et du Citoyen*, où se situe l'administration dans cette théorie ? On peut dire que l'administration est une activité relevant du pouvoir exécutif, qui ne consiste ni à juger ni à légiférer. L'administration relève donc du pouvoir exécutif. L'article 20 de la Constitution : « Le Gouvernement détermine et conduit la politique de la Nation. Il dispose de l'administration et de la force armée. »
 
-Essayons d'approfondir davantage la définition de l'administration. Étymologiquement, le terme « administration » vient du latin « administrare », composé de « ad » signifiant « vers » et « ministrare » signifiant « servir ». Cette racine latine montre que l'administration est au service. On dit souvent qu'elle est le bras armé du gouvernement, son bras droit. Elle existe pour servir, pour mettre en œuvre efficacement la politique du gouvernement. Comme nous l'avons dit, elle représente la mise en œuvre concrète et quotidienne de l'action. Elle est là pour mettre en œuvre, dans les rouages, la politique du gouvernement.
+Essayons d'approfondir davantage la définition de l'administration. Étymologiquement, le terme « administration » vient du latin « administrare », composé de « ad » signifiant « vers » et « ministrare » signifiant « servir ». Cette racine latine montre que l'administration est au service. On dit souvent qu'elle est le bras armé du gouvernement, son bras droit. Elle existe pour servir, pour mettre en œuvre efficacement la politique du gouvernement. Comme nous l'avons dit, elle représente la mise en œuvre concrète et quotidienne de l'action. Elle est là pour mettre en œuvre, dans les rouages, la politique du gouvernement.
 
 #### Définition de l'administration
 
 Poursuivons notre exploration du sens de l'administration et examinons ce qu'en dit la doctrine, c'est-à-dire les professeurs de droit qui réfléchissent sur le droit administratif. La doctrine propose deux grandes définitions de l'administration : une définition **organique** et une définition **fonctionnelle**.
 
-##### Définition organique de l’Administration
+##### Définition organique de l'Administration
 
 La première approche doctrinale est la définition organique de l'administration. Ici, l'Administration est écrite avec un « A » majuscule, contrairement à l'approche fonctionnelle où elle s'écrit avec un « a » minuscule.
 
 Dans l'approche organique de l'Administration, l'Administration est définie par ses organes : les autorités, les institutions, les personnes qui la composent. Elle renvoie aux personnes morales de droit public, telles que l'État, les collectivités territoriales (régions, départements) et les institutions spécialisées de droit public comme les établissements publics. Par exemple, les universités ou les musées sont des établissements publics et constituent des institutions publiques spécialisées.
 
-Nous approfondirons cette approche organique dans la première partie du cours, qui est consacrée aux acteurs de l'Administration. Dans cette première section organique, l'Administration avec un « A » majuscule se compose de tous les organes relevant de l'État, des collectivités territoriales et des institutions spécialisées.
+Nous approfondirons cette approche organique dans la première partie du cours, qui est consacrée aux acteurs de l'Administration. Dans cette première section organique, l'Administration avec un « A » majuscule se compose de tous les organes relevant de l'État, des collectivités territoriales et des institutions spécialisées.
 
 > Une **personne morale** est une entité juridique qui a une existence légale distincte de celle des individus qui la composent. Cela peut inclure des entreprises, des associations, des fondations, des institutions publiques, etc. Les personnes morales ont des droits et des obligations propres : elles peuvent posséder des biens, signer des contrats, engager des actions en justice ou être poursuivies.
 >
@@ -104,7 +104,7 @@ Nous approfondirons cette approche organique dans la première partie du cours, 
 
 ##### Définition fonctionnelle de l'administration
 
-La deuxième approche est l'approche fonctionnelle de l'administration, cette fois écrite avec un « a » minuscule. Dans cette perspective, l'administration est définie par ses fonctions. Elle est vue comme un ensemble d'activités ayant pour finalité l'intérêt général. L'administration agit toujours en visant cet objectif. Ainsi, les activités d'intérêt général, c'est-à-dire les services publics, sont prises en charge par les personnes publiques pour répondre aux besoins de la population.
+La deuxième approche est l'approche fonctionnelle de l'administration, cette fois écrite avec un « a » minuscule. Dans cette perspective, l'administration est définie par ses fonctions. Elle est vue comme un ensemble d'activités ayant pour finalité l'intérêt général. L'administration agit toujours en visant cet objectif. Ainsi, les activités d'intérêt général, c'est-à-dire les services publics, sont prises en charge par les personnes publiques pour répondre aux besoins de la population.
 
 Deux grandes fonctions de l'administration :
 
@@ -112,8 +112,104 @@ La première fonction de l'administration est d'assurer le maintien de l'ordre p
 
 La deuxième grande mission de l'administration est d'offrir à la population certaines prestations. Il s'agit des services publics, qui sont des activités d'intérêt général que l'administration propose dans divers domaines tels que l'environnement, la santé, les transports publics et la culture. Ainsi, les services publics regroupent toutes ces activités d'intérêt général que l'administration exerce au profit de la population dans ces domaines.
 
-### 3. L’administration et le droit
+### Ⅲ. L'administration et le droit
+
+L'histoire du droit administratif est celle de la soumission progressive de l'administration au droit. Il existe deux grands modèles théoriques qui permettent d'analyser les relations entre l'administration et l'État : **l'État de police** et **l'État de droit**.
+
+L'État de police est un État dans lequel règne l'arbitre administratif. Dans un tel État, l'administration s'affranchit du respect de la règle de droit et ne se considère pas liée par celle-ci. De plus, aucun organe n'est chargé de contrôler et de vérifier que l'administration demeure conforme. On dit parfois que l'Ancien Régime, avant la Révolution française, correspondait à cette forme d'État de police.
+
+L'État de droit, à l'inverse, est devenu la norme de toutes les démocraties occidentales. L'État de droit est un État dans lequel le politique est soumis au droit, dans lequel l'administration est soumise au droit, et dans lequel les droits de l'homme sont protégés. Notre modèle administratif relève de cette catégorie. L'administration est donc soumise au droit, ce qui constitue le principe de légalité. Ce principe est très important en droit administratif et signifie exactement la soumission de l'administration au droit.
+
+Cette soumission de l'administration au droit est garantie par l'existence de juridictions, notamment de la juridiction administrative, qui peut, par saisie des administrés, contrôler l'administration. Ainsi, le juge administratif, saisi par les administrés, peut vérifier que l'administration respecte bien la légalité. Il peut annuler des actes administratifs s'ils sont illégaux, et peut également engager la responsabilité de l'administration. Cette soumission de l'administration au droit ne s'est pas faite du jour au lendemain ; elle a été très progressive.
+
+Cependant, il est important de souligner que l'administration n'est pas uniquement soumise au droit administratif. Dans certains cas, elle est régie par le Droit privé. Par exemple, elle peut conclure des contrats relevant du Code civil, comme lorsqu'elle décide de vendre des locaux qui lui appartiennent. De même, si elle prend en charge une activité économique, elle sera soumise au droit de la concurrence, qui constitue des règles de droit privé. Toutefois, l'administration est également et surtout soumise à un ensemble de règles spéciales dérogeant au droit commun, élaborées par les juges administratifs au fil de l'histoire. Le droit administratif représente ainsi un ensemble de règles spéciales dérogatoires au droit commun, applicables à l'administration et façonnées par le juge administratif.
+
+La part du droit administratif est importante, mais en réalité, celle du droit privé l'est également. Cependant, dans notre cours, seule la partie où l'administration est soumise au droit administratif nous intéresse. Le droit administratif, donc, est un ensemble de règles spéciales applicables à l'administration.
 
 ## Section 2 : Naissance du droit administratif
+
+Un grand professeur de droit public, Prosper Weil, a décrit le droit administratif comme relevant d'un « miracle ». Toutefois, en réalité, le droit administratif n'est pas le fruit d'un miracle. Il est le produit de son histoire et de son évolution, résultant de plusieurs événements qui se sont succédés au fil du temps.
+
+Il est étonnant de constater l'existence du droit administratif, car il n'est pas reconnu dans tous les États du monde. Dans certains États, l'administration n'est pas soumise à un droit spécifique mais est simplement régie par le droit commun.
+
+Ce n'est pas le cas en France. Examinons donc comment le droit administratif est né. Nous verrons qu'il est le produit de l'histoire et que la doctrine a toujours cherché à lui donner une légitimité et une armature conceptuelle. L'approche doctrinale fera l'objet de notre étude.
+
+### I. Approche historique
+
+Le droit administratif n'a pas un acte de naissance unique ou précis. Il résulte de la convergence de trois éléments.
+
+#### A. La loi des 16-24 août 1790
+
+Nous sommes au lendemain de la Révolution française. Par la loi des 16-24 août 1790, les révolutionnaires établissent un principe fondamental : la séparation des autorités administratives et judiciaires. Cette loi est souvent présentée par la doctrine comme l'acte fondateur du droit administratif et comme la source de notre système contemporain de dualité juridictionnelle. Elle constitue la source initiale du dualisme juridictionnel et représente une étape très importante vers ce système. En effet, cette loi marque le début d'un processus qui conduit progressivement à l'apparition du juge administratif et à la naissance du droit administratif.
+
+##### 1. Le texte
+
+La loi contient un article particulièrement important pour nous : l'article 13. Cet article comporte deux paragraphes essentiels. Le premier précise que les fonctions judiciaires sont distinctes et séparées des fonctions administratives. Le second paragraphe, tout aussi crucial, stipule que les juges ne peuvent en aucun cas troubler les opérations des corps administratifs.
+
+> Article 13. Les fonctions judiciaires sont distinctes et demeureront toujours séparées des fonctions administratives. Les juges ne pourront, à peine de forfaiture, troubler, de quelque manière que ce soit, les opérations des corps administratifs, ni citer devant eux les administrateurs pour raison de leurs fonctions.
+
+Cet article 13 établit en réalité deux principes : le **principe de séparation** et le **principe d'interdiction**.
+
+Le principe de séparation consiste à distinguer au sein de l'État deux fonctions distinctes : la fonction judiciaire et la fonction administrative. Ces deux fonctions doivent demeurer absolument séparées et indépendantes l'une de l'autre.
+
+Une fois ce principe de séparation proclamé, un second principe est posé, à savoir le principe d'interdiction. La loi interdit aux juges judiciaires de connaître des affaires administratives. Ainsi, les citoyens, les administrés, ne peuvent saisir les juridictions judiciaires si leurs recours portent sur les actions de l'administration. En d'autres termes, les citoyens ne pourront pas contester les actions de l'administration devant le juge judiciaire, puisqu'il leur est interdit de porter ces affaires devant lui. Ce type de recours serait donc irrecevable.
+
+##### 2. Le contexte
+
+Cette loi, datée des 16 et 24 août 1790, s'explique par le contexte historique et l'idéologie imprégnant la période révolutionnaire. Elle est avant tout le fruit de l'histoire. Les révolutionnaires se méfiaient du pouvoir judiciaire. Pourquoi ? Parce que sous l'Ancien Régime, les parlements provinciaux, dotés d'une véritable fonction juridictionnelle, menaient une guerre politique et juridique contre le pouvoir royal. Ces parlements, bien qu'étant des tribunaux, s'étaient systématiquement opposés au pouvoir en place, bloquant les tentatives de réforme administrative et n'hésitant pas à donner des instructions aux agents du roi ou à les citer en justice. Les révolutionnaires, se souvenant des abus des parlements sous l'Ancien Régime, ont voulu briser toute velléité de ces tribunaux à défier l'autorité de l'État ou à s'immiscer dans l'exercice du pouvoir exécutif.
+
+> Dans le contexte de l'Ancien Régime en France, les **parlements provinciaux** étaient des **cours de justice** qui avaient un rôle judiciaire et parfois politique. Ils faisaient partie du système judiciaire du royaume et représentaient des tribunaux supérieurs dans les provinces. Voici quelques caractéristiques principales de ces parlements provinciaux :
+>
+> 1. **Fonctions judiciaires** : Les parlements provinciaux étaient chargés de rendre la justice dans des affaires civiles, criminelles et administratives. Ils représentaient les plus hautes instances judiciaires dans les provinces, juste en dessous du roi.
+>
+> 2. **Pouvoirs de remontrance** : Outre leurs fonctions judiciaires, les parlements provinciaux avaient également un pouvoir de "remontrance", c'est-à-dire qu'ils pouvaient critiquer et s'opposer aux édits et ordonnances du roi avant de les enregistrer. Ce pouvoir leur permettait de jouer un rôle politique indirect, bien qu'ils ne puissent pas annuler les décisions royales de manière définitive.
+>
+> 3. **Enregistrement des lois royales** : Avant qu'une loi ou un édit royal puisse être appliqué dans une province, il devait être enregistré par le parlement provincial. En refusant d'enregistrer certains édits, les parlements pouvaient ainsi bloquer temporairement des décisions royales. Cela provoquait souvent des tensions avec la monarchie, notamment sous Louis XIV et Louis XV.
+>
+> 4. **Composition** : Les parlements étaient principalement composés de magistrats issus de la noblesse de robe, une classe de noblesse qui avait acheté ses charges judiciaires. Ces magistrats étaient en général nommés à vie et se transmettaient souvent leurs charges de père en fils.
+>
+> 5. **Rôle dans les provinces** : En plus du Parlement de Paris, il existait plusieurs autres parlements dans les provinces, comme ceux de Toulouse, Bordeaux, Dijon, Rouen, Grenoble, Aix-en-Provence, Rennes, etc. Chaque parlement était responsable d'une région géographique spécifique du royaume.
+>
+> 6. **Opposition au pouvoir royal** : À la fin de l'Ancien Régime, les parlements provinciaux sont devenus des foyers de résistance à la centralisation du pouvoir royal. Ils se sont souvent opposés aux réformes fiscales et politiques voulues par la monarchie, notamment durant les dernières années avant la Révolution française.
+>
+> En résumé, les parlements provinciaux sous l'Ancien Régime étaient des institutions judiciaires influentes qui jouaient également un rôle politique en régulant la mise en application des lois royales dans les provinces. Leur pouvoir d'opposition à certaines réformes leur a valu un rôle notable dans l'histoire des tensions entre la monarchie et les élites provinciales avant la Révolution française.
+
+Un adage célèbre, formulé par le Baron de Pierre Henrion de Pansey, exprime bien cette idée : « Juger l'administration, c'est encore administrer. » Cet adage illustre l'interdiction faite aux juges de s'immiscer dans la fonction administrative. L'objectif est donc clair : protéger l'administration contre l'intervention des juges judiciaires.
+
+Cette loi est également imprégnée de l'idéologie de l'époque. La séparation des autorités administratives et judiciaires est perçue comme une conséquence naturelle de la séparation des pouvoirs. Les révolutionnaires considéraient que les abus des parlements sous l'Ancien Régime avaient dénaturé l'exercice du pouvoir judiciaire. Il était donc nécessaire de séparer strictement le pouvoir judiciaire de la fonction administrative.
+
+Cependant, il est important de ne pas confondre ce principe de séparation des autorités administratives et judiciaires avec celui de la séparation des pouvoirs. Bien que ce dernier constitue l'arrière-plan idéologique, la loi de 1790 concerne uniquement le pouvoir judiciaire, et non l'ensemble des trois pouvoirs. Il s'agit donc d'une théorie distincte de la séparation des pouvoirs beaucoup plus générale.
+
+##### 3. Les conséquences de ce texte
+
+Est-ce que ce texte a conduit à la création du droit administratif ? Non. Ce texte ne crée pas le droit administratif. Son objectif est d'interdire aux tribunaux existants de connaître des recours contre les actes de l'administration, autrement dit, de soustraire l'administration à tout contrôle judiciaire. Ainsi, à partir de 1790, l'administration est exemptée de toute forme de recours juridictionnel, ce qui lui permet d'agir en toute impunité.
+
+Si un administré souhaite contester un acte de l'administration, il n'a pas d'autre solution que de s'adresser à l'administration elle-même. Les réclamations remontent alors la hiérarchie administrative pour être finalement traitées par le ministre, selon ce qu'on appelle la théorie du **ministre-juge** ou encore le système de la **justice retenue**. Cependant, dans un tel système, l'administration est à la fois juge et partie, ce qui pose problème. Le ministre, avant tout responsable politique, ne possède pas les qualités essentielles d'une juridiction, telles que l'indépendance et l'impartialité.
+
+> La **justice retenue** est un concept juridique qui désigne la justice exercée directement par le roi sous l'Ancien Régime en France, en opposition à la **justice déléguée**, qui était confiée à des tribunaux et magistrats.
+>
+> Caractéristiques de la justice retenue :
+>
+> 1. **Autorité royale directe** : Dans le cadre de la justice retenue, le roi conservait un pouvoir judiciaire direct et personnel, intervenant dans certaines affaires, notamment pour des cas particuliers ou exceptionnels. Ce pouvoir lui permettait de rendre des décisions sans passer par les tribunaux ordinaires.
+>
+> 2. **Privilège du roi** : Le roi était considéré comme la source de toute justice dans le royaume, selon la doctrine que "le roi est la fontaine de justice". En théorie, tous les jugements rendus par les tribunaux étaient émis en son nom, mais dans le cas de la justice retenue, le roi n'avait pas délégué ce pouvoir à des magistrats ou des institutions judiciaires. Il pouvait ainsi intervenir directement pour réviser ou annuler des décisions, notamment lorsqu'il y avait des litiges impliquant des hauts personnages de l'État ou des affaires politiques sensibles.
+>
+> 3. **Conseil du roi** : Le roi rendait souvent la justice retenue par l'intermédiaire de son **Conseil d'État**, qui examinait des affaires importantes, telles que des conflits entre grands seigneurs, des contestations d'actes administratifs ou des affaires touchant aux privilèges des provinces. Le Conseil d'État agissait donc comme un tribunal de justice retenue pour certaines causes spécifiques.
+>
+> 4. **Grâces et lettres de cachet** : La justice retenue se manifestait aussi par l'octroi de **grâces royales** ou par l'usage des **lettres de cachet**. Ces lettres étaient des ordres royaux qui permettaient, entre autres, l'emprisonnement ou l'exil d'une personne sans jugement, ou la remise de peines. C'était un exemple d'un exercice direct et absolu de la justice royale.
+>
+> 5. **Équilibre avec la justice déléguée** : La **justice déléguée** était, quant à elle, celle confiée à des tribunaux comme les parlements ou les cours seigneuriales. Le roi déléguait à ces institutions l'administration de la justice ordinaire. Mais, avec la justice retenue, il avait la capacité de reprendre ou de modifier une affaire en dehors de cette délégation.
+>
+> Rôle et portée :
+>
+> La justice retenue illustrait le pouvoir absolu du roi et son rôle de souverain qui pouvait décider, au-dessus des institutions judiciaires classiques, du sort des affaires considérées comme relevant de sa compétence directe. Cela permettait au roi de garder un contrôle sur des affaires sensibles ou politiquement importantes, mais cette pratique pouvait aussi être perçue comme arbitraire et discrétionnaire, particulièrement en ce qui concerne les lettres de cachet.
+>
+> En résumé, la justice retenue était un outil du pouvoir royal pour intervenir directement dans la justice du royaume, ce qui reflétait le caractère centralisé et absolu de la monarchie française sous l'Ancien Régime.
+
+#### B. La loi du 24 mai 1872
+
+#### C. L'arrêt Blanco (TC, 8 février 1873)
+
+### Ⅱ. Approche doctrinale
 
 ## Section 3 : Caractères du droit administratif
