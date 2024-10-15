@@ -72,7 +72,7 @@ Le modèle juridique français est en effet marqué par trois grands dualismes f
 
   Il nécessite d'examiner de plus près l'une des deux cours suprêmes, le Conseil d'État.
 
-  Le Conseil d'État n'est pas une juridiction comme les autres. C'est un organe doté de deux grands types de fonctions. Le Conseil d'État exerce des fonctions juridictionnelles : il tranche des litiges sur la base de règles de droit, mais il exerce également des fonctions consultatives, qui constituent sa fonction historique. Le Conseil d'État a été créé au XVIIIᵉ siècle par Napoléon, en tant que conseiller de l'exécutif. Cette mission consultative est donc sa fonction historique. Aujourd'hui, ce dualisme fonctionnel et statutaire demeures : le Conseil d'État exerce à la fois des attributions juridictionnelles et consultatives. Le droit administratif répond ainsi à la fois à l'idée de droit et à celle d'administration.
+  Le Conseil d'État n'est pas une juridiction comme les autres. C'est un organe doté de deux grands types de fonctions. Le Conseil d'État exerce des fonctions juridictionnelles : il tranche des litiges sur la base de règles de droit, mais il exerce également des fonctions consultatives, qui constituent sa fonction historique. Le Conseil d'État a été créé au XVIIIᵉ siècle (1799) par Napoléon, en tant que conseiller de l'exécutif. Cette mission consultative est donc sa fonction historique. Aujourd'hui, ce dualisme fonctionnel et statutaire demeures : le Conseil d'État exerce à la fois des attributions juridictionnelles et consultatives. Le droit administratif répond ainsi à la fois à l'idée de droit et à celle d'administration.
 
 ### Ⅱ. L'administration
 
@@ -208,8 +208,136 @@ Si un administré souhaite contester un acte de l'administration, il n'a pas d'a
 
 #### B. La loi du 24 mai 1872
 
+##### 1. Le contenu
+
+Cette loi du 24 mai 1872, elle est fondamentale pour deux raisons.
+
+D'abord, la loi de 1872 attribue des compétences juridictionnelles au Conseil d'État. Comme nous l'avons mentionné au début du cours, le Conseil d'État a été créé par Napoléon en 1799, avec la Constitution de l'an VIII, en tant que conseiller de l'exécutif. À sa création, le Conseil d'État n'avait qu'une fonction consultative, étant simplement un conseiller de l'exécutif.
+
+> « Sous la direction des consuls, un Conseil d'État est chargé de rédiger les projets de lois et les règlements d'administration publique, et de résoudre les difficultés qui s'élèvent en matière administrative. » Article 52 de la Constitution du 22 frimaire an VIII
+
+Cependant, avec la loi de 1872, le Conseil d'État reçoit des compétences juridictionnelles. Cette loi marque officiellement la naissance du juge administratif, et donc la création d'un véritable ordre juridictionnel administratif distinct du juge judiciaire. Cela entraîne la mise en place d'un système de dualisme juridictionnel.
+
+En raison de cette dualité, il devient nécessaire de disposer d'un organe capable de trancher les conflits de compétence entre ces deux ordres.
+
+C'est le deuxième grand apport de cette loi : la création du Tribunal des conflits. Ce tribunal est chargé de trancher les litiges de compétence entre les juges judiciaires et les juges administratifs, consacrant ainsi le dualisme juridictionnel que nous connaissons aujourd'hui.
+
+Cette loi de 1872 marque donc la création du juge administratif et le passage de la justice retenue à la justice déléguée. Désormais, le Conseil d'État peut rendre des décisions en son propre nom, la décision finale n'appartenant plus aux ministres comme dans l'ancien système du ministre-juge.
+
+Cependant, la loi de 1872 précise également que le Conseil d'État ne peut juger des actes de l'administration que si une disposition légale lui confère cette compétence. Autrement dit, sa compétence est strictement déterminée par la loi, et il ne peut connaître des actes administratifs que si une loi le prévoit. Pendant quelques années, le Conseil d'État a donc fondé sa compétence uniquement sur des textes législatifs, n'ayant pas une compétence générale sur l'administration. Par la suite, il s'est progressivement émancipé de cette contrainte.
+
+##### 2. Les suites
+
+Quelques années plus tard, en 1889, le Conseil d'État rend une décision fondamentale : l'arrêt Cadot de 1889. Par cette décision, le Conseil d'État renouvelle et affirme sa compétence. Il rompt avec l'idée qu'il doit obligatoirement s'appuyer sur un texte pour fonder sa compétence de juge administratif. En effet, il s'affirme comme le juge de droit commun de l'administration, disposant d'une compétence générale en la matière, même en l'absence de texte légal l'autorisant explicitement à connaître des actes ou actions administratives. Ainsi, à partir de l'arrêt Cadot, le Conseil d'État se considère compétent de manière générale.
+
+Cependant, est-ce que cette évolution a abouti à la création du droit administratif ? Toujours pas. En effet, avec la loi du 24 mai 1872 et l'arrêt Cadot, il n'existe toujours pas de droit administratif en tant que tel. Ce qui existe désormais, c'est un véritable juge de l'administration et une juridiction administrative indépendante. Pourtant, ce juge aurait pu se contenter d'appliquer le droit commun existant sans créer de droit spécifique pour l'administration.
+
+La création de ce droit spécifique, autonome par rapport au droit commun, découle d'une décision majeure du Tribunal des conflits, marquant une étape cruciale dans l'autonomisation du droit administratif.
+
 #### C. L'arrêt Blanco (TC, 8 février 1873)
+
+L'arrêt Blanco est en effet une décision emblématique, souvent considérée comme la « tarte à la crème » du droit administratif en raison de son importance et de sa perfection dans l'histoire de cette discipline. Rendue par le Tribunal des conflits le 8 février 1873, cette décision est la plus célèbre et la plus fondamentale en droit administratif.
+
+##### 1. Les faits
+
+Nous sommes à Bordeaux, en 1871. Une petite fille de cinq ans et demi, Agnès Blanco, joue aux abords d'une manufacture de tabac appartenant à l'État. Quatre employés sortent de l'usine en poussant un wagonnet et heurtent une vitre. Le wagonnet passe sur la jambe de la fillette, lui écrase la jambe, nécessitant son amputation. Cet événement tragique est à l'origine de l'arrêt Blanco.
+
+Un article rédigé par le professeur de droit public Frédéric Rolin, qui a en réalité mené l'enquête sur cette affaire, souligne l'importance de cet arrêt. Le professeur Rolin a découvert que la véritable identité de la fillette était Ignacia Blanco, une enfant d'origine espagnole. Il a publié un article intitulé « Elle s'appelait Ignacia », démontrant ainsi que cet arrêt est devenu un véritable mythe fondateur du droit administratif.
+
+Le père d'Agnès Blanco, ou Ignacia, souhaite obtenir réparation pour le préjudice subi. Il demande une indemnisation à l'État, puisque la manufacture de tabac appartient à l'État. Pour ce faire, il saisit le tribunal judiciaire de Bordeaux, compétent pour traiter ce type de recours en responsabilité. Cependant, le préfet de la Gironde intervient, estimant que, puisque la manufacture relève de l'administration publique (l'administration des tabacs), l'affaire devrait être jugée par le juge administratif, récemment institué.
+
+Ainsi, un conflit de compétence se crée entre le juge judiciaire et le juge administratif. Pour trancher ce différend, le préfet de la Gironde saisit le Tribunal des conflits, afin de déterminer quelle juridiction est compétente pour juger cette affaire.
+
+##### 2. La portée
+
+En deux paragraphes, le Tribunal des conflits établit les fondements d'un droit spécial applicable à l'administration. Dans le premier paragraphe, il estime que la responsabilité de l'État pour les dommages causés aux particuliers, du fait des personnes employées dans les services publics, ne peut être régie par le Code civil. Cela signifie que la responsabilité de l'État dans le cadre des services publics relève d'un régime distinct du droit commun.
+
+Dans le second paragraphe, le Tribunal des conflits précise que cette responsabilité n'est ni générale ni absolue, mais qu'elle suit des règles spéciales. Ces règles varient en fonction des besoins du service public et de la nécessité de concilier les droits de l'État avec ceux des particuliers. Ces formulations célèbres posent les bases d'un droit administratif distinct, avec un régime spécifique de responsabilité applicable à l'administration.
+
+> Considérant que la responsabilité, qui peut incomber à l'Etat, pour les dommages causés aux particuliers par le fait des personnes qu'il emploie dans le service public, ne peut être régie par les principes qui sont établis dans le Code civil, pour les rapports de particulier à particulier ;
+>
+> Que cette responsabilité n'est ni générale, ni absolue ; qu'elle a ses règles spéciales qui varient suivant les besoins du service et la nécessité de concilier les droits de l'Etat avec les droits privés ;
+>
+> Que, dès lors, aux termes des lois ci-dessus visées, l'autorité administrative est seule compétente pour en connaître ;
+
+L'arrêt Blanco est important pour quatre raisons principales :
+
+1. **Reconnaissance de la responsabilité de l'État** : Le Tribunal des conflits reconnaît que l'État est responsable des dommages causés par les personnes qu'il emploie dans le cadre des services publics. C'est la reconnaissance d'une responsabilité administrative spécifique, liée au fonctionnement des services publics.
+
+2. **Règles spéciales, distinctes du Code civil** : Cette responsabilité ne suit pas les règles du Code civil applicables aux personnes privées. Elle obéit à des règles spéciales propres à l'administration, marquant ainsi la naissance du futur droit administratif, encore en gestation à l'époque.
+
+3. **Le service public, critère de compétence** : L'arrêt Blanco fait du service public le critère déterminant de la compétence du juge administratif et de l'application du droit administratif. Dès qu'un service public, c'est-à-dire une activité d'intérêt général, est en cause, les règles du droit administratif s'appliquent. Ce principe est également souligné dans les conclusions du commissaire du gouvernement David.
+
+   > Le **commissaire du gouvernement** est une figure clé du droit administratif français, notamment dans le fonctionnement du Conseil d'État et des juridictions administratives (tribunaux administratifs et cours administratives d'appel). Malgré son titre, il n'est ni membre du gouvernement, ni représentant de celui-ci, mais plutôt un magistrat chargé de présenter ses conclusions dans les affaires devant les juridictions administratives. Depuis 2009, cette fonction est officiellement appelée rapporteur public.
+
+4. **Principe de liaison de la compétence et du fond** : L'arrêt affirme le principe de la liaison de la compétence et du fond, signifiant qu'il existe un lien direct et réciproque entre la compétence du juge administratif et l'application des règles autonomes et dérogatoires au droit privé. En d'autres termes, la compétence du juge administratif découle du fait que ces règles spéciales du droit administratif sont en jeu. Cet adage est parfois formulé ainsi : « La compétence suit le fond. »
+
+   « La compétence suit le fond » signifie que lorsqu'un litige doit être jugé selon les règles dérogatoires au droit commun du droit administratif, sa résolution est confiée au juge administratif. En d'autres termes, c'est parce que le litige concerne des règles spécifiques du droit administratif que le juge administratif en devient compétent. Ce principe est apprécié par les juges administratifs, car il justifie leur rôle dans les affaires concernant l'administration. Cependant, il est important de noter que ce principe n'est pas absolu et qu'il existe des exceptions.
+
+En résumé, le droit administratif est né parce que la juridiction administrative s'est progressivement constituée et a décidé d'appliquer à l'administration des règles spéciales, distinctes du droit commun. Ce droit spécifique est issu de la création du juge administratif, qui a choisi de ne pas se référer aux règles de droit commun et a développé des principes dérogatoires propres à l'administration. Ainsi, on peut retenir que le droit administratif est l'ensemble des règles spéciales applicables à l'administration, élaborées et appliquées par le juge administratif. Par la suite, la doctrine a travaillé à donner à ce droit une armature conceptuelle solide et cohérente.
 
 ### Ⅱ. Approche doctrinale
 
+La doctrine a cherché à justifier la compétence du juge administratif et l'application de règles spéciales. Elle s'est donc engagée dans la recherche du critère du droit administratif, une notion fondamentale permettant de déterminer quand le droit administratif s'applique. La doctrine a ainsi tenté de définir ce critère, afin d'expliquer pourquoi le droit administratif s'applique dans certains cas. Les auteurs ont recherché un critère unique, mais ils ne l'ont jamais trouvé.
+
+#### A. La recherche d'un critère unique
+
+À l'origine, deux conceptions doctrinales se sont opposées quant à la recherche du critère du droit administratif.
+
+##### L'école de la puissance publique
+
+La première conception doctrinale est celle de l'école de la puissance publique, portée par le doyen Maurice Hauriou, une figure essentielle du droit administratif. Hauriou, professeur à l'université de Toulouse, a développé cette doctrine, souvent appelée « doctrine de l'école de Toulouse ».
+
+Maurice Hauriou estime que c'est la spécificité des moyens employés par l'administration qui justifie à la fois la compétence du juge administratif et l'application du droit administratif. Selon lui, ces moyens particuliers, appelés **prérogatives de puissance publique (PPP)**, permettent à l'administration de remplir ses missions d'intérêt général. Ces prérogatives, qui sont des pouvoirs exorbitants par rapport aux droits communs, légitiment l'application de règles spéciales, dérogatoires au droit commun, pour régir les actions de l'administration.
+
+On peut illustrer les **prérogatives de puissance publique** par trois exemples principaux :
+
+1. **Les actes administratifs unilatéraux (AAU)** : L'administration a le pouvoir d'édicter des actes administratifs unilatéraux, c'est-à-dire des décisions qu'elle prend seule, qui s'imposent aux citoyens sans que ceux-ci puissent exprimer leur consentement. C'est un pouvoir exorbitant que les personnes privées n'ont pas.
+
+2. **Le privilège du préalable** : Ce privilège permet à l'administration de rendre ses décisions exécutoires immédiatement, sans avoir besoin d'une intervention préalable d'une autre autorité ou d'une autorisation judiciaire. L'administration peut ainsi faire appliquer ses décisions directement.
+
+3. **L'exécution forcée** : L'administration dispose du pouvoir de contraindre les administrés à exécuter certaines obligations. Par exemple, elle peut procéder à l'expulsion d'occupants irréguliers d'un site, sans avoir à recourir à une procédure judiciaire préalable.
+
+Selon l'école de la puissance publique, portée par Maurice Hauriou, c'est l'usage des prérogatives de puissance publique par l'administration qui justifie la compétence du juge administratif et l'application du droit administratif. Cependant, cette première conception s'est heurtée à une autre conception, à une autre école de pensée.
+
+##### L'école du service public
+
+L'autre école de pensée est celle du service public, portée par le doyen **Léon Duguit** de l'université de Bordeaux, opposant ainsi Toulouse à Bordeaux. Pour Duguit, l'État ne doit pas être vu avant tout comme une puissance de commandement, mais comme une **coopération de services publics**. Selon lui, ce qui justifie la compétence du juge administratif et l'application du droit administratif, ce ne sont pas les moyens employés par l'administration, mais les fins poursuivies. Duguit met l'accent sur le but de l'action administrative, qui est le service public, c'est-à-dire une activité d'intérêt général prise en charge par des personnes publiques.
+
+L'École du service public s'est en effet appuyée largement sur l'arrêt Blanco pour soutenir sa conception. Cet arrêt, comme nous l'avons vu, faisait du service public le critère central du droit administratif.
+
+#### B. L'impossible critère unique
+
+Finalement, ces deux thèses ont été critiquées, car la recherche d'un critère unique du droit administratif s'est révélée impossible.
+
+Chaque thèse présente en effet des limites :
+
+Effectivement, l'administration n'a pas seulement des prérogatives exorbitantes, elle est également soumise à des sujétions, c'est-à-dire à des contraintes spécifiques. Ces « prérogatives en moins » imposent à l'administration des obligations, telles que l'obligation d'agir toujours dans l'intérêt général et de respecter les grandes lois du service public. Même dans ces situations de contrainte, où l'administration est soumise à des règles limitant ses actions, le droit administratif continue de s'appliquer. Cela démontre que la présence de prérogatives de puissance publique ne peut pas être un critère absolu pour définir le droit administratif, car celui-ci s'applique également lorsque l'administration se trouve sous des contraintes.
+
+La deuxième thèse, celle du service public, présente également des limites. En effet, certains services publics sont soumis au **droit privé**. Le service public ne peut donc pas être le critère exclusif qui déclenche la compétence du juge administratif et l'application du droit administratif. Autrement dit, il ne suffit pas qu'un service public soit en cause pour que le droit administratif s'applique automatiquement et que le juge administratif soit compétent. Certains services publics, bien que relevant de l'intérêt général, sont régis par des règles de droit privé.
+
+On doit à Jean Rivero d'avoir montré que la question du critère unique du droit administratif est mal posée. Il n'y a, en réalité, aucune raison de supposer que le droit administratif devrait se réduire à une seule idée explicative. Après tout, ni le droit privé, ni le droit pénal, ni le droit commercial ne reposent sur un critère unique. À la suite de Jean Rivero, la doctrine adopte aujourd'hui une approche pluraliste du droit administratif.
+
+Rivero propose qu'il n'existe pas un seul critère, mais plusieurs notions fondamentales qui structurent le droit administratif. Celui-ci est orienté vers un but, l'intérêt général, qui peut être atteint soit par des prérogatives de puissance publique (dérogations en plus), soit par des sujétions (dérogations en moins). Ainsi, le droit administratif repose sur plusieurs concepts clés, comme l'intérêt général, le service public, et la puissance publique. Ces notions constituent les fondements idéologiques du droit administratif.
+
 ## Section 3 : Caractères du droit administratif
+
+Après avoir étudié certaines démonstrations et l'histoire de la naissance du droit administratif, abordons ses caractères. La doctrine du droit administratif attribue des caractères généraux et classiques à ce droit. Toutefois, ces caractères ont évolué au fil du temps et ont connu des mutations. À l'origine, le droit administratif ne possédait que trois caractères : il est autonome, jurisprudentiel et exorbitant. Pour chacun de ces trois caractères, nous examinerons d'abord l'aspect classique, puis ses mutations et l'évolution du caractère classique.
+
+### I. Un droit autonome
+
+#### A. Un caractère classique (autonome)
+
+#### B. Des tempéraments (autonome)
+
+### Ⅱ. Un droit jurisprudentiel
+
+#### A. Un caractère classique (jurisprudentiel)
+
+#### B. Des tempéraments (jurisprudentiel)
+
+### Ⅲ. Un droit exorbitant ?
+
+#### A. Un caractère classique (exorbitant)
+
+#### B. Des tempéraments (exorbitant)
