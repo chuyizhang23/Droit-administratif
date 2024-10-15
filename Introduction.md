@@ -188,7 +188,7 @@ Si un administré souhaite contester un acte de l'administration, il n'a pas d'a
 
 > La **justice retenue** est un concept juridique qui désigne la justice exercée directement par le roi sous l'Ancien Régime en France, en opposition à la **justice déléguée**, qui était confiée à des tribunaux et magistrats.
 >
-> Caractéristiques de la justice retenue :
+> **Caractéristiques de la justice retenue :**
 >
 > 1. **Autorité royale directe** : Dans le cadre de la justice retenue, le roi conservait un pouvoir judiciaire direct et personnel, intervenant dans certaines affaires, notamment pour des cas particuliers ou exceptionnels. Ce pouvoir lui permettait de rendre des décisions sans passer par les tribunaux ordinaires.
 >
@@ -200,7 +200,7 @@ Si un administré souhaite contester un acte de l'administration, il n'a pas d'a
 >
 > 5. **Équilibre avec la justice déléguée** : La **justice déléguée** était, quant à elle, celle confiée à des tribunaux comme les parlements ou les cours seigneuriales. Le roi déléguait à ces institutions l'administration de la justice ordinaire. Mais, avec la justice retenue, il avait la capacité de reprendre ou de modifier une affaire en dehors de cette délégation.
 >
-> Rôle et portée :
+> **Rôle et portée :**
 >
 > La justice retenue illustrait le pouvoir absolu du roi et son rôle de souverain qui pouvait décider, au-dessus des institutions judiciaires classiques, du sort des affaires considérées comme relevant de sa compétence directe. Cela permettait au roi de garder un contrôle sur des affaires sensibles ou politiquement importantes, mais cette pratique pouvait aussi être perçue comme arbitraire et discrétionnaire, particulièrement en ce qui concerne les lettres de cachet.
 >
@@ -328,7 +328,80 @@ Après avoir étudié certaines démonstrations et l'histoire de la naissance du
 
 #### A. Un caractère classique (autonome)
 
+Le droit administratif s'est construit comme un droit autonome depuis l'arrêt Blanco. Cette notion d'autonomie signifie que l'administration est soumise à un droit spécial, particulier, exorbitant et dérogatoire au droit commun. Autonome signifie ici que le droit administratif est distinct, totalement séparé du droit privé. Un droit administratif autonome est donc un droit qui n'a rien à voir avec le droit privé, un droit entièrement étranger à ce dernier.
+
+Attention, cela ne signifie pas pour autant que le droit administratif et le droit privé ne s'influencent pas mutuellement. Il existe des influences croisées entre ces deux branches du droit. Cependant, ce qui est impossible, c'est d'appliquer directement une règle de droit privé à un litige administratif, et inversement. Malgré cela, il est vrai que la jurisprudence de la Cour de cassation influence parfois le Conseil d'État, et réciproquement.
+
+Cette autonomie existe donc depuis l'arrêt Blanco, et elle s'étend également aux autres grandes branches du droit public. En effet, le droit administratif est autonome non seulement vis-à-vis du droit privé, mais aussi par rapport aux autres branches du droit public, principalement le droit constitutionnel et le droit international public. Ces trois branches du droit public sont considérées comme étanches les unes vis-à-vis des autres.
+
+Une autonomie du droit administratif vis-à-vis du droit privé et des autres branches du droit public existe. Cependant, ces dernières années, cette autonomie a connu des tempéraments.
+
 #### B. Des tempéraments (autonome)
+
+L'autonomie du droit administratif est effectivement devenue moins évidente ces dernières années, notamment vis-à-vis des autres branches du droit public. On observe un double phénomène :
+
+Le premier phénomène est celui de la **constitutionnalisation** du droit administratif. Cette constitutionnalisation est liée à l'importance croissante de la Constitution dans toutes les branches du droit, y compris le droit administratif. La Constitution est désormais applicable dans de nombreux domaines, même en droit privé et en droit pénal, notamment depuis la création du **bloc de constitutionnalité**.
+
+> Le **bloc de constitutionnalité** désigne l'ensemble des normes constitutionnelles que le **Conseil constitutionnel** en France doit respecter et garantir dans ses décisions. Il ne se limite pas uniquement au texte de la **Constitution de 1958**, mais inclut d'autres principes et textes de valeur constitutionnelle. Ces normes forment une sorte de "bloc" que toutes les lois doivent respecter pour être considérées comme conformes à la Constitution.
+>
+> **Le bloc de constitutionnalité comprend :**
+>
+> 1. **La Constitution de 1958** : C'est le texte fondateur de la Ve République, qui définit l'organisation des pouvoirs publics et les grands principes institutionnels.
+>
+> 2. **La Déclaration des droits de l'homme et du citoyen de 1789 (DDHC)** : Ce texte fondamental énonce des principes comme la liberté, l'égalité, la propriété, et le droit à la sûreté. Il a été intégré au bloc de constitutionnalité par une décision du Conseil constitutionnel en 1971.
+>
+> 3. **Le Préambule de la Constitution de 1946** : Il inclut des droits économiques et sociaux, comme le droit à l'instruction, le droit à la santé, et la protection des travailleurs.
+>
+> 4. **La Charte de l'environnement de 2004** : Ce texte, intégré au bloc en 2005, consacre des droits et devoirs liés à la protection de l'environnement, comme le droit de vivre dans un environnement sain.
+>
+> 5. **Les principes fondamentaux reconnus par les lois de la République (PFRLR)** : Ce sont des principes dégagés par la jurisprudence du Conseil constitutionnel, qui se fondent sur des lois adoptées sous les Républiques antérieures à 1958, comme la liberté d'association ou la liberté de conscience.
+>
+> **Rôle du bloc de constitutionnalité :**
+>
+> Ce bloc sert de référence au Conseil constitutionnel pour examiner la constitutionnalité des lois. Chaque loi adoptée en France doit être conforme à l'ensemble de ces textes et principes. Si une loi viole l'un des éléments du bloc de constitutionnalité, elle peut être déclarée inconstitutionnelle et annulée.
+>
+> **Importance :**
+>
+> Le bloc de constitutionnalité est essentiel pour garantir les droits fondamentaux et assurer que les lois respectent les valeurs fondamentales de la République française. Il a élargi le contrôle constitutionnel au-delà de la simple organisation des pouvoirs, pour inclure les droits de l'homme, les droits sociaux, et la protection de l'environnement.
+
+Ce processus s'est particulièrement intensifié avec l'introduction de la **question prioritaire de constitutionnalité (QPC)**, qui permet de contester la conformité des actes administratifs à la Constitution. L'influence croissante du Conseil constitutionnel et de la QPC a donc joué un rôle majeur dans la constitutionnalisation du droit administratif, tout comme dans les autres branches du droit.
+
+> La **question prioritaire de constitutionnalité (QPC)** est un mécanisme juridique en France qui permet à tout justiciable (citoyen, entreprise, etc.), dans le cadre d'un procès, de contester la conformité d'une loi à la **Constitution**. Ce dispositif a été introduit par la **réforme constitutionnelle de 2008** et est en vigueur depuis 2010.
+>
+> **Fonctionnement de la QPC :**
+>
+> La QPC permet à un citoyen de demander, au cours d'une procédure judiciaire, que soit examiné si une loi déjà en vigueur respecte ou non les droits et libertés garantis par la **Constitution**, notamment ceux du **bloc de constitutionnalité**. Voici les étapes principales :
+>
+> 1. **Initiative** : La QPC peut être soulevée par une partie lors d'un procès devant une juridiction administrative ou judiciaire. Elle conteste la constitutionnalité d'une disposition législative qui est appliquée dans le cadre de cette affaire.
+>
+> 2. **Conditions de recevabilité** : Pour que la QPC soit transmise, elle doit remplir trois critères :
+>    - La loi contestée doit être applicable au litige en cours.
+>    - La loi ne doit pas déjà avoir été déclarée conforme à la Constitution par une décision du **Conseil constitutionnel**, sauf si le contexte a changé.
+>    - La question posée doit être nouvelle ou présenter un **caractère sérieux**.
+>
+> 3. **Filtrage** :
+>    - Si la question est posée devant un tribunal ou une cour, celle-ci décide si la QPC doit être transmise à la juridiction suprême compétente : la **Cour de cassation** (pour les affaires judiciaires) ou le **Conseil d'État** (pour les affaires administratives).
+>    - Ces juridictions supérieures jouent un rôle de filtre et décident si la QPC mérite d'être transmise au **Conseil constitutionnel** pour examen.
+>
+> 4. **Décision du Conseil constitutionnel** : Si la QPC est acceptée par la Cour de cassation ou le Conseil d'État, elle est envoyée au Conseil constitutionnel. Ce dernier examine alors si la loi en question est conforme à la Constitution. Il dispose de **trois mois** pour rendre sa décision.
+>
+> 5. **Effets de la décision** :
+>    - Si le Conseil constitutionnel déclare la loi inconstitutionnelle, celle-ci est **abrogée**. L'abrogation prend généralement effet à compter de la publication de la décision, mais le Conseil peut moduler dans le temps les effets de cette abrogation (par exemple, la reporter).
+>    - Si la loi est déclarée conforme, elle continue de s'appliquer.
+>
+> **Importance de la QPC :**
+>
+> La QPC est un instrument important pour garantir la protection des **droits et libertés fondamentaux** en France. Elle permet à tout citoyen de participer à la défense de la Constitution en contestant la constitutionnalité d'une loi qu'il estime contraire aux principes constitutionnels.
+>
+> Avant la mise en place de la QPC, une loi votée par le Parlement n'était contrôlée qu'avant sa promulgation par le Conseil constitutionnel, si elle était déférée à ce dernier par certaines autorités politiques (Président, Premier ministre, etc.). Désormais, avec la QPC, le contrôle de constitutionnalité peut se faire **a posteriori**, c'est-à-dire après l'entrée en vigueur de la loi, ce qui renforce la capacité des citoyens à protéger leurs droits.
+>
+> **En résumé :**
+>
+> La **QPC** est un mécanisme permettant à tout citoyen de demander, au cours d'un procès, la vérification de la constitutionnalité d'une loi. Si elle est acceptée, le Conseil constitutionnel peut abroger la loi si elle est jugée non conforme à la Constitution, renforçant ainsi la protection des droits fondamentaux et le contrôle démocratique des lois.
+
+Le deuxième phénomène est celui de l'**internationalisation** du droit administratif. Cette internationalisation est liée à l'importance croissante des traités internationaux que l'administration doit respecter. En effet, les traités internationaux s'imposent de plus en plus à l'administration. Par exemple, le droit administratif est désormais de plus en plus tributaire des traités internationaux, notamment du droit de l'Union européenne. Ainsi, le droit administratif est fortement influencé par le droit de l'Union européenne qui constitue une source importante du droit administratif aujourd'hui.
+
+Pour conclure sur ce premier caractère, l'autonomie du droit administratif par rapport au droit privé reste un principe fondamental. Cependant, cette autonomie est de plus en plus menacée et moins évidente vis-à-vis des autres branches du droit public, notamment le droit constitutionnel et le droit international.
 
 ### Ⅱ. Un droit jurisprudentiel
 
