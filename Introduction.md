@@ -407,10 +407,107 @@ Pour conclure sur ce premier caractère, l'autonomie du droit administratif par 
 
 #### A. Un caractère classique (jurisprudentiel)
 
+Le droit administratif est un droit fondamentalement jurisprudentiel. Le terme a été introduit par René Chapus, l'un des grands professeurs de droit administratif, qui a largement contribué à la compréhension de cette discipline. Souvent, le manuel de Chapus est encore référencé. Bien qu'il soit daté, il contient toujours des analyses fondamentales.
+
+Le droit administratif est fondamentalement **jurisprudentiel**, c'est-à-dire qu'il est majoritairement composé de décisions juridictionnelles et de pratiques développées par les juges. Le juge administratif a été le véritable **architecte** du droit administratif, jouant un rôle clé dans sa construction. C'est pourquoi on dit souvent que le juge administratif est l'artisan de cette branche du droit.
+
+Je vous avais d'ailleurs conseillé, pour approfondir, de consulter le **GAJA** (Grands Arrêts de la Jurisprudence Administrative), un recueil qui contient toutes les décisions de principe à l'origine des solutions et des évolutions des différents régimes administratifs.
+
+Il existe une véritable différence entre le droit administratif et le droit privé à cet égard. En droit privé, la loi joue un rôle beaucoup plus important, et on peut se référer au Code civil pour trouver les règles applicables. Rien de tel en droit administratif, qui est, à l'origine, essentiellement fondé sur la jurisprudence. Nous avons vu que c'est le juge administratif qui a construit de toutes pièces de nombreuses notions et régimes juridiques fondamentaux. Par exemple, il a forgé la notion d'ordre public, qui fonde le pouvoir de police administrative, et il en a progressivement étendu les contours. C'est également le juge administratif qui a défini les grands principes de fonctionnement des services publics. De plus, c'est encore le juge administratif qui a joué un rôle central dans la reconnaissance et l'intégration du droit international et du droit de l'Union européenne dans notre ordre juridique, révolutionnant ainsi la place de ces sources dans le droit administratif.
+
+Pourquoi la jurisprudence a-t-elle joué un rôle si fondamental en droit administratif ? Les raisons se trouvent dans l'histoire même de cette discipline. À la suite de l'arrêt Blanco, il a été clairement établi que les règles de droit privé, notamment celles du Code civil, ne s'appliquent pas aux relations entre l'administration et les administrés. Cependant, bien que l'arrêt Blanco ait évoqué l'existence de règles spéciales pour régir ces relations, aucun texte législatif n'est venu créer ces règles ni un code administratif. En l'absence de textes législatifs dédiés, c'est donc le juge administratif qui a pris le relais. Le juge, à travers ses décisions de principe, a progressivement élaboré ces règles spéciales évoquées dans l'arrêt Blanco, formalisant ainsi un cadre juridique pour régir les relations administratives.
+
 #### B. Des tempéraments (jurisprudentiel)
+
+Aujourd'hui, la situation est plus complexe. Le droit administratif est moins jurisprudentiel qu'il ne l'était auparavant. En effet, il repose de plus en plus sur des textes législatifs. Les règles applicables à l'administration se sont multipliées, et des codes sectoriels ont été adoptés, venant codifier la jurisprudence du Conseil d'État dans certains domaines spécifiques. Le législateur est ainsi intervenu pour formaliser certaines décisions jurisprudentielles en intégrant ces règles dans des textes de loi, ce qui a réduit la dépendance exclusive à la jurisprudence en droit administratif.
+
+Deux exemples de codes sectoriels qui codifient la jurisprudence du Conseil d'État sont :
+
+Le premier exemple de codification est l'ordonnance du 23 octobre 2015, qui a créé le **Code des relations entre le public et l'administration (CRPA)**. Ce code a codifié la jurisprudence administrative relative aux relations entre l'administration et ses interlocuteurs. Il rassemble les règles régissant les démarches, échanges et obligations réciproques entre le public et l'administration, tout en formalisant des principes jurisprudentiels établis par le Conseil d'État dans ce domaine.
+
+Le deuxième exemple est le **Code de la commande publique**, entré en vigueur en 2019. Ce code, pour la première fois, vient codifier les grands principes applicables aux **contrats administratifs**, que le juge administratif avait progressivement forgés tout au long du XXe siècle, dès les années 1900. Ce texte intègre ainsi des règles fondamentales que le juge administratif avait établies concernant les marchés publics, les concessions et les contrats de l'administration. Il formalise ces principes jurisprudentiels, inscrivant dans la loi les cadres juridiques essentiels du contrat administratif.
+
+Désormais, on peut effectivement dire que le droit administratif n'est plus exclusivement un droit jurisprudentiel.
 
 ### Ⅲ. Un droit exorbitant ?
 
 #### A. Un caractère classique (exorbitant)
 
+Au XIXe siècle, le droit administratif établissait un rapport déséquilibré en faveur de l'administration et au détriment des administrés. Il s'agissait d'un droit exorbitant, un droit de privilège pour l'administration. En effet, ce droit accordait à l'administration des prérogatives de puissance publique très importantes. Parmi ces prérogatives, on peut citer les actes administratifs unilatéraux (AAU), le privilège du préalable (exécution immédiate des décisions administratives), et le recours à l'exécution forcée sans passer par le juge. Ces privilèges conféraient à l'administration une position dominante par rapport aux administrés.
+
+À l'inverse, face aux prérogatives de puissance publique, les droits de l'administré apparaissaient très faibles, surtout à l'origine du droit administratif. Pendant longtemps, l'administré se trouvait dans une relation subordonnée et distante, réduit à « recevoir ou réclamer, à subir ou à se soumettre », comme le notait le Conseil d'État dans un rapport de 2011. Cette période était donc fortement déséquilibrée, en faveur de l'administration et au détriment des administrés, qui avaient peu de moyens pour défendre leurs droits. Cependant, ce déséquilibre date des origines du droit administratif et a évolué avec le temps.
+
 #### B. Des tempéraments (exorbitant)
+
+Les choses ont évolué dès le début du XXIe siècle. À cette période, le juge administratif a entrepris de trouver un meilleur équilibre entre les prérogatives exorbitantes de l'administration et les droits des administrés. Cette quête d'équilibre s'est manifestée de plusieurs manières.
+
+Nous pouvons citer deux exemples de ces tentatives de rééquilibrage de la relation entre l'administration et les administrés :
+
+Premier exemple de rééquilibrage : un changement **terminologique**. Au fil du temps, le vocabulaire utilisé pour désigner ceux qui interagissent avec l'administration a évolué. Autrefois, on parlait d'**administrés**, un terme qui évoquait passivité et soumission. Progressivement, ce terme a été remplacé par celui d'**usagers**, une notion plus dynamique. Un usager désigne une personne qui bénéficie d'une prestation, comme l'usager d'un service public, par exemple les transports publics. C'est un décret du 28 novembre 1983 qui a introduit ce terme en relation avec l'administration.
+
+Depuis l'ordonnance du 23 novembre 2015, qui a créé le Code des Relations entre le Public et l'Administration (CRPA), le terme utilisé est désormais **public**. Ce terme, plus large, inclut à la fois les personnes physiques et les personnes morales de droit privé dans leurs relations avec l'administration. Ce changement de vocabulaire marque une volonté de penser le droit administratif à partir de l'individu et de montrer que l'administration n'est plus toute-puissante. Le public a désormais une place centrale dans les considérations du législateur et du juge.
+
+Deuxième exemple de rééquilibrage : la **consécration de nouveaux droits** au profit des administrés, usagers, ou du public, tout au long du XXe siècle, pour rééquilibrer la relation avec l'administration. Plusieurs droits essentiels ont été reconnus, notamment le droit à la **transparence administrative**. Ce droit se concrétise à travers plusieurs dispositifs, tels que le **droit d'accès aux documents administratifs**, consacré par une loi de 1978, ou encore le **droit à la motivation des actes administratifs**, issu d'une loi de 1979. Ce dernier impose à l'administration d'expliquer les motifs de ses décisions, en particulier lorsqu'elles sont défavorables aux administrés. C'est une obligation de transparence qui oblige l'administration à justifier ses décisions.
+
+Un autre droit fondamental reconnu aux administrés est le **principe de sécurité juridique**, un principe consacré par le Conseil d'État dans l'arrêt KPMG de 2006. Ce principe garantit une certaine stabilité et prévisibilité des règles administratives, en évitant les changements brusques et rétroactifs. En 2006, le Conseil d'État a érigé ce principe en PGD (Principe Général du Droit), ce qui en fait une norme juridique fondamentale dans les relations entre l'administration et les administrés.
+
+> Le **principe de sécurité juridique** est un principe fondamental en droit français et européen qui garantit la stabilité et la prévisibilité du droit. Il vise à protéger les individus contre des changements imprévisibles et excessivement brusques de la législation ou de la réglementation, ainsi qu’à assurer la clarté et l’accessibilité des règles de droit. Ce principe est essentiel pour que les citoyens puissent organiser leurs affaires en fonction de la loi en vigueur, sans être soumis à des modifications soudaines qui pourraient les désavantager.
+>
+> **Définition du principe de sécurité juridique :**
+>
+> En pratique, le principe de sécurité juridique implique plusieurs éléments :
+>
+> - **Prévisibilité** : Les lois et règlements doivent être suffisamment clairs et stables pour que les citoyens et entreprises puissent comprendre et anticiper leurs effets.
+> - **Non-rétroactivité des lois** : Sauf exception, les nouvelles lois ne doivent pas affecter des situations juridiques passées ou des droits acquis.
+> - **Transitions progressives** : Lorsqu'une réglementation change, il doit y avoir des mesures transitoires pour permettre aux personnes concernées de s’adapter aux nouvelles règles.
+>
+> **L'arrêt KPMG du 24 mars 2006 :**
+>
+> L'arrêt KPMG, rendu par le Conseil d'État le 24 mars 2006, est une décision majeure qui a consacré le principe de sécurité juridique en droit administratif français, en imposant à l'administration d'accompagner les changements de réglementation avec des mesures transitoires pour éviter toute insécurité juridique.
+>
+> **Contexte de l'arrêt :**
+>
+> Dans cette affaire, le cabinet de conseil KPMG et d'autres sociétés ont contesté un décret de 2005 qui modifiait les règles relatives à la certification des comptes. Les requérants faisaient valoir que la nouvelle réglementation leur imposait des obligations sans laisser de délai raisonnable pour s'y adapter, ce qui créait une insécurité juridique et une perturbation importante de leurs activités.
+>
+> **Décision du Conseil d'État :**
+>
+> Le Conseil d'État, dans sa décision, a jugé que l'administration doit veiller, lorsqu'elle modifie des règles existantes, à prendre des mesures transitoires lorsque ces modifications sont susceptibles de porter une atteinte excessive aux situations en cours. Le Conseil d'État a explicitement reconnu le principe de sécurité juridique, en affirmant que l'administration ne peut pas imposer de nouvelles règles sans accorder aux personnes concernées un délai raisonnable pour s’y conformer.
+>
+> **Portée de l'arrêt KPMG :**
+>
+> - **Consécration du principe de sécurité juridique** : Cet arrêt a affirmé que ce principe doit être respecté par l'administration française, notamment en matière de réglementation.
+> - **Obligation de mesures transitoires** : Lorsqu'une nouvelle réglementation est adoptée, l'administration doit prévoir des périodes de transition ou des délais raisonnables pour permettre aux personnes et aux entreprises de s’adapter aux nouvelles obligations.
+>
+> **En résumé :**
+>
+> L'arrêt KPMG a marqué un tournant en consacrant le principe de sécurité juridique dans le droit administratif français. Ce principe impose à l'administration de garantir la prévisibilité des règles juridiques et de mettre en place des mesures transitoires lorsque des changements réglementaires risquent de créer une incertitude ou des difficultés pour les administrés.
+
+Il est important de ne pas exagérer l'exorbitance des pouvoirs de l'administration. En plus des droits nouvellement reconnus aux administrés, l'administration n'a pas que des prérogatives exorbitantes. Certes, elle dispose de prérogatives "en plus", mais elle est également soumise à des prérogatives "en moins", c'est-à-dire des sujétions et des contraintes. Jean Rivero parlait de ces dérogations en plus et en moins qu'il fallait combiner.
+
+Pour conclure, le droit administratif actuel peut être considéré comme un droit d'équilibre, selon la formule de Didier Roland Tabuteau, actuellement vice-président du Conseil d'État. Il s'agit d'un droit qui cherche à trouver un équilibre entre les prérogatives de l'administration et les droits des administrés. À noter que, bien que l'on parle d'un vice-président du Conseil d'État, c'est en réalité lui qui préside cette institution, car il n'y a plus de président à proprement parler depuis la réforme. Le vice-président remplit donc les fonctions de direction du Conseil d'État.
+
+> Le **Conseil d'État** en France n'a pas de **président unique** à sa tête, contrairement à d'autres institutions, en raison de sa structure et de son fonctionnement particuliers, qui sont le résultat de son histoire et de son rôle à la fois consultatif et juridictionnel. Voici quelques raisons expliquant pourquoi il n'y a pas de "président" du Conseil d'État au sens traditionnel du terme :
+>
+> 1. **Son lien avec le Premier ministre**
+>
+>    Le **Premier ministre** est formellement le **président du Conseil d'État** en vertu de la tradition et de l'organisation institutionnelle de la Ve République. Cependant, il n'exerce pas de rôle opérationnel au quotidien au sein de cette institution. En effet, le Premier ministre est la plus haute autorité administrative, mais ce titre de président du Conseil d'État est purement honorifique et symbolique, sans implication dans la gestion ou les décisions de la juridiction.
+>
+> 2. **Le rôle du Vice-président**
+>
+>    Le **Vice-président du Conseil d'État** est en réalité celui qui dirige le Conseil d'État. C'est lui qui exerce les fonctions de gestion quotidienne, dirige les formations juridictionnelles et consultatives, et est responsable de son bon fonctionnement. Le vice-président assure le véritable rôle de "président" opérationnel, mais son titre reste "vice-président" par respect de la tradition qui place le Premier ministre en tant que président nominal.
+>
+> 3. **Séparation des pouvoirs et neutralité**
+>
+>    La structure de la présidence est également liée au souci de garantir une séparation nette entre les pouvoirs exécutif et judiciaire. Le Conseil d'État a une double fonction :
+>    - **Consultative** : Il conseille le gouvernement en donnant des avis sur les projets de loi, les décrets, et les règlements.
+>    - **Juridictionnelle** : Il agit comme la plus haute juridiction administrative du pays.
+>
+>    Le fait de ne pas avoir un président au sein du Conseil d'État permet de maintenir un équilibre entre ces deux fonctions et de préserver l'indépendance nécessaire au jugement des litiges administratifs, en évitant une trop grande personnalisation du pouvoir au sein de l'institution.
+>
+> 4. **Un fonctionnement collégial**
+>
+>    Le Conseil d'État fonctionne de manière **collégiale**, que ce soit dans sa fonction consultative ou juridictionnelle. Il se compose de plusieurs sections spécialisées et chaque section est présidée par un **président de section**. Cette organisation permet une répartition des responsabilités et un fonctionnement plus horizontal, contrairement à une institution dirigée par un seul président centralisateur.
+>
+> **Conclusion :**
+>
+> Le **Premier ministre** détient formellement le titre de **président du Conseil d'État**, mais c'est le **Vice-président du Conseil d'État** qui exerce les fonctions exécutives et décisionnelles au quotidien. Ce système reflète l'histoire, la structure et les missions particulières de cette institution, qui allie des fonctions consultatives et juridictionnelles tout en respectant l'indépendance de la justice administrative vis-à-vis du pouvoir exécutif.
