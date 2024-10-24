@@ -95,13 +95,78 @@ Par exemple, le juge judiciaire reste compétent pour connaître de la légalit�
 
 **Exemple de cette deuxième exception** : en 1987, le législateur a décidé que le juge judiciaire serait compétent pour connaître des sanctions prononcées par l'Autorité de la concurrence. Or, l'Autorité de la concurrence est une autorité administrative indépendante, et les sanctions qu'elle prononce sont donc des actes administratifs. Selon le PFRLR, ces actes devraient relever de la compétence du juge administratif. Cependant, le législateur, avec l'aval du Conseil constitutionnel dans sa décision de 1987, a choisi de déroger à ce principe. Pourquoi ? Parce qu'il a été considéré que le droit de la concurrence se rapproche davantage du droit privé, et qu'il serait plus logique, dans l'intérêt d'une bonne administration de la justice, de confier ce contentieux au juge judiciaire. Imaginons un cas concret : si l'Autorité de la concurrence inflige une sanction de plusieurs millions d'euros à des entreprises du secteur pharmaceutique pour entente illicite, ces entreprises, si elles souhaitent contester cette sanction, devront se tourner vers le juge judiciaire et non vers le juge administratif, malgré le caractère administratif de la sanction.
 
-À l'issue de ces deux décisions, de 1980 et 1987, l'existence du juge administratif est désormais garantie et ses prérogatives sont protégées. Dès 1980, le dualisme juridictionnel est consigné au plus haut niveau de la hiérarchie des normes. La constitutionnalisation de l'existence du juge administratif a ainsi renforcé la dualité de juridiction au niveau constitutionnel. Ainsi, le statut du juge administratif désormais constitutionnel, même si les règles détaillées sont définies dans le **Code de justice administrative**.
+À l'issue de ces deux décisions, de 1980 et 1987, l'existence du juge administratif est désormais garantie et ses prérogatives sont protégées. Dès 1980, le dualisme juridictionnel est consigné au plus haut niveau de la hiérarchie des normes. La constitutionnalisation de l'existence du juge administratif a ainsi renforcé la dualité de juridiction au niveau constitutionnel. Ainsi, le statut du juge administratif désormais constitutionnel, même si les règles détaillées sont définies dans le Code de justice administrative.
 
 ## Section 2. L’organisation
 
+Il existe deux grandes catégories de juridictions administratives :
+
+1. **Les juridictions administratives de droit commun**. Celles-ci sont soumises au **Code de justice administrative (CJA)** et comprennent trois types de juridictions :
+   - Le **Conseil d'État**,
+   - Les **cours administratives d'appel** (CAA),
+   - Les **tribunaux administratifs** (TA).
+   Ces trois échelons constituent l'ossature de la juridiction administrative de droit commun.
+
+2. **Les juridictions administratives spécialisées**. Contrairement aux juridictions de droit commun, elles ne sont pas soumises au CJA. Elles ont été créées au gré de l'histoire pour traiter de contentieux spécifiques. Aujourd'hui, il en existe environ une cinquantaine. Voici trois exemples :
+   - La **Cour des comptes**, qui intervient principalement dans les affaires financières. (D'ailleurs, elle a récemment publié un rapport sur la garde républicaine, soulignant certaines critiques sur ses missions et son budget.)
+   - Le **Conseil supérieur de la magistrature** (CSM), une juridiction administrative spécialisée dans les affaires disciplinaires des magistrats.
+   - La **Cour nationale du droit d'asile** (CNDA), qui traite des recours liés au droit d'asile.
+
+Ces juridictions spécialisées ont deux particularités :
+
+1. **Elles sont administratives** car leurs décisions peuvent être déférées au Conseil d'État, qui agit en tant que juge de cassation.
+2. **Elles tranchent des litiges dans des domaines spécifiques**, par exemple les affaires financières pour la Cour des comptes ou les questions d'asile pour la CNDA.
+
+Nous allons nous focaliser sur les juridictions administratives de droit commun, à savoir le Conseil d'État, les cours administratives d'appel, et les tribunaux administratifs. Avant de plonger dans le sujet, une précision terminologique est nécessaire pour utiliser les bons termes :
+
+- Les décisions de justice des **tribunaux administratifs** sont appelées des **jugements**. On ne parle pas d'arrêt dans ce cas, mais bien de jugement.
+- Pour les **cours administratives d'appel**, on parle d'**arrêt**.
+- Enfin, pour le **Conseil d'État**, on utilise soit le terme **arrêt**, soit **décision**.
+
 ### I. Le Conseil d’État
 
+Pendant longtemps, le **Conseil d'État** a été la seule juridiction administrative en France. Le Conseil d'État a été créé en tant que **juge** par la **loi du 24 mai 1872**. Depuis cette date, et jusqu'en 1953, il était la seule juridiction administrative existante.
+
+Ce n'est que plus tard que d'autres juridictions ont été créées pour **désengorger** le Conseil d'État :
+
+- En **1953**, les **tribunaux administratifs** (TA) ont été mis en place.
+- En **1987**, les **cours administratives d'appel** (CAA) ont été créées, toujours dans le but de répartir le contentieux administratif.
+
+Le **Conseil d'État** cumule deux grands types de fonctions : des **fonctions consultatives** et des **fonctions juridictionnelles**. Il agit à la fois comme **conseiller** du gouvernement et comme **juge** administratif.
+
 #### A. Le Conseil d’État en tant que conseiller
+
+Historiquement, le Conseil d'État a principalement agi en tant que conseiller de l'exécutif. Cependant, depuis quelques années, relativement peu de temps compte tenu de son histoire, le Conseil d'État a également étendu son rôle de conseiller au Parlement.
+
+##### 1. Conseiller de l'exécutif
+
+L'ADN du Conseil d'État, c'est d'être conseiller de l'exécutif, une fonction qui remonte à sa création en 1799. C'est cette activité qui place le Conseil d'État au cœur de l'exercice du pouvoir normatif de l'État. En tant que **conseiller juridique de l'exécutif**, il exerce deux types d'attributions : certaines sont obligatoires, d'autres sont facultatives.
+
+Trois exemples des attributions obligations :
+
+**Premier exemple** : l'article 39 de la Constitution indique que les projets de loi sont délibérés en Conseil des ministres après avis du Conseil d'État. C'est une compétence consultative obligatoire du Conseil d'État : tous les projets de loi doivent faire l'objet d'un avis de sa part.
+
+> L'initiative des lois appartient concurremment au Premier ministre et aux membres du Parlement.
+>
+> Les projets de loi sont délibérés en conseil des ministres après avis du Conseil d'Etat et déposés sur le bureau de l'une des deux Assemblées. Les projets de loi de finances et de loi de financement de la sécurité sociale sont soumis en premier lieu à l'Assemblée nationale. Sans préjudice du premier alinéa de l'article 44, les projets de loi ayant pour principal objet l'organisation des collectivités territoriales sont soumis en premier lieu au Sénat.
+>
+> La présentation des projets de loi déposés devant l'Assemblée nationale ou le Sénat répond aux conditions fixées par une loi organique.
+>
+> Les projets de loi ne peuvent être inscrits à l'ordre du jour si la Conférence des présidents de la première assemblée saisie constate que les règles fixées par la loi organique sont méconnues. En cas de désaccord entre la Conférence des présidents et le Gouvernement, le président de l'assemblée intéressée ou le Premier ministre peut saisir le Conseil constitutionnel qui statue dans un délai de huit jours.
+>
+> Dans les conditions prévues par la loi, le président d'une assemblée peut soumettre pour avis au Conseil d'État, avant son examen en commission, une proposition de loi déposée par l'un des membres de cette assemblée, sauf si ce dernier s'y oppose.
+
+Cet avis est exclusivement juridique : le Conseil d'État ne donne qu'un avis juridique, et non politique. Par exemple, il va vérifier que le texte est conforme à la Constitution ou aux traités internationaux. Son rôle est donc de baliser juridiquement le projet de loi.
+
+Dans cet avis, le Conseil d'État peut émettre des réserves sur la conformité du projet aux normes supérieures. Il peut considérer que tel ou tel article du projet pourrait poser problème par rapport à la Constitution ou aux traités internationaux. Toutefois, le gouvernement n'est pas tenu de suivre cet avis. Il s'agit d'un avis simple, mais en pratique, il est souvent plus judicieux pour le gouvernement de s'y conformer.
+
+Deuxième exemple : dans plusieurs articles de la Constitution, on trouve la formule selon laquelle un **décret d'application d'une loi** doit être pris en Conseil d'État. Cela signifie que ces décrets en Conseil d'État ne peuvent être adoptés qu'après un avis du Conseil d'État. Lorsque la Constitution exige qu'un décret soit pris en Conseil d'État pour l'application d'une loi, cet avis devient une étape obligatoire.
+
+Troisième exemple : le Conseil d'État a l'obligation de rédiger chaque année un **rapport annuel**, publié à la Documentation française. Ce rapport est à la fois un compte-rendu d'activité et un prétexte à des réflexions théoriques très générales sur divers sujets. Ces rapports sont souvent des mines d'or pour les chercheurs et les personnes intéressées par un domaine particulier. Parmi les thèmes récents abordés dans ces rapports, on peut citer le numérique, le sport, l'Europe, et plus récemment, les réseaux sociaux.
+
+À côté de ces attributions obligatoires, certaines attributions consultatives du Conseil d'État sont facultatives. Le gouvernement peut, en effet, solliciter l'avis du Conseil d'État sur toute difficulté s'élevant en matière administrative. Chaque année, dans ce cadre, le Conseil d'État rend environ une vingtaine d'avis, de manière purement facultative. Certains de ces avis peuvent avoir un grand retentissement médiatique. Par exemple, le Conseil d'État a rendu des avis marquants sur le sort des sans-papiers ou encore sur les fichiers informatiques.
+
+##### 2. Conseiller du Parlement
 
 #### B. Le Conseil d’État en tant que juge
 
