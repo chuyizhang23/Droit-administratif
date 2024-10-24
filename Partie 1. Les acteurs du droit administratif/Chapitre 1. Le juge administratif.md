@@ -125,14 +125,14 @@ Nous allons nous focaliser sur les juridictions administratives de droit commun,
 
 ### I. Le Conseil d’État
 
-Pendant longtemps, le **Conseil d'État** a été la seule juridiction administrative en France. Le Conseil d'État a été créé en tant que **juge** par la **loi du 24 mai 1872**. Depuis cette date, et jusqu'en 1953, il était la seule juridiction administrative existante.
+Pendant longtemps, le Conseil d'État a été la seule juridiction administrative en France. Le Conseil d'État a été créé en tant que juge par la loi du 24 mai 1872. Depuis cette date, et jusqu'en 1953, il était la seule juridiction administrative existante.
 
-Ce n'est que plus tard que d'autres juridictions ont été créées pour **désengorger** le Conseil d'État :
+Ce n'est que plus tard que d'autres juridictions ont été créées pour désengorger le Conseil d'État :
 
 - En **1953**, les **tribunaux administratifs** (TA) ont été mis en place.
 - En **1987**, les **cours administratives d'appel** (CAA) ont été créées, toujours dans le but de répartir le contentieux administratif.
 
-Le **Conseil d'État** cumule deux grands types de fonctions : des **fonctions consultatives** et des **fonctions juridictionnelles**. Il agit à la fois comme **conseiller** du gouvernement et comme **juge** administratif.
+Le Conseil d'État cumule deux grands types de fonctions : des fonctions consultatives et des fonctions juridictionnelles. Il agit à la fois comme conseiller du gouvernement et comme juge administratif.
 
 #### A. Le Conseil d’État en tant que conseiller
 
@@ -146,15 +146,7 @@ Trois exemples des attributions obligations :
 
 **Premier exemple** : l'article 39 de la Constitution indique que les projets de loi sont délibérés en Conseil des ministres après avis du Conseil d'État. C'est une compétence consultative obligatoire du Conseil d'État : tous les projets de loi doivent faire l'objet d'un avis de sa part.
 
-> L'initiative des lois appartient concurremment au Premier ministre et aux membres du Parlement.
->
 > Les projets de loi sont délibérés en conseil des ministres après avis du Conseil d'Etat et déposés sur le bureau de l'une des deux Assemblées. Les projets de loi de finances et de loi de financement de la sécurité sociale sont soumis en premier lieu à l'Assemblée nationale. Sans préjudice du premier alinéa de l'article 44, les projets de loi ayant pour principal objet l'organisation des collectivités territoriales sont soumis en premier lieu au Sénat.
->
-> La présentation des projets de loi déposés devant l'Assemblée nationale ou le Sénat répond aux conditions fixées par une loi organique.
->
-> Les projets de loi ne peuvent être inscrits à l'ordre du jour si la Conférence des présidents de la première assemblée saisie constate que les règles fixées par la loi organique sont méconnues. En cas de désaccord entre la Conférence des présidents et le Gouvernement, le président de l'assemblée intéressée ou le Premier ministre peut saisir le Conseil constitutionnel qui statue dans un délai de huit jours.
->
-> Dans les conditions prévues par la loi, le président d'une assemblée peut soumettre pour avis au Conseil d'État, avant son examen en commission, une proposition de loi déposée par l'un des membres de cette assemblée, sauf si ce dernier s'y oppose.
 
 Cet avis est exclusivement juridique : le Conseil d'État ne donne qu'un avis juridique, et non politique. Par exemple, il va vérifier que le texte est conforme à la Constitution ou aux traités internationaux. Son rôle est donc de baliser juridiquement le projet de loi.
 
@@ -167,6 +159,16 @@ Troisième exemple : le Conseil d'État a l'obligation de rédiger chaque année
 À côté de ces attributions obligatoires, certaines attributions consultatives du Conseil d'État sont facultatives. Le gouvernement peut, en effet, solliciter l'avis du Conseil d'État sur toute difficulté s'élevant en matière administrative. Chaque année, dans ce cadre, le Conseil d'État rend environ une vingtaine d'avis, de manière purement facultative. Certains de ces avis peuvent avoir un grand retentissement médiatique. Par exemple, le Conseil d'État a rendu des avis marquants sur le sort des sans-papiers ou encore sur les fichiers informatiques.
 
 ##### 2. Conseiller du Parlement
+
+Historiquement, le Conseil d'État est le conseiller du gouvernement, mais depuis la révision constitutionnelle du 23 juillet 2008, il est également devenu conseiller du Parlement. Cette compétence lui a été attribuée par la modification de l'article 39, alinéa 5, de la Constitution.
+
+> Dans les conditions prévues par la loi, le président d'une assemblée peut soumettre pour avis au Conseil d'État, avant son examen en commission, une proposition de loi déposée par l'un des membres de cette assemblée, sauf si ce dernier s'y oppose.
+
+Désormais, le président de chaque assemblée, soit le président du Sénat, soit le président de l'Assemblée nationale, peut, s'il le souhaite, saisir le Conseil d'État pour qu'il **examine une proposition de loi** et rende un avis. Cet avis, comme pour les attributions facultatives, est simple et non obligatoire.
+
+Un **projet de loi** émane du **gouvernement**, tandis qu'une **proposition de loi** émane du **Parlement**. L'initiative d'un projet de loi est donc gouvernementale, contrairement à la proposition de loi, qui est à l'initiative des députés ou des sénateurs. Bien que les modes de formation des textes soient différents, dans les deux cas, c'est le **Parlement** qui vote la loi à l'issue du processus.
+
+Cette réforme de 2008, qui a modifié l'article 39, alinéa 5, de la Constitution, a été une petite révolution. En effet, depuis toujours, le Conseil d'État était le conseiller exclusif du pouvoir exécutif. Ce changement a été justifié par un contexte souvent dénoncé, celui de la **dégradation générale de la qualité des lois** : il y a des critiques que les lois sont de plus en plus longues, moins précises et moins juridiques. Dans ce contexte, il est apparu opportun de confier au Conseil d'État un rôle consultatif également sur les propositions de loi. Grâce à son expertise juridique, le Conseil d'État peut ainsi être consulté dans le but d'**améliorer la qualité des textes législatifs**.
 
 #### B. Le Conseil d’État en tant que juge
 
