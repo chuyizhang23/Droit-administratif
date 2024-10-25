@@ -172,9 +172,97 @@ Cette réforme de 2008, qui a modifié l'article 39, alinéa 5, de la Constituti
 
 #### B. Le Conseil d’État en tant que juge
 
+##### 1. Juge de cassation
+
+En tant que juridiction suprême de l'ordre administratif, le Conseil d'État exerce d'abord une compétence de juge de cassation. (Le terme "cassation" n'est pas réservé exclusivement à la Cour de cassation.) En tant que juge de cassation, le Conseil d'État peut être saisi d'un pourvoi en cassation contre un arrêt d'une cour administrative d'appel et rendre une décision dans laquelle il annulera, ou non, cet arrêt.
+
+Le Conseil d'État veille ainsi à l'unité dans l'application du droit administratif. Il s'assure que les juridictions subordonnées rendent des décisions cohérentes et conformes à la ligne jurisprudentielle adoptée. En tant que juge de cassation, il juge en droit et non en fait, garantissant ainsi l'homogénéité de la jurisprudence administrative. C'est pourquoi on dit parfois que le Conseil d'État est le régulateur de l'ordre juridictionnel administratif.
+
+##### 2. Juge d'appel
+
+Il est parfois surprenant de constater que le Conseil d'État agit encore en tant que juge d'appel. Pendant longtemps, il exerçait une compétence d'appel très étendue, car il n'existait pas de cours administratives d'appel. Avant la création de ces cours en 1987, le Conseil d'État devait traiter en appel un large éventail de contentieux administratifs. Mais depuis 1987, on pourrait logiquement penser que, avec l'existence des cours administratives d'appel, le Conseil d'État n'aurait plus de rôle en tant que juridiction d'appel.
+
+Cependant, il existe une exception : le Conseil d'État reste juge d'appel dans certains cas, notamment en matière de **référé Liberté**. L'article L. 523-1 du Code de justice administrative prévoit que les décisions rendues par les tribunaux administratifs en matière de référé Liberté sont susceptibles d’appel devant le Conseil d'État directement.
+
+> Les décisions rendues en application de l'article L. 521-2 sont susceptibles d'appel devant le Conseil d'Etat dans les quinze jours de leur notification. En ce cas, le président de la section du contentieux du Conseil d'Etat ou un conseiller délégué à cet effet statue dans un délai de quarante-huit heures et exerce le cas échéant les pouvoirs prévus à l'article L. 521-4.
+
+En résumé, cette compétence d'appel du Conseil d'État est subsidiaire et extrêmement limitée.
+
+##### 3. Juge de premier et dernier ressort
+
+Le Conseil d'État est parfois juge de premier et dernier ressort, ce qui signifie que, dans certains cas, il peut être directement saisi sans que l'affaire passe d'abord par les tribunaux administratifs ou les cours administratives d'appel. Dans ces situations, le Conseil d'État rend une décision non susceptible d'appel.
+
+Dans quels cas le Conseil d'État est-il juge de premier et dernier ressort ?
+
+**Première hypothèse** : Le Conseil d'État est juge de premier et dernier ressort pour la **légalité de certains actes administratifs** parmi les plus importants, qui figurent au sommet de la hiérarchie des actes administratifs. Cette compétence est définie par l'article R.311-1 du Code de justice administrative, qui énumère les actes concernés. Voici quelques exemples d'actes administratifs contestables directement devant le Conseil d'État :
+
+- **Les décrets du Premier ministre et du Président de la République** : Ces décrets, émanant de l'exercice de leur pouvoir réglementaire, sont contestés directement devant le Conseil d'État.
+- **Les ordonnances prises par le Président de la République** sur le fondement de l’article 38 de la Constitution : Ces ordonnances, qui ont une portée législative temporaire, relèvent également de cette compétence.
+- **Les actes réglementaires des ministres** : Un acte réglementaire est une norme générale et impersonnelle par opposition à un acte individuel. Par exemple, un arrêté du ministère de l'Enseignement supérieur qui fixe les conditions d'attribution des bourses est un acte réglementaire que l’on peut contester directement devant le Conseil d'État.
+
+> Les **décrets** sont des actes pris par le **Président** ou le **Premier ministre** dans le cadre du **domaine réglementaire**, destinés à préciser et appliquer les lois votées par le Parlement. Ils ont une valeur inférieure aux lois dans la hiérarchie des normes et ne nécessitent pas d'autorisation préalable du Parlement.
+>
+> En revanche, les **ordonnances** permettent au gouvernement d’intervenir dans le **domaine législatif** après avoir obtenu une **autorisation du Parlement**. Une fois ratifiées, elles acquièrent la même valeur qu’une loi ; sinon, elles restent de valeur réglementaire. Les ordonnances sont ainsi utilisées pour des réformes importantes, permettant au gouvernement de légiférer rapidement dans certains domaines, avec une validation ultérieure du Parlement.
+
+Ainsi, le Conseil d'État est **juge en premier et dernier ressort** pour les actes administratifs les plus importants.
+
+> Le Conseil d'Etat est compétent pour connaître en premier et dernier ressort :
+>
+> 1. Des recours dirigés contre les ordonnances du Président de la République et les décrets ;
+>
+> 2. Des recours dirigés contre les actes réglementaires des ministres et des autres autorités à compétence nationale et contre leurs circulaires et instructions de portée générale ;
+>
+> 3. Des litiges concernant le recrutement et la discipline des agents publics nommés par décret du Président de la République en vertu des dispositions de l'article 13 (troisième alinéa) de la Constitution et des articles 1er et 2 de l'ordonnance n° 58-1136 du 28 novembre 1958 portant loi organique concernant les nominations aux emplois civils et militaires de l'Etat ;
+>
+> 4. Des recours dirigés contre les décisions prises par les organes des autorités suivantes, au titre de leur mission de contrôle ou de régulation :
+>
+>    - l'Agence française de lutte contre le dopage ;
+>    - l'Autorité de contrôle prudentiel et de résolution ;
+>    - l'Autorité de la concurrence ;
+>    - l'Autorité des marchés financiers ;
+>    - l'Autorité de régulation de la communication audiovisuelle et numérique, sous réserve des dispositions de l'article R. 311-2 ;
+>    - l'Autorité de régulation des communications électroniques et des postes ;
+>    - l'Autorité nationale des jeux ;
+>    - l'Autorité de régulation des transports ;
+>    - l'Autorité de sûreté nucléaire ;
+>    - la Commission de régulation de l'énergie ;
+>    - la Commission nationale de l'informatique et des libertés ;
+>    - la Haute Autorité pour la transparence de la vie publique ;
+>    - la Commission nationale de contrôle des techniques de renseignement ;
+>
+> 5. Des actions en responsabilité dirigées contre l'Etat pour durée excessive de la procédure devant la juridiction administrative ;
+>
+> 6. Des recours en interprétation et des recours en appréciation de légalité des actes dont le contentieux relève en premier et dernier ressort du Conseil d'Etat ;
+>
+> 7. Des recours dirigés contre les décisions ministérielles prises en matière de contrôle des concentrations économiques ;
+>
+> 8. Des recours de plein contentieux dirigés contre les décisions d'occultation ou de levée d'occultation prises en application des dispositions de l'article R. 741-15 ou du troisième alinéa de l'article R. 751-7.
+
+**Deuxième cas de figure** : le Conseil d'État est également juge en premier et dernier ressort en matière **électorale**, mais cette compétence est limitée à seulement deux types d'élections : les élections régionales et les élections européennes. En cas de recours concernant l'une de ces élections, le Conseil d'État est saisi directement et statue en premier et dernier ressort.
+
+> Pour les élections nationales (élections présidentielles et législatives), le Conseil constitutionnel est compétent pour juger les contentieux. Il examine les recours, statue sur la régularité des opérations électorales et proclame les résultats définitifs.
+
+Pendant longtemps, depuis 1872, le Conseil d'État était le seul juge administratif en France. Cependant, il a progressivement été submergé par le nombre croissant de requêtes administratives, entraînant une lenteur de la justice due à l'accumulation de dossiers. Face à cette situation, les pouvoirs publics ont décidé de créer de nouveaux échelons de jugement pour alléger la charge du Conseil d'État. D'abord, en 1953, les tribunaux administratifs ont été instaurés, suivis en 1987 par les cours administratives d'appel. Ces deux niveaux de juridiction ont été créés dans le but précis de désengorger le Conseil d'État et de rendre la justice administrative plus rapide et efficace.
+
 ### Ⅱ. Les Cours administratives d’appel
 
+Les cours administratives d'appel ont été créées par la loi du 31 décembre 1987 pour désengorger le Conseil d'État. Il en existe neuf en France, situées à Bordeaux, Lyon, Marseille, Paris, Douai, Toulouse, Versailles, Nancy et Nantes. Chaque cour est compétente sur un ressort territorial (une zone géographique) qui comprend plusieurs tribunaux administratifs.
+
+Leur compétence est une compétence d'appel, prévue par l'article L. 211-2 du Code de justice administrative. Cet article stipule que les cours administratives d'appel connaissent des recours en appel contre les jugements rendus en premier ressort par les tribunaux administratifs.
+
+> Les cours administratives d'appel connaissent des jugements rendus en premier ressort par les tribunaux administratifs, sous réserve des compétences attribuées au Conseil d'Etat en qualité de juge d'appel et de celles définies aux articles L. 552-1 et L. 552-2.
+>
+> Elles connaissent en premier et dernier ressort des litiges dont la compétence leur est attribuée par décret en Conseil d'Etat à raison de leur objet ou de l'intérêt d'une bonne administration.
+
 ### Ⅲ. Les Tribunaux administratifs
+
+Les tribunaux administratifs constituent le premier échelon de l'ordre administratif et sont ceux qui rendent le plus de décisions. Environ 200 000 décisions sont prononcées chaque année par l'ensemble des tribunaux administratifs en France. Créés par la loi du 30 septembre 1953, ces tribunaux ont été institués pour désengorger le Conseil d'État. Aujourd'hui, il en existe 42 répartis sur le territoire.
+
+La compétence matérielle des tribunaux administratifs est assez simple : ils statuent en premier ressort en matière administrative, sauf dans les cas où le Conseil d'État est juge en premier et dernier ressort. En dehors de ces exceptions, qui ne concernent que les actes administratifs les plus importants, les tribunaux administratifs sont les juges de droit commun du contentieux administratif. C'est l'article L. 211-1 du Code de justice administrative qui le précise. Les tribunaux administratifs sont donc amenés à traiter la très grande majorité des recours, qu’il s’agisse des **recours pour excès de pouvoir**, des **litiges contractuels**, ou encore des **recours en responsabilité**.
+
+> Les tribunaux administratifs sont, en premier ressort et sous réserve des compétences attribuées aux autres juridictions administratives, juges de droit commun du contentieux administratif.
+
+La compétence territoriale des tribunaux administratifs est également très simple : le tribunal compétent est celui du lieu de résidence de l'autorité administrative qui a pris la décision contestée.
 
 ## Section 3. La saisine
 
