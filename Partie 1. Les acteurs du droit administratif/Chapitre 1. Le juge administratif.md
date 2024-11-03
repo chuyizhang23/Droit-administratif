@@ -419,6 +419,78 @@ En examinant la juridiction administrative, deux spécificités majeures ont sou
 
 ### I. Procès équitable et dualisme fonctionnel
 
+Le dualisme fonctionnel du Conseil d'État soulève des questions d'impartialité en raison de la **cumul des fonctions** consultatives et juridictionnelles, une spécificité historique de l'institution. Depuis sa création en 1799, le Conseil d'État est le conseiller de l'exécutif et, depuis 1872, il exerce également des fonctions juridictionnelles. Ce cumul de rôles peut engendrer des doutes quant à l'impartialité.
+
+Le problème se pose notamment lorsque le Conseil d'État est amené à **contrôler la légalité d'un acte administratif** sur lequel il a auparavant rendu un avis consultatif. Par exemple, si un juge doit statuer sur la légalité d’un décret au contentieux alors qu’il a donné un avis préalable sur cet acte en tant que conseiller, cela peut légitimement susciter des interrogations sur son impartialité.
+
+La question est de savoir si cette spécificité du Conseil d'État – à la fois juge et conseiller – en fait un tribunal qui ne respecterait pas les standards d'impartialité fixés par l'article 6, paragraphe 1 de la Convention européenne des droits de l'homme. Le dualisme fonctionnel, c'est-à-dire le cumul des fonctions consultative et juridictionnelle, pourrait-il rendre le Conseil d'État partiel et incompatible avec les standards du droit au procès équitable ? La CEDH a rendu deux arrêts importants sur cette question.
+
+#### CEDH, 1995, Procola c/ Luxembourg
+
+Dans l'**arrêt Procola contre Luxembourg** de 1995, la Cour européenne des droits de l'homme s'est prononcée sur le Conseil d'État luxembourgeois, qui, comme le Conseil d'État français, cumulait des fonctions consultatives et juridictionnelles. La question posée était de savoir si ce dualisme statutaire était incompatible avec l'article 6, paragraphe 1 de la Convention européenne des droits de l'homme.
+
+> La société Procola, une coopérative laitière, contestait une décision administrative luxembourgeoise concernant les quotas laitiers. Ce recours a été examiné par le Conseil d'État du Luxembourg, dont certains membres avaient précédemment donné un avis consultatif sur le même sujet, soulevant des inquiétudes quant à l'impartialité du jugement.
+>
+> La CEDH a conclu que cette double intervention constituait une violation de l'article 6§1 de la Convention européenne des droits de l’homme, qui garantit un procès équitable. En effet, le fait que les mêmes personnes participent à la fois à l'avis consultatif et à la décision juridictionnelle créait une apparence de partialité et un potentiel conflit d’intérêts.
+
+La CEDH a répondu que le **dualisme statutaire en lui-même** n'est pas problématique au regard de l'article 6, paragraphe 1. Ce qui pose problème, en revanche, est que les **mêmes personnes** participent à l'élaboration d'un avis consultatif sur une norme, puis statuent ultérieurement sur la légalité de cette même norme en tant que juges. Le seul fait que des individus exercent successivement, à propos des mêmes actes, des fonctions de conseiller puis de juge, est suffisant pour remettre en cause l'impartialité de la juridiction.
+
+Imaginez que le Conseil d'État soit saisi dans le cadre de ses fonctions consultatives pour rendre un avis sur la légalité d'un texte. Son rôle est alors de baliser ce texte, de vérifier qu'il respecte la Constitution et les traités internationaux, et, au besoin, de le purger de toute éventuelle illégalité afin de conseiller au mieux le gouvernement. Ainsi, lorsqu'un texte passe par ce filtre consultatif, le Conseil d'État s'assure de sa conformité juridique. Cependant, si ce même texte est ensuite contesté et revient devant le Conseil d'État dans le cadre de ses fonctions juridictionnelles, que va-t-il décider ? Il est probable qu'il le déclare légal, puisqu'il a déjà veillé à sa conformité lors de son examen consultatif. Cela pose un risque d'impartialité, car les juges peuvent se sentir liés par l'avis qu'ils ont donné précédemment. L'impartialité interdit donc qu'un magistrat qui a examiné une affaire comme conseiller puisse ensuite connaître de la même affaire comme juge.
+
+Cependant, à la suite de cet arrêt, le Conseil d'État français n'a apporté aucun changement à son organisation, estimant que l'arrêt Procola ne le concernait pas directement, car il visait spécifiquement le système luxembourgeois. Par conséquent, aucune conséquence n'a été tirée de l'arrêt Procola de 1995.
+
+#### CEDH, 2006, Sacilor Lormines c/ France
+
+Quelques années plus tard, la Cour européenne des droits de l'homme s'est prononcée spécifiquement sur la situation du Conseil d'État français. Sans surprise, la Cour a jugé concernant le Conseil d'État français exactement la même chose qu'elle avait statué dans l'affaire Procola contre Luxembourg. Il s'agit de l'arrêt important **Sacilor Lormines contre France** de 2006.
+
+> En droit :
+>
+> Quant à l'indépendance et l'impartialité du Conseil d'Etat, si la Cour n'entend pas mettre en cause, de manière générale, le mode de nomination et le déroulement de la carrière des membres de la haute juridiction, il lui faut apprécier si la section du contentieux possédait « l'apparence d'indépendance » requise, à la lumière notamment de la nomination de l'un des conseillers d'Etat ayant siégé lors de la délibération du 26 avril 2000 au poste de secrétaire général du ministère chargé de la politique minière. Or, si cette nomination est postérieure à la délibération en question, le Gouvernement indique que les pourparlers à cet égard ont commencé au mois d'avril 2000. Ce membre ne peut donc apparaître comme neutre vis-à-vis de la société requérante, compte tenu de l'absence de garanties contre une éventuelle influence extérieure du fait de sa nomination envisagée au moment de l'accomplissement de la fonction de juger en avril 2000. Dès lors, la société requérante pouvait nourrir a posteriori des doutes objectivement fondés quant à l'indépendance et l'impartialité de la formation de jugement à laquelle appartenait l'intéressé.
+>
+> Conclusion : violation (quatre voix contre trois).
+>
+> Quant à la participation du Conseil d'Etat, par le biais de ses avis, à l'élaboration de la politique minière, la question à déterminer en l'espèce est uniquement celle de savoir si l'avis rendu le 29 septembre 1997 par la section consultative a constitué une sorte de préjugement des arrêts de la section du contentieux en date du 19 mai 2000 et du 5 avril 2002. A cet égard, aucun des membres ayant siégé dans les formations contentieuses n'avait participé à l'adoption de l'avis. Par ailleurs, s'il existe bien une relation entre les questions juridiques posées dans l'avis et celles générées par le contentieux porté par la requérante, l'avis et les procédures de recours subséquentes ne peuvent représenter la « même affaire » ou la « même décision ».
+>
+> Conclusion : non-violation (unanimité).
+>
+> Quant à la présence du commissaire du gouvernement au délibéré de la formation de jugement du Conseil d'Etat, la Cour a conclu dans les affaires Kress et Martinie que cette participation, qu'elle soit « active » ou « passive », emporte violation de l'article 6(1).
+>
+> Conclusion : violation (unanimité).
+>
+> Quant à la durée des procédures litigieuses, celles-ci se sont étendues sur quatre ans, neuf mois et trois jours pour la première, et trois ans, six mois et dix-sept jours pour la seconde. Eu égard aux circonstances de l'espèce, de telles durées sont excessives et ne répondent pas à l'exigence de « délai raisonnable ».
+>
+> Conclusion : violation (unanimité).
+
+Sans surprise, la CEDH a réaffirmé dans l’arrêt Sacilor Lormines contre France qu’il n’y avait pas de problème en soi à ce qu’une juridiction cumule des fonctions consultatives et juridictionnelles. En revanche, un problème d’impartialité se pose si des individus sont d'abord conseillers sur un acte, puis juges de sa légalité. Cela crée un risque de préjugement de l'affaire, car les requérants peuvent penser que le juge a déjà un avis sur la légalité de l'acte.
+
+La difficulté résidait dans le fait qu’en France, aucun dispositif n’avait été mis en place pour éviter qu’une même personne participe d’abord à l’élaboration d’un avis consultatif sur un texte, puis, plus tard, statue sur sa légalité dans une formation contentieuse. En l'absence de telles précautions, la France a été condamnée par la CEDH dans l’arrêt Sacilor Lormines.
+
+#### Décret 6 mars 2008
+
+À la suite de la décision Sacilor Lormines de 2006, un **décret du 6 mars 2008** est venu modifier le Code de justice administrative pour mettre la situation française en conformité avec les exigences de la CEDH. Depuis ce décret, le CJA précise qu’un membre du Conseil d’État ayant participé à la rédaction d’un avis consultatif ne peut pas siéger dans la formation de jugement appelée à statuer sur la légalité de l'acte pris après cet avis. Ces garde-fous, instaurés aux articles R.122-21-1 à 3 du CJA, visent à éviter que les mêmes personnes exercent successivement des fonctions de conseiller et de juge sur un même acte administratif. La France a ainsi tiré les conséquences de sa condamnation dans l'arrêt Sacilor Lormines.
+
+> Article R122-21-1 : *Sans préjudice des dispositions de l'article R. 721-1, les membres du Conseil d'Etat ne peuvent participer au jugement des recours dirigés contre les actes pris après avis du Conseil d'Etat, s'ils ont pris part à la délibération de cet avis.*
+>
+> Article R122-21-2 : *Lorsque le Conseil d'Etat est saisi d'un recours contre un acte pris après avis d'une de ses formations consultatives, la liste des membres ayant pris part à la délibération de cet avis est communiquée au requérant qui en fait la demande.*
+>
+> Article R122-21-3 : *Les membres du Conseil d'Etat qui participent au jugement des recours dirigés contre des actes pris après avis du Conseil d'Etat ne peuvent pas prendre connaissance de ces avis, dès lors qu'ils n'ont pas été rendus publics, ni des dossiers des formations consultatives relatifs à ces avis.*
+
+#### CE, 16 avril 2010, Association Alcaly
+
+Dans l’arrêt **Association Alcaly** de 2010, le Conseil d'État a lui-même affirmé que la dualité fonctionnelle qui le caractérise est parfaitement conforme à la Constitution. Il s'est ainsi fait juge de sa propre impartialité.
+
+Le problème venait de ce que le droit au procès équitable n'est pas seulement garanti par la Convention européenne des droits de l'homme ; il est aussi protégé par le droit interne, notamment par la Constitution. Bien que ce droit ne soit pas explicitement mentionné, il découle de l'article 16 de la Déclaration des droits de l'homme et du citoyen (DDHC), qui protège la séparation des pouvoirs et la garantie des droits.
+
+> *Toute société dans laquelle la garantie des droits n'est pas assurée, ni la séparation des pouvoirs déterminée, n'a point de constitution.*
+
+Pour ceux qui souhaitaient contester le dualisme statutaire, une QPC pouvait être soulevée, invoquant la méconnaissance de la Constitution par les dispositions législatives du CJA relatives au dualisme statutaire. Des requérants ont effectivement tenté de soulever une telle QPC, malgré les précédents examinés par la CEDH deux fois.
+
+Lorsque le Conseil d'État a été saisi d'une QPC concernant le dualisme fonctionnel, il a décidé de ne pas la renvoyer au Conseil constitutionnel. Il a jugé que la question n'était ni nouvelle ni sérieuse, estimant ainsi qu'elle ne justifiait pas une réévaluation constitutionnelle. En refusant de transmettre la QPC, le Conseil s’est de facto fait juge de sa propre impartialité.
+
+#### Conclusion
+
+Aujourd'hui, cette dualité institutionnelle et statutaire est à l'abri de toute remise en cause. Le dualisme statutaire, caractérisé par le cumul des fonctions consultatives et juridictionnelles du Conseil d'État, est protégé contre les critiques relatives au droit au procès équitable.
+
 ### Ⅱ. Procès équitable et rapporteur public
 
 #### A. Le rôle du rapporteur public
