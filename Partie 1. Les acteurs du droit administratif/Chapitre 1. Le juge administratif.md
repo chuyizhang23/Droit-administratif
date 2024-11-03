@@ -268,7 +268,93 @@ La compétence territoriale des tribunaux administratifs est également très si
 
 ### I. Les recours ordinaires
 
+Les recours ordinaires sont les recours classiques, ceux qui existent depuis toujours. Il en existe deux depuis la naissance du droit administratif à la fin du XIXᵉ siècle :
+
+1. Le **recours pour excès de pouvoir** (REP).
+2. Le **recours de plein contentieux** (RPC).
+
+La distinction entre le REP et le RPC est fondamentale et incontournable. Cette distinction a été formalisée par celui qu'on considère comme le père du droit administratif en France : **Édouard Laferrière**. Il était vice-président du Conseil d'État à la fin du XIXᵉ siècle et a rédigé *Traité de la juridiction administrative* en 1887.
+
+Dans ce traité, Laferrière établit qu'on peut distinguer les recours administratifs selon deux critères :
+
+1. Ce qui est demandé au juge.
+2. Ce que le juge peut faire.
+
+Ce classement des recours, basé sur l'analyse des demandes faites au juge et de ses pouvoirs, constitue une œuvre doctrinale majeure.
+
+#### REP
+
+Le **recours pour excès de pouvoir (REP)** a pour seul objet l'**annulation d'actes administratifs illégaux**. L’objectif est de vérifier la légalité d’un acte administratif, tel qu’un décret ou un arrêté, et de le faire annuler s’il est jugé illégal. Ce que l’on demande ici au juge, c’est uniquement d’annuler un acte administratif.
+
+Les pouvoirs du juge dans le cadre du REP sont donc très limités. Il ne peut faire que deux choses :
+
+1. **Annuler** l’acte administratif s’il est illégal,
+2. **Rejeter la requête** s’il considère qu’il n’y a pas lieu d’annuler l’acte.
+
+Cependant, de nombreuses évolutions ont élargi les pouvoirs du juge de l'excès de pouvoir, qui sont devenus de plus en plus importants. Les compétences du juge dans ce domaine ont progressivement évolué et se sont enrichies.
+
+Le REP est soumis à un délai court : les requérants disposent de **deux mois** pour exercer ce recours.
+
+#### RPC
+
+Le deuxième grand type de recours est le **recours de plein contentieux**. Contrairement au recours pour excès de pouvoir, le plein contentieux ne se limite pas à la simple annulation d'un acte administratif jugé illégal. Ce recours permet au requérant de demander au juge administratif de faire usage de sa **plénitude de juridiction**, c’est-à-dire d'utiliser tous les pouvoirs à sa disposition. C'est pourquoi on parle de "plein contentieux".
+
+Dans le cadre de ce recours, le requérant peut demander au juge administratif :
+
+- D’**annuler** un acte administratif,
+- De lui accorder des **dommages et intérêts**,
+- De **mettre fin à un contrat administratif**,
+- De **modifier** ou **réformer** un acte administratif.
+
+Cette plénitude de juridiction confère au juge administratif des pouvoirs étendus.
+
+> Les **dommages et intérêts** sont une somme d'argent qu'une personne (ou une entreprise) doit verser à une autre pour **réparer un préjudice** causé par un acte fautif ou une négligence. Ils visent à compenser les pertes ou les souffrances subies par la victime et à rétablir autant que possible sa situation d’avant le dommage.
+>
+> En général, les dommages et intérêts sont accordés par un tribunal à la suite d'une décision judiciaire. Ils peuvent couvrir différents types de préjudices, tels que les **dommages matériels** (perte financière, coûts de réparation), les **dommages corporels** (blessures physiques) ou les **dommages moraux** (souffrance émotionnelle, atteinte à la réputation).
+
+En matière de délai de recours, le plein contentieux diffère également du REP. Le délai n’est pas fixé uniformément ; il varie selon le type de contentieux. Par exemple, le délai pour contester un contrat administratif ne sera pas le même que celui pour demander des dommages et intérêts. Ainsi, chaque type de contentieux dans le plein contentieux dispose de **délais spécifiques**.
+
+> Le délai de recours en plein contentieux en droit administratif français est généralement de **deux mois** à compter de la notification ou de la publication de l'acte administratif contesté. Ce délai s'applique à la plupart des recours visant à obtenir la réparation d'un préjudice ou la modification d'un acte administratif.
+>
+> Toutefois, certaines matières prévoient des **délais spécifiques** : par exemple, les contentieux électoraux ou fiscaux peuvent avoir des délais plus courts, tandis que les recours en responsabilité peuvent bénéficier de délais plus longs en fonction de la date du dommage subi. Il est important de noter que ce délai de deux mois peut être **suspendu ou interrompu** dans certaines situations, comme lors d'un recours administratif préalable obligatoire ou d'une médiation.
+>
+> Ainsi, bien que le délai standard soit de deux mois, il convient de vérifier les particularités liées à chaque type de contentieux et aux circonstances spécifiques de l'affaire pour assurer le respect des délais applicables.
+
 ### Ⅱ. Les recours d’urgence
+
+Au-delà des recours classiques, il est possible de saisir le juge administratif en urgence. La loi du 30 juin 2000 a introduit deux procédures d'urgence permettant de saisir rapidement le juge administratif : le **référé suspension** et le **référé liberté**.
+
+Le **référé suspension**, première procédure d'urgence, est prévu à l'article L. 521-1 du CJA. Cette procédure permet de saisir le juge pour obtenir la **suspension d'une décision administrative** si deux conditions sont remplies :
+
+1. **Une situation d'urgence**,
+2. **Un doute sérieux quant à la légalité de la décision**.
+
+Si ces deux conditions sont réunies, le juge peut alors ordonner la suspension de la mesure en question, en attendant qu'une décision soit prise sur le fond du dossier.
+
+> Quand une décision administrative, même de rejet, fait l'objet d'une requête en annulation ou en réformation, le juge des référés, saisi d'une demande en ce sens, peut ordonner la suspension de l'exécution de cette décision, ou de certains de ses effets, lorsque l'urgence le justifie et qu'il est fait état d'un moyen propre à créer, en l'état de l'instruction, un doute sérieux quant à la légalité de la décision.
+>
+> Lorsque la suspension est prononcée, il est statué sur la requête en annulation ou en réformation de la décision dans les meilleurs délais. La suspension prend fin au plus tard lorsqu'il est statué sur la requête en annulation ou en réformation de la décision.
+
+Délai :
+
+> Le juge des référés se prononce dans un délai compris entre 48 heures et 1 mois après l'audience. Ce délai peut être dépassé si la complexité de l'affaire le nécessite.
+
+L'autre procédure d'urgence est le **référé liberté**, prévu à l'article L. 521-2 du CJA. Ce référé permet au juge de prendre **toute mesure nécessaire** pour sauvegarder une **liberté fondamentale** à laquelle l'administration aurait porté une atteinte grave et manifestement illégale dans l'exercice de ses pouvoirs.
+
+Pour que le référé liberté puisse être exercé, deux conditions doivent être remplies :
+
+1. **Une situation d'urgence**,
+2. **Une atteinte grave et manifestement illégale** à une liberté fondamentale.
+
+Les "libertés fondamentales" protégées sont nombreuses et incluent, par exemple, la liberté d'aller et venir, le droit de propriété et la liberté d'expression.
+
+Dans cette procédure, le juge des référés est un **juge statuant seul**, à la différence des autres recours administratifs. Étant un véritable juge de l'urgence, il doit rendre sa décision dans un **délai de 48 heures**.
+
+Le juge statuant seul :
+
+> Généralement, dans les juridictions administratives françaises, les affaires sont jugées par une formation collégiale composée de **trois juges**. Cela signifie qu'un tribunal administratif ou une cour administrative d'appel rend normalement ses décisions avec trois magistrats, ce qui favorise la diversité des points de vue et assure une meilleure qualité de jugement.
+>
+> Cependant, pour certaines affaires spécifiques (notamment les procédures de référé ou les affaires simples), un **juge unique** peut être désigné pour **statuer seul**, afin d’accélérer la procédure. Mais en dehors de ces cas, le principe de collégialité (trois juges) reste la norme dans les juridictions administratives.
 
 ## Section 4. L’influence européenne
 
