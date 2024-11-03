@@ -16,9 +16,9 @@ Malgré tout, en feuilletant la Constitution, on remarque qu'elle mentionne à p
 
 Il a fallu attendre la **révision constitutionnelle de 2008** et l'introduction de l'article 61-1 relatif à la QPC (question prioritaire de constitutionnalité) pour que le Conseil d'État soit mentionné explicitement en tant que juridiction dans la Constitution. Cet article précise que le Conseil d'État, comme la Cour de cassation, peut renvoyer une QPC au Conseil constitutionnel, jouant ainsi un rôle de **filtre** dans cette procédure. C'est donc seulement en 2008 que le Conseil d'État fait officiellement son entrée en tant que juge dans la Constitution.
 
-> Lorsque, à l'occasion d'une instance en cours devant une juridiction, il est soutenu qu'une disposition législative porte atteinte aux droits et libertés que la Constitution garantit, le Conseil constitutionnel peut être saisi de cette question sur renvoi du Conseil d'État ou de la Cour de cassation qui se prononce dans un délai déterminé.
+> *Lorsque, à l'occasion d'une instance en cours devant une juridiction, il est soutenu qu'une disposition législative porte atteinte aux droits et libertés que la Constitution garantit, le Conseil constitutionnel peut être saisi de cette question sur renvoi du Conseil d'État ou de la Cour de cassation qui se prononce dans un délai déterminé.*
 >
-> Une loi organique détermine les conditions d'application du présent article.
+> *Une loi organique détermine les conditions d'application du présent article.*
 
 En effet, de manière générale, et avant 2008, la Constitution ne mentionnait pas le juge administratif et ne lui consacrait pas de titre, comme c'est le cas pour le juge judiciaire. Alors, où trouve-t-on les règles relatives à la juridiction administrative ? Ces règles figurent dans le **Code de justice administrative (CJA)**, créé par l'**ordonnance du 4 mai 2000**.
 
@@ -85,9 +85,9 @@ Mais il y a deux exceptions à ce premier principe.
 
 **Première exception** : sont exclues de la compétence administrative les matières **réservées par nature** à l'autorité judiciaire. Ces matières concernent principalement la **liberté individuelle**. L'autorité judiciaire est compétente pour juger les mesures administratives qui restreignent la liberté individuelle, en vertu de l'article 66 de la Constitution, qui désigne le juge judiciaire comme gardien de la liberté individuelle.
 
-> Nul ne peut être arbitrairement détenu.
+> *Nul ne peut être arbitrairement détenu.*
 >
-> L'autorité judiciaire, gardienne de la liberté individuelle, assure le respect de ce principe dans les conditions prévues par la loi.
+> *L'autorité judiciaire, gardienne de la liberté individuelle, assure le respect de ce principe dans les conditions prévues par la loi.*
 
 Par exemple, le juge judiciaire reste compétent pour connaître de la légalité des mesures administratives privatives de liberté, comme les soins psychiatriques forcés. Bien qu'il s'agisse de mesures administratives, leur impact sur la liberté individuelle (éventuel enfermement) justifie qu'elles soient traitées par le juge judiciaire. Voilà pour la première exception au principe de compétence du juge administratif.
 
@@ -146,7 +146,7 @@ Trois exemples des attributions obligations :
 
 **Premier exemple** : l'article 39 de la Constitution indique que les projets de loi sont délibérés en Conseil des ministres après avis du Conseil d'État. C'est une compétence consultative obligatoire du Conseil d'État : tous les projets de loi doivent faire l'objet d'un avis de sa part.
 
-> Les projets de loi sont délibérés en conseil des ministres après avis du Conseil d'Etat et déposés sur le bureau de l'une des deux Assemblées. Les projets de loi de finances et de loi de financement de la sécurité sociale sont soumis en premier lieu à l'Assemblée nationale. Sans préjudice du premier alinéa de l'article 44, les projets de loi ayant pour principal objet l'organisation des collectivités territoriales sont soumis en premier lieu au Sénat.
+> *Les projets de loi sont délibérés en conseil des ministres après avis du Conseil d'Etat et déposés sur le bureau de l'une des deux Assemblées. Les projets de loi de finances et de loi de financement de la sécurité sociale sont soumis en premier lieu à l'Assemblée nationale. Sans préjudice du premier alinéa de l'article 44, les projets de loi ayant pour principal objet l'organisation des collectivités territoriales sont soumis en premier lieu au Sénat.*
 
 Cet avis est exclusivement juridique : le Conseil d'État ne donne qu'un avis juridique, et non politique. Par exemple, il va vérifier que le texte est conforme à la Constitution ou aux traités internationaux. Son rôle est donc de baliser juridiquement le projet de loi.
 
@@ -162,7 +162,7 @@ Troisième exemple : le Conseil d'État a l'obligation de rédiger chaque année
 
 Historiquement, le Conseil d'État est le conseiller du gouvernement, mais depuis la révision constitutionnelle du 23 juillet 2008, il est également devenu conseiller du Parlement. Cette compétence lui a été attribuée par la modification de l'article 39, alinéa 5, de la Constitution.
 
-> Dans les conditions prévues par la loi, le président d'une assemblée peut soumettre pour avis au Conseil d'État, avant son examen en commission, une proposition de loi déposée par l'un des membres de cette assemblée, sauf si ce dernier s'y oppose.
+> *Dans les conditions prévues par la loi, le président d'une assemblée peut soumettre pour avis au Conseil d'État, avant son examen en commission, une proposition de loi déposée par l'un des membres de cette assemblée, sauf si ce dernier s'y oppose.*
 
 Désormais, le président de chaque assemblée, soit le président du Sénat, soit le président de l'Assemblée nationale, peut, s'il le souhaite, saisir le Conseil d'État pour qu'il **examine une proposition de loi** et rende un avis. Cet avis, comme pour les attributions facultatives, est simple et non obligatoire.
 
@@ -184,7 +184,7 @@ Il est parfois surprenant de constater que le Conseil d'État agit encore en tan
 
 Cependant, il existe une exception : le Conseil d'État reste juge d'appel dans certains cas, notamment en matière de **référé Liberté**. L'article L. 523-1 du Code de justice administrative prévoit que les décisions rendues par les tribunaux administratifs en matière de référé Liberté sont susceptibles d’appel devant le Conseil d'État directement.
 
-> Les décisions rendues en application de l'article L. 521-2 sont susceptibles d'appel devant le Conseil d'Etat dans les quinze jours de leur notification. En ce cas, le président de la section du contentieux du Conseil d'Etat ou un conseiller délégué à cet effet statue dans un délai de quarante-huit heures et exerce le cas échéant les pouvoirs prévus à l'article L. 521-4.
+> *Les décisions rendues en application de l'article L. 521-2 sont susceptibles d'appel devant le Conseil d'Etat dans les quinze jours de leur notification. En ce cas, le président de la section du contentieux du Conseil d'Etat ou un conseiller délégué à cet effet statue dans un délai de quarante-huit heures et exerce le cas échéant les pouvoirs prévus à l'article L. 521-4.*
 
 En résumé, cette compétence d'appel du Conseil d'État est subsidiaire et extrêmement limitée.
 
@@ -250,9 +250,9 @@ Les cours administratives d'appel ont été créées par la loi du 31 décembre 
 
 Leur compétence est une compétence d'appel, prévue par l'article L. 211-2 du Code de justice administrative. Cet article stipule que les cours administratives d'appel connaissent des recours en appel contre les jugements rendus en premier ressort par les tribunaux administratifs.
 
-> Les cours administratives d'appel connaissent des jugements rendus en premier ressort par les tribunaux administratifs, sous réserve des compétences attribuées au Conseil d'Etat en qualité de juge d'appel et de celles définies aux articles L. 552-1 et L. 552-2.
+> *Les cours administratives d'appel connaissent des jugements rendus en premier ressort par les tribunaux administratifs, sous réserve des compétences attribuées au Conseil d'Etat en qualité de juge d'appel et de celles définies aux articles L. 552-1 et L. 552-2.*
 >
-> Elles connaissent en premier et dernier ressort des litiges dont la compétence leur est attribuée par décret en Conseil d'Etat à raison de leur objet ou de l'intérêt d'une bonne administration.
+> *Elles connaissent en premier et dernier ressort des litiges dont la compétence leur est attribuée par décret en Conseil d'Etat à raison de leur objet ou de l'intérêt d'une bonne administration.*
 
 ### Ⅲ. Les Tribunaux administratifs
 
@@ -260,7 +260,7 @@ Les tribunaux administratifs constituent le premier échelon de l'ordre administ
 
 La compétence matérielle des tribunaux administratifs est assez simple : ils statuent en premier ressort en matière administrative, sauf dans les cas où le Conseil d'État est juge en premier et dernier ressort. En dehors de ces exceptions, qui ne concernent que les actes administratifs les plus importants, les tribunaux administratifs sont les juges de droit commun du contentieux administratif. C'est l'article L. 211-1 du Code de justice administrative qui le précise. Les tribunaux administratifs sont donc amenés à traiter la très grande majorité des recours, qu’il s’agisse des **recours pour excès de pouvoir**, des **litiges contractuels**, ou encore des **recours en responsabilité**.
 
-> Les tribunaux administratifs sont, en premier ressort et sous réserve des compétences attribuées aux autres juridictions administratives, juges de droit commun du contentieux administratif.
+> *Les tribunaux administratifs sont, en premier ressort et sous réserve des compétences attribuées aux autres juridictions administratives, juges de droit commun du contentieux administratif.*
 
 La compétence territoriale des tribunaux administratifs est également très simple : le tribunal compétent est celui du lieu de résidence de l'autorité administrative qui a pris la décision contestée.
 
@@ -331,15 +331,17 @@ Le **référé suspension**, première procédure d'urgence, est prévu à l'art
 
 Si ces deux conditions sont réunies, le juge peut alors ordonner la suspension de la mesure en question, en attendant qu'une décision soit prise sur le fond du dossier.
 
-> Quand une décision administrative, même de rejet, fait l'objet d'une requête en annulation ou en réformation, le juge des référés, saisi d'une demande en ce sens, peut ordonner la suspension de l'exécution de cette décision, ou de certains de ses effets, lorsque l'urgence le justifie et qu'il est fait état d'un moyen propre à créer, en l'état de l'instruction, un doute sérieux quant à la légalité de la décision.
+> *Quand une décision administrative, même de rejet, fait l'objet d'une requête en annulation ou en réformation, le juge des référés, saisi d'une demande en ce sens, peut ordonner la suspension de l'exécution de cette décision, ou de certains de ses effets, lorsque l'urgence le justifie et qu'il est fait état d'un moyen propre à créer, en l'état de l'instruction, un doute sérieux quant à la légalité de la décision.*
 >
-> Lorsque la suspension est prononcée, il est statué sur la requête en annulation ou en réformation de la décision dans les meilleurs délais. La suspension prend fin au plus tard lorsqu'il est statué sur la requête en annulation ou en réformation de la décision.
+> *Lorsque la suspension est prononcée, il est statué sur la requête en annulation ou en réformation de la décision dans les meilleurs délais. La suspension prend fin au plus tard lorsqu'il est statué sur la requête en annulation ou en réformation de la décision.*
 
 Délai :
 
 > Le juge des référés se prononce dans un délai compris entre 48 heures et 1 mois après l'audience. Ce délai peut être dépassé si la complexité de l'affaire le nécessite.
 
 L'autre procédure d'urgence est le **référé liberté**, prévu à l'article L. 521-2 du CJA. Ce référé permet au juge de prendre **toute mesure nécessaire** pour sauvegarder une **liberté fondamentale** à laquelle l'administration aurait porté une atteinte grave et manifestement illégale dans l'exercice de ses pouvoirs.
+
+> *Saisi d'une demande en ce sens justifiée par l'urgence, le juge des référés peut ordonner toutes mesures nécessaires à la sauvegarde d'une liberté fondamentale à laquelle une personne morale de droit public ou un organisme de droit privé chargé de la gestion d'un service public aurait porté, dans l'exercice d'un de ses pouvoirs, une atteinte grave et manifestement illégale. Le juge des référés se prononce dans un délai de quarante-huit heures.*
 
 Pour que le référé liberté puisse être exercé, deux conditions doivent être remplies :
 
@@ -357,6 +359,63 @@ Le juge statuant seul :
 > Cependant, pour certaines affaires spécifiques (notamment les procédures de référé ou les affaires simples), un **juge unique** peut être désigné pour **statuer seul**, afin d’accélérer la procédure. Mais en dehors de ces cas, le principe de collégialité (trois juges) reste la norme dans les juridictions administratives.
 
 ## Section 4. L’influence européenne
+
+Le droit européen a eu une influence sur l'organisation de notre juridiction administrative. Plus précisément, certaines spécificités propres à la juridiction administrative française n'ont pas du tout plu à la **Cour européenne des droits de l'homme** (CEDH). Ces particularités ont suscité l'ire (c'est-à-dire la colère) de la CEDH.
+
+Il est crucial de distinguer le droit issu de la **Convention européenne des droits de l'homme**, dans lequel intervient la CEDH, du **droit de l'Union européenne**. Dans ce contexte, le terme "droit européen" fait référence exclusivement au droit de la CEDH, qui a eu une influence décisive sur la juridiction administrative française. Il est important de ne pas confondre ces deux systèmes juridiques.
+
+> La Cour européenne des droits de l'homme (CEDH) et la Cour de justice de l'Union européenne (CJUE) sont deux institutions judiciaires majeures en Europe, mais elles ont des rôles, des États membres et des champs de compétence différents. Voici un aperçu de leurs principales distinctions et caractéristiques :
+>
+> 1. La Cour européenne des droits de l'homme (CEDH)
+>    - **Origine** : Créée en 1959, elle veille à l’application de la Convention européenne des droits de l'homme, signée en 1950.
+>    - **Siège** : Strasbourg, France.
+>    - **Champ de compétence** : La CEDH est chargée d'appliquer uniquement la Convention européenne des droits de l'homme, en assurant la protection des droits de l'homme et des libertés fondamentales en Europe.
+>    - **États membres** : La CEDH relève du Conseil de l'Europe, qui compte 47 États membres, incluant les pays de l'Union européenne et d'autres pays européens (comme la Russie, la Turquie, etc.).
+>    - **Public concerné** : Tout individu, organisation non gouvernementale ou groupe peut saisir la CEDH, après avoir épuisé les recours internes, s’il estime que ses droits issus de la Convention ont été violés.
+>    - **Fonctions principales** : Par le biais de ses arrêts, la CEDH supervise l’application de la Convention et détermine si les États membres ont violé les droits de l'homme.
+>
+> 2. La Cour de justice de l'Union européenne (CJUE)
+>    - **Origine** : La CJUE a été fondée en 1952 et représente l'organe judiciaire suprême de l'Union européenne, en charge d’interpréter et d’appliquer le droit de l'Union.
+>    - **Siège** : Luxembourg.
+>    - **Champ de compétence** : La CJUE applique uniquement le droit de l'Union européenne, couvrant des domaines tels que le commerce, la concurrence, l'environnement, la protection des consommateurs, etc.
+>    - **États membres** : La CJUE ne concerne que les 27 États membres de l'Union européenne.
+>    - **Public concerné** : Les institutions de l'Union européenne, les gouvernements des États membres, ainsi que les individus et les entreprises peuvent saisir la CJUE pour garantir l’interprétation et l’application uniformes du droit de l'Union. La CJUE peut aussi statuer sur la conformité des lois nationales au droit de l'UE.
+>    - **Fonctions principales** : La CJUE assure l’uniformité du droit de l'Union européenne dans tous les États membres. Elle règle également les litiges entre les institutions de l'Union, les États membres, et entre les individus ou entreprises et les institutions européennes.
+>
+> Synthèse des principales différences :
+>
+> - **Cadre juridique** : La CEDH s’appuie sur la Convention européenne des droits de l'homme, tandis que la CJUE se fonde sur les traités de l'Union européenne et le droit de l'UE.
+> - **États membres** : La CEDH inclut les 47 pays membres du Conseil de l'Europe, alors que la CJUE concerne uniquement les 27 États membres de l'Union européenne.
+> - **Objectifs judiciaires** : La CEDH vise à protéger les droits de l'homme, alors que la CJUE vise à assurer l’application uniforme du droit européen.
+>
+> Relations entre les deux Cours :
+>
+> Bien que la CEDH et la CJUE fonctionnent de manière indépendante, les décisions de la CEDH peuvent avoir une influence indirecte sur le droit et les politiques de l'Union européenne, car tous les États membres de l'Union sont également membres du Conseil de l'Europe et sont tenus de respecter la Convention européenne des droits de l'homme. Par conséquent, il existe une certaine interaction entre les deux juridictions en matière d’application des droits en Europe.
+
+Le juge administratif est effectivement un juge et, à ce titre, doit satisfaire aux deux exigences fondamentales de toute institution de justice : **l'indépendance** et **l'impartialité**. Ces deux qualités sont inhérentes à toute juridiction. Dans la mythologie, la déesse Thémis incarne l'allégorie de la justice, symbolisant ces valeurs essentielles de l'institution judiciaire.
+
+Ces deux qualités, indépendance et impartialité, trouvent leur source dans une norme européenne essentielle : l'article 6, paragraphe 1 de la Convention européenne des droits de l'homme (CEDH). Cet article stipule que *"toute personne a droit à ce que sa cause soit entendue équitablement, publiquement, et dans un délai raisonnable, par un tribunal indépendant et impartial."*
+
+> *Toute personne a droit à ce que sa cause soit entendue équitablement, publiquement et dans un délai raisonnable, par un tribunal indépendant et impartial, établi par la loi, qui décidera, soit des contestations sur ses droits et obligations de caractère civil, soit du bien-fondé de toute accusation en matière pénale dirigée contre elle.*
+
+Cet article consacre le **principe du droit au procès équitable**. Parmi les garanties d’un tel procès figure le droit de tout justiciable à être jugé par un tribunal indépendant et impartial.
+
+Être **indépendant**, c'est être libre de toute influence extérieure. L'indépendance du juge administratif est garantie au plus haut niveau de la hiérarchie des normes depuis la décision **Loi de validation** du Conseil constitutionnel du 22 juillet 1980, qui lui confère une protection constitutionnelle. Être **impartial**, c'est être en mesure de juger sans aucun parti pris, à l'image de la déesse Thémis avec ses yeux bandés, symbole d'un jugement sans favoritisme. C'est sur cette question d'impartialité que l'organisation de la juridiction administrative a rencontré des difficultés, soulevant des critiques quant à la capacité de ses juges à demeurer impartiaux.
+
+La Cour européenne des droits de l'homme a précisé les contours de l'impartialité dans une décision de 1982, **Piersack contre Belgique**, en distinguant deux types d’impartialité : **subjective** et **objective**.
+
+- **L'impartialité subjective** : Elle renvoie à l'**absence de préjugé ou de parti pris** du juge. Elle est liée à la personne du juge, à ses convictions propres et à ses sentiments. Le juge doit s'abstraire de ses opinions personnelles pour exercer ses fonctions de manière impartiale.
+
+- **L'impartialité objective** : Elle s'apprécie en tenant compte de facteurs extérieurs au comportement personnel du juge. Il s’agit de se demander si des **éléments structurels, fonctionnels ou organiques** propres à l'institution pourraient faire naître un doute quant à l'impartialité du juge.
+
+> L’affaire **Piersack contre Belgique** (1982) est une décision clé de la Cour européenne des droits de l’homme concernant l’impartialité judiciaire, un principe du droit à un procès équitable garanti par l'article 6 de la Convention européenne des droits de l’homme. M. Piersack, condamné pour meurtre en Belgique, a contesté l’impartialité de son procès parce que le président de la cour d’assises avait, par le passé, dirigé le service du parquet qui avait instruit l’affaire contre lui.
+>
+> La CEDH a jugé qu'il y avait eu violation de l'article 6, établissant que la justice doit être non seulement subjectivement impartiale (absence de parti pris du juge) mais aussi objectivement impartiale (**absence d’apparence de partialité**). Ce cas a renforcé le principe selon lequel toute apparence de conflit d’intérêt doit être évitée pour garantir l’équité des procès.
+
+En examinant la juridiction administrative, deux spécificités majeures ont soulevé des interrogations concernant l'impartialité, notamment dans sa dimension objective. Ces questions d'organisation et de fonctionnement de l'institution ont conduit à des difficultés auxquelles la Cour européenne des droits de l'homme (CEDH) a apporté des réponses, menant à des réformes pour mettre la juridiction administrative française en conformité avec les exigences de la CEDH relatives au procès équitable. Les deux spécificités problématiques sont :
+
+1. **Le dualisme fonctionnel** : le fait que le Conseil d'État soit à la fois conseiller et juge.
+2. **Le rôle du rapporteur public** : une figure au sein de la juridiction administrative qui, depuis le XIXᵉ siècle, joue un rôle particulier.
 
 ### I. Procès équitable et dualisme fonctionnel
 

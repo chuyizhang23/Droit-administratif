@@ -21,7 +21,7 @@ Deux conditions doivent être remplies pour que le Conseil intervienne :
 
 Cette procédure est encadrée par l'article L.521-2 du Code de justice administrative.
 
-> Saisi d'une demande en ce sens justifiée par l'urgence, le juge des référés peut ordonner toutes mesures nécessaires à la sauvegarde d'une liberté fondamentale à laquelle une personne morale de droit public ou un organisme de droit privé chargé de la gestion d'un service public aurait porté, dans l'exercice d'un de ses pouvoirs, une atteinte grave et manifestement illégale. Le juge des référés se prononce dans un délai de quarante-huit heures.
+> *Saisi d'une demande en ce sens justifiée par l'urgence, le juge des référés peut ordonner toutes mesures nécessaires à la sauvegarde d'une liberté fondamentale à laquelle une personne morale de droit public ou un organisme de droit privé chargé de la gestion d'un service public aurait porté, dans l'exercice d'un de ses pouvoirs, une atteinte grave et manifestement illégale. Le juge des référés se prononce dans un délai de quarante-huit heures.*
 
 **Troisième enseignement** : Le Conseil d'État, notre juge administratif, joue un rôle nouveau et résolument moderne. Il s'adapte aux problématiques contemporaines, notamment en ce qui concerne les réseaux sociaux et d'autres enjeux numériques. C'est un juge pleinement en phase avec l'esprit de notre époque, capable de traiter des sujets aussi variés que les plateformes en ligne ou les nouvelles technologies.
 
@@ -146,7 +146,7 @@ Nous sommes au lendemain de la Révolution française. Par la loi des 16-24 aoû
 
 La loi contient un article particulièrement important pour nous : l'article 13. Cet article comporte deux paragraphes essentiels. Le premier précise que les fonctions judiciaires sont distinctes et séparées des fonctions administratives. Le second paragraphe, tout aussi crucial, stipule que les juges ne peuvent en aucun cas troubler les opérations des corps administratifs.
 
-> Article 13. Les fonctions judiciaires sont distinctes et demeureront toujours séparées des fonctions administratives. Les juges ne pourront, à peine de forfaiture, troubler, de quelque manière que ce soit, les opérations des corps administratifs, ni citer devant eux les administrateurs pour raison de leurs fonctions.
+> *Les fonctions judiciaires sont distinctes et demeureront toujours séparées des fonctions administratives. Les juges ne pourront, à peine de forfaiture, troubler, de quelque manière que ce soit, les opérations des corps administratifs, ni citer devant eux les administrateurs pour raison de leurs fonctions.*
 
 Cet article 13 établit en réalité deux principes : le **principe de séparation** et le **principe d'interdiction**.
 
@@ -214,7 +214,7 @@ Cette loi du 24 mai 1872, elle est fondamentale pour deux raisons.
 
 D'abord, la loi de 1872 attribue des compétences juridictionnelles au Conseil d'État. Comme nous l'avons mentionné au début du cours, le Conseil d'État a été créé par Napoléon en 1799, avec la Constitution de l'an VIII, en tant que conseiller de l'exécutif. À sa création, le Conseil d'État n'avait qu'une fonction consultative, étant simplement un conseiller de l'exécutif.
 
-> « Sous la direction des consuls, un Conseil d'État est chargé de rédiger les projets de lois et les règlements d'administration publique, et de résoudre les difficultés qui s'élèvent en matière administrative. » Article 52 de la Constitution du 22 frimaire an VIII
+> Article 52 de la Constitution du 22 frimaire an VIII : *"Sous la direction des consuls, un Conseil d'État est chargé de rédiger les projets de lois et les règlements d'administration publique, et de résoudre les difficultés qui s'élèvent en matière administrative."*
 
 Cependant, avec la loi de 1872, le Conseil d'État reçoit des compétences juridictionnelles. Cette loi marque officiellement la naissance du juge administratif, et donc la création d'un véritable ordre juridictionnel administratif distinct du juge judiciaire. Cela entraîne la mise en place d'un système de dualisme juridictionnel.
 
