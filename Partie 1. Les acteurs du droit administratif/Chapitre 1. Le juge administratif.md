@@ -24,7 +24,7 @@ En effet, de manière générale, et avant 2008, la Constitution ne mentionnait 
 
 Comme tout code, le CJA contient à la fois des **dispositions législatives** et des **dispositions réglementaires**. La distinction entre ces deux types de dispositions se fait par la lettre qui précède l'article : les articles précédés de "L" renvoient aux dispositions législatives, tandis que ceux précédés de "R" renvoient aux dispositions réglementaires.
 
-> Les **dispositions législatives** sont des règles juridiques adoptées par le **Parlement**, composé de l'Assemblée nationale et du Sénat. Elles fixent les principes fondamentaux du droit français et concernent des domaines clés définis par l'article 34 de la Constitution, tels que les libertés publiques, la fiscalité, et l'organisation des pouvoirs publics. En tant que lois, elles doivent être respectées par tous, y compris par l'administration. Les lois sont donc des normes supérieures dans la hiérarchie des normes juridiques et toute autre règle doit être conforme à elles. Par exemple, les lois sur l’éducation ou le Code civil contiennent des dispositions législatives qui régissent des aspects essentiels de la vie quotidienne.
+> Les **dispositions législatives** sont des règles juridiques adoptées par le **Parlement**, composé de l'Assemblée nationale et du Sénat. Elles fixent les principes fondamentaux du droit français et concernent des domaines clés définis par l'article 34 de la Constitution, tels que les libertés publiques, la fiscalité, et l'organisation des pouvoirs publics. En tant que lois, elles doivent être respectées par tous, y compris par l'administration. Les lois sont donc des normes supérieures dans la hiérarchie des normes juridiques et toute autre règle doit être conforme à elles. Par exemple, les lois sur l'éducation ou le Code civil contiennent des dispositions législatives qui régissent des aspects essentiels de la vie quotidienne.
 >
 > Les **dispositions réglementaires**, quant à elles, sont prises par le **pouvoir exécutif** (gouvernement, ministres, préfets, etc.) et ont pour objectif de mettre en œuvre les lois. Elles concernent des aspects techniques ou pratiques qui ne sont pas directement régis par les lois, mais qui sont nécessaires à leur application. Par exemple, après l'adoption d'une loi, des décrets ou arrêtés ministériels peuvent être pris pour en préciser les modalités pratiques. Ces règlements sont subordonnés aux lois, c'est-à-dire qu'ils doivent être conformes aux dispositions législatives supérieures.
 >
@@ -50,7 +50,7 @@ Deux décisions du Conseil constitutionnel ont particulièrement marqué cette �
 
 Ces deux grandes décisions ont joué un rôle fondamental en assurant à la fois l'indépendance et l'existence constitutionnelle du juge administratif, tout en protégeant ses prérogatives.
 
-#### A. La garantie constitutionnelle de l’indépendance du juge administratif : CC, 22 juillet 1980, Loi de validation
+#### A. La garantie constitutionnelle de l'indépendance du juge administratif : CC, 22 juillet 1980, Loi de validation
 
 Cette garantie est issue d'une décision importante, à savoir la décision du Conseil constitutionnel du 22 juillet 1980, intitulée « Loi de validation ». Dans cette décision, le Conseil constitutionnel affirme que l'indépendance du juge administratif est un **principe fondamental reconnu par les lois de la République (PFRLR)**.
 
@@ -97,7 +97,7 @@ Par exemple, le juge judiciaire reste compétent pour connaître de la légalit�
 
 À l'issue de ces deux décisions, de 1980 et 1987, l'existence du juge administratif est désormais garantie et ses prérogatives sont protégées. Dès 1980, le dualisme juridictionnel est consigné au plus haut niveau de la hiérarchie des normes. La constitutionnalisation de l'existence du juge administratif a ainsi renforcé la dualité de juridiction au niveau constitutionnel. Ainsi, le statut du juge administratif désormais constitutionnel, même si les règles détaillées sont définies dans le Code de justice administrative.
 
-## Section 2. L’organisation
+## Section 2. L'organisation
 
 Il existe deux grandes catégories de juridictions administratives :
 
@@ -123,7 +123,7 @@ Nous allons nous focaliser sur les juridictions administratives de droit commun,
 - Pour les **cours administratives d'appel**, on parle d'**arrêt**.
 - Enfin, pour le **Conseil d'État**, on utilise soit le terme **arrêt**, soit **décision**.
 
-### I. Le Conseil d’État
+### I. Le Conseil d'État
 
 Pendant longtemps, le Conseil d'État a été la seule juridiction administrative en France. Le Conseil d'État a été créé en tant que juge par la loi du 24 mai 1872. Depuis cette date, et jusqu'en 1953, il était la seule juridiction administrative existante.
 
@@ -134,7 +134,7 @@ Ce n'est que plus tard que d'autres juridictions ont été créées pour déseng
 
 Le Conseil d'État cumule deux grands types de fonctions : des fonctions consultatives et des fonctions juridictionnelles. Il agit à la fois comme conseiller du gouvernement et comme juge administratif.
 
-#### A. Le Conseil d’État en tant que conseiller
+#### A. Le Conseil d'État en tant que conseiller
 
 Historiquement, le Conseil d'État a principalement agi en tant que conseiller de l'exécutif. Cependant, depuis quelques années, relativement peu de temps compte tenu de son histoire, le Conseil d'État a également étendu son rôle de conseiller au Parlement.
 
@@ -170,7 +170,7 @@ Un **projet de loi** émane du **gouvernement**, tandis qu'une **proposition de 
 
 Cette réforme de 2008, qui a modifié l'article 39, alinéa 5, de la Constitution, a été une petite révolution. En effet, depuis toujours, le Conseil d'État était le conseiller exclusif du pouvoir exécutif. Ce changement a été justifié par un contexte souvent dénoncé, celui de la **dégradation générale de la qualité des lois** : il y a des critiques que les lois sont de plus en plus longues, moins précises et moins juridiques. Dans ce contexte, il est apparu opportun de confier au Conseil d'État un rôle consultatif également sur les propositions de loi. Grâce à son expertise juridique, le Conseil d'État peut ainsi être consulté dans le but d'**améliorer la qualité des textes législatifs**.
 
-#### B. Le Conseil d’État en tant que juge
+#### B. Le Conseil d'État en tant que juge
 
 ##### 1. Juge de cassation
 
@@ -182,7 +182,7 @@ Le Conseil d'État veille ainsi à l'unité dans l'application du droit administ
 
 Il est parfois surprenant de constater que le Conseil d'État agit encore en tant que juge d'appel. Pendant longtemps, il exerçait une compétence d'appel très étendue, car il n'existait pas de cours administratives d'appel. Avant la création de ces cours en 1987, le Conseil d'État devait traiter en appel un large éventail de contentieux administratifs. Mais depuis 1987, on pourrait logiquement penser que, avec l'existence des cours administratives d'appel, le Conseil d'État n'aurait plus de rôle en tant que juridiction d'appel.
 
-Cependant, il existe une exception : le Conseil d'État reste juge d'appel dans certains cas, notamment en matière de **référé Liberté**. L'article L. 523-1 du Code de justice administrative prévoit que les décisions rendues par les tribunaux administratifs en matière de référé Liberté sont susceptibles d’appel devant le Conseil d'État directement.
+Cependant, il existe une exception : le Conseil d'État reste juge d'appel dans certains cas, notamment en matière de **référé Liberté**. L'article L. 523-1 du Code de justice administrative prévoit que les décisions rendues par les tribunaux administratifs en matière de référé Liberté sont susceptibles d'appel devant le Conseil d'État directement.
 
 > *Les décisions rendues en application de l'article L. 521-2 sont susceptibles d'appel devant le Conseil d'Etat dans les quinze jours de leur notification. En ce cas, le président de la section du contentieux du Conseil d'Etat ou un conseiller délégué à cet effet statue dans un délai de quarante-huit heures et exerce le cas échéant les pouvoirs prévus à l'article L. 521-4.*
 
@@ -197,12 +197,12 @@ Dans quels cas le Conseil d'État est-il juge de premier et dernier ressort ?
 **Première hypothèse** : Le Conseil d'État est juge de premier et dernier ressort pour la **légalité de certains actes administratifs** parmi les plus importants, qui figurent au sommet de la hiérarchie des actes administratifs. Cette compétence est définie par l'article R.311-1 du Code de justice administrative, qui énumère les actes concernés. Voici quelques exemples d'actes administratifs contestables directement devant le Conseil d'État :
 
 - **Les décrets du Premier ministre et du Président de la République** : Ces décrets, émanant de l'exercice de leur pouvoir réglementaire, sont contestés directement devant le Conseil d'État.
-- **Les ordonnances prises par le Président de la République** sur le fondement de l’article 38 de la Constitution : Ces ordonnances, qui ont une portée législative temporaire, relèvent également de cette compétence.
-- **Les actes réglementaires des ministres** : Un acte réglementaire est une norme générale et impersonnelle par opposition à un acte individuel. Par exemple, un arrêté du ministère de l'Enseignement supérieur qui fixe les conditions d'attribution des bourses est un acte réglementaire que l’on peut contester directement devant le Conseil d'État.
+- **Les ordonnances prises par le Président de la République** sur le fondement de l'article 38 de la Constitution : Ces ordonnances, qui ont une portée législative temporaire, relèvent également de cette compétence.
+- **Les actes réglementaires des ministres** : Un acte réglementaire est une norme générale et impersonnelle par opposition à un acte individuel. Par exemple, un arrêté du ministère de l'Enseignement supérieur qui fixe les conditions d'attribution des bourses est un acte réglementaire que l'on peut contester directement devant le Conseil d'État.
 
 > Les **décrets** sont des actes pris par le **Président** ou le **Premier ministre** dans le cadre du **domaine réglementaire**, destinés à préciser et appliquer les lois votées par le Parlement. Ils ont une valeur inférieure aux lois dans la hiérarchie des normes et ne nécessitent pas d'autorisation préalable du Parlement.
 >
-> En revanche, les **ordonnances** permettent au gouvernement d’intervenir dans le **domaine législatif** après avoir obtenu une **autorisation du Parlement**. Une fois ratifiées, elles acquièrent la même valeur qu’une loi ; sinon, elles restent de valeur réglementaire. Les ordonnances sont ainsi utilisées pour des réformes importantes, permettant au gouvernement de légiférer rapidement dans certains domaines, avec une validation ultérieure du Parlement.
+> En revanche, les **ordonnances** permettent au gouvernement d'intervenir dans le **domaine législatif** après avoir obtenu une **autorisation du Parlement**. Une fois ratifiées, elles acquièrent la même valeur qu'une loi ; sinon, elles restent de valeur réglementaire. Les ordonnances sont ainsi utilisées pour des réformes importantes, permettant au gouvernement de légiférer rapidement dans certains domaines, avec une validation ultérieure du Parlement.
 
 Ainsi, le Conseil d'État est **juge en premier et dernier ressort** pour les actes administratifs les plus importants.
 
@@ -244,7 +244,7 @@ Ainsi, le Conseil d'État est **juge en premier et dernier ressort** pour les ac
 
 Pendant longtemps, depuis 1872, le Conseil d'État était le seul juge administratif en France. Cependant, il a progressivement été submergé par le nombre croissant de requêtes administratives, entraînant une lenteur de la justice due à l'accumulation de dossiers. Face à cette situation, les pouvoirs publics ont décidé de créer de nouveaux échelons de jugement pour alléger la charge du Conseil d'État. D'abord, en 1953, les tribunaux administratifs ont été instaurés, suivis en 1987 par les cours administratives d'appel. Ces deux niveaux de juridiction ont été créés dans le but précis de désengorger le Conseil d'État et de rendre la justice administrative plus rapide et efficace.
 
-### Ⅱ. Les Cours administratives d’appel
+### Ⅱ. Les Cours administratives d'appel
 
 Les cours administratives d'appel ont été créées par la loi du 31 décembre 1987 pour désengorger le Conseil d'État. Il en existe neuf en France, situées à Bordeaux, Lyon, Marseille, Paris, Douai, Toulouse, Versailles, Nancy et Nantes. Chaque cour est compétente sur un ressort territorial (une zone géographique) qui comprend plusieurs tribunaux administratifs.
 
@@ -258,7 +258,7 @@ Leur compétence est une compétence d'appel, prévue par l'article L. 211-2 du 
 
 Les tribunaux administratifs constituent le premier échelon de l'ordre administratif et sont ceux qui rendent le plus de décisions. Environ 200 000 décisions sont prononcées chaque année par l'ensemble des tribunaux administratifs en France. Créés par la loi du 30 septembre 1953, ces tribunaux ont été institués pour désengorger le Conseil d'État. Aujourd'hui, il en existe 42 répartis sur le territoire.
 
-La compétence matérielle des tribunaux administratifs est assez simple : ils statuent en premier ressort en matière administrative, sauf dans les cas où le Conseil d'État est juge en premier et dernier ressort. En dehors de ces exceptions, qui ne concernent que les actes administratifs les plus importants, les tribunaux administratifs sont les juges de droit commun du contentieux administratif. C'est l'article L. 211-1 du Code de justice administrative qui le précise. Les tribunaux administratifs sont donc amenés à traiter la très grande majorité des recours, qu’il s’agisse des **recours pour excès de pouvoir**, des **litiges contractuels**, ou encore des **recours en responsabilité**.
+La compétence matérielle des tribunaux administratifs est assez simple : ils statuent en premier ressort en matière administrative, sauf dans les cas où le Conseil d'État est juge en premier et dernier ressort. En dehors de ces exceptions, qui ne concernent que les actes administratifs les plus importants, les tribunaux administratifs sont les juges de droit commun du contentieux administratif. C'est l'article L. 211-1 du Code de justice administrative qui le précise. Les tribunaux administratifs sont donc amenés à traiter la très grande majorité des recours, qu'il s'agisse des **recours pour excès de pouvoir**, des **litiges contractuels**, ou encore des **recours en responsabilité**.
 
 > *Les tribunaux administratifs sont, en premier ressort et sous réserve des compétences attribuées aux autres juridictions administratives, juges de droit commun du contentieux administratif.*
 
@@ -284,12 +284,12 @@ Ce classement des recours, basé sur l'analyse des demandes faites au juge et de
 
 #### REP
 
-Le **recours pour excès de pouvoir (REP)** a pour seul objet l'**annulation d'actes administratifs illégaux**. L’objectif est de vérifier la légalité d’un acte administratif, tel qu’un décret ou un arrêté, et de le faire annuler s’il est jugé illégal. Ce que l’on demande ici au juge, c’est uniquement d’annuler un acte administratif.
+Le **recours pour excès de pouvoir (REP)** a pour seul objet l'**annulation d'actes administratifs illégaux**. L'objectif est de vérifier la légalité d'un acte administratif, tel qu'un décret ou un arrêté, et de le faire annuler s'il est jugé illégal. Ce que l'on demande ici au juge, c'est uniquement d'annuler un acte administratif.
 
 Les pouvoirs du juge dans le cadre du REP sont donc très limités. Il ne peut faire que deux choses :
 
-1. **Annuler** l’acte administratif s’il est illégal,
-2. **Rejeter la requête** s’il considère qu’il n’y a pas lieu d’annuler l’acte.
+1. **Annuler** l'acte administratif s'il est illégal,
+2. **Rejeter la requête** s'il considère qu'il n'y a pas lieu d'annuler l'acte.
 
 Cependant, de nombreuses évolutions ont élargi les pouvoirs du juge de l'excès de pouvoir, qui sont devenus de plus en plus importants. Les compétences du juge dans ce domaine ont progressivement évolué et se sont enrichies.
 
@@ -297,22 +297,22 @@ Le REP est soumis à un délai court : les requérants disposent de **deux mois*
 
 #### RPC
 
-Le deuxième grand type de recours est le **recours de plein contentieux**. Contrairement au recours pour excès de pouvoir, le plein contentieux ne se limite pas à la simple annulation d'un acte administratif jugé illégal. Ce recours permet au requérant de demander au juge administratif de faire usage de sa **plénitude de juridiction**, c’est-à-dire d'utiliser tous les pouvoirs à sa disposition. C'est pourquoi on parle de "plein contentieux".
+Le deuxième grand type de recours est le **recours de plein contentieux**. Contrairement au recours pour excès de pouvoir, le plein contentieux ne se limite pas à la simple annulation d'un acte administratif jugé illégal. Ce recours permet au requérant de demander au juge administratif de faire usage de sa **plénitude de juridiction**, c'est-à-dire d'utiliser tous les pouvoirs à sa disposition. C'est pourquoi on parle de "plein contentieux".
 
 Dans le cadre de ce recours, le requérant peut demander au juge administratif :
 
-- D’**annuler** un acte administratif,
+- D'**annuler** un acte administratif,
 - De lui accorder des **dommages et intérêts**,
 - De **mettre fin à un contrat administratif**,
 - De **modifier** ou **réformer** un acte administratif.
 
 Cette plénitude de juridiction confère au juge administratif des pouvoirs étendus.
 
-> Les **dommages et intérêts** sont une somme d'argent qu'une personne (ou une entreprise) doit verser à une autre pour **réparer un préjudice** causé par un acte fautif ou une négligence. Ils visent à compenser les pertes ou les souffrances subies par la victime et à rétablir autant que possible sa situation d’avant le dommage.
+> Les **dommages et intérêts** sont une somme d'argent qu'une personne (ou une entreprise) doit verser à une autre pour **réparer un préjudice** causé par un acte fautif ou une négligence. Ils visent à compenser les pertes ou les souffrances subies par la victime et à rétablir autant que possible sa situation d'avant le dommage.
 >
 > En général, les dommages et intérêts sont accordés par un tribunal à la suite d'une décision judiciaire. Ils peuvent couvrir différents types de préjudices, tels que les **dommages matériels** (perte financière, coûts de réparation), les **dommages corporels** (blessures physiques) ou les **dommages moraux** (souffrance émotionnelle, atteinte à la réputation).
 
-En matière de délai de recours, le plein contentieux diffère également du REP. Le délai n’est pas fixé uniformément ; il varie selon le type de contentieux. Par exemple, le délai pour contester un contrat administratif ne sera pas le même que celui pour demander des dommages et intérêts. Ainsi, chaque type de contentieux dans le plein contentieux dispose de **délais spécifiques**.
+En matière de délai de recours, le plein contentieux diffère également du REP. Le délai n'est pas fixé uniformément ; il varie selon le type de contentieux. Par exemple, le délai pour contester un contrat administratif ne sera pas le même que celui pour demander des dommages et intérêts. Ainsi, chaque type de contentieux dans le plein contentieux dispose de **délais spécifiques**.
 
 > Le délai de recours en plein contentieux en droit administratif français est généralement de **deux mois** à compter de la notification ou de la publication de l'acte administratif contesté. Ce délai s'applique à la plupart des recours visant à obtenir la réparation d'un préjudice ou la modification d'un acte administratif.
 >
@@ -320,7 +320,7 @@ En matière de délai de recours, le plein contentieux diffère également du RE
 >
 > Ainsi, bien que le délai standard soit de deux mois, il convient de vérifier les particularités liées à chaque type de contentieux et aux circonstances spécifiques de l'affaire pour assurer le respect des délais applicables.
 
-### Ⅱ. Les recours d’urgence
+### Ⅱ. Les recours d'urgence
 
 Au-delà des recours classiques, il est possible de saisir le juge administratif en urgence. La loi du 30 juin 2000 a introduit deux procédures d'urgence permettant de saisir rapidement le juge administratif : le **référé suspension** et le **référé liberté**.
 
@@ -356,9 +356,9 @@ Le juge statuant seul :
 
 > Généralement, dans les juridictions administratives françaises, les affaires sont jugées par une formation collégiale composée de **trois juges**. Cela signifie qu'un tribunal administratif ou une cour administrative d'appel rend normalement ses décisions avec trois magistrats, ce qui favorise la diversité des points de vue et assure une meilleure qualité de jugement.
 >
-> Cependant, pour certaines affaires spécifiques (notamment les procédures de référé ou les affaires simples), un **juge unique** peut être désigné pour **statuer seul**, afin d’accélérer la procédure. Mais en dehors de ces cas, le principe de collégialité (trois juges) reste la norme dans les juridictions administratives.
+> Cependant, pour certaines affaires spécifiques (notamment les procédures de référé ou les affaires simples), un **juge unique** peut être désigné pour **statuer seul**, afin d'accélérer la procédure. Mais en dehors de ces cas, le principe de collégialité (trois juges) reste la norme dans les juridictions administratives.
 
-## Section 4. L’influence européenne
+## Section 4. L'influence européenne
 
 Le droit européen a eu une influence sur l'organisation de notre juridiction administrative. Plus précisément, certaines spécificités propres à la juridiction administrative française n'ont pas du tout plu à la **Cour européenne des droits de l'homme** (CEDH). Ces particularités ont suscité l'ire (c'est-à-dire la colère) de la CEDH.
 
@@ -367,30 +367,30 @@ Il est crucial de distinguer le droit issu de la **Convention européenne des dr
 > La Cour européenne des droits de l'homme (CEDH) et la Cour de justice de l'Union européenne (CJUE) sont deux institutions judiciaires majeures en Europe, mais elles ont des rôles, des États membres et des champs de compétence différents. Voici un aperçu de leurs principales distinctions et caractéristiques :
 >
 > 1. La Cour européenne des droits de l'homme (CEDH)
->    - **Origine** : Créée en 1959, elle veille à l’application de la Convention européenne des droits de l'homme, signée en 1950.
+>    - **Origine** : Créée en 1959, elle veille à l'application de la Convention européenne des droits de l'homme, signée en 1950.
 >    - **Siège** : Strasbourg, France.
 >    - **Champ de compétence** : La CEDH est chargée d'appliquer uniquement la Convention européenne des droits de l'homme, en assurant la protection des droits de l'homme et des libertés fondamentales en Europe.
 >    - **États membres** : La CEDH relève du Conseil de l'Europe, qui compte 47 États membres, incluant les pays de l'Union européenne et d'autres pays européens (comme la Russie, la Turquie, etc.).
->    - **Public concerné** : Tout individu, organisation non gouvernementale ou groupe peut saisir la CEDH, après avoir épuisé les recours internes, s’il estime que ses droits issus de la Convention ont été violés.
->    - **Fonctions principales** : Par le biais de ses arrêts, la CEDH supervise l’application de la Convention et détermine si les États membres ont violé les droits de l'homme.
+>    - **Public concerné** : Tout individu, organisation non gouvernementale ou groupe peut saisir la CEDH, après avoir épuisé les recours internes, s'il estime que ses droits issus de la Convention ont été violés.
+>    - **Fonctions principales** : Par le biais de ses arrêts, la CEDH supervise l'application de la Convention et détermine si les États membres ont violé les droits de l'homme.
 >
 > 2. La Cour de justice de l'Union européenne (CJUE)
->    - **Origine** : La CJUE a été fondée en 1952 et représente l'organe judiciaire suprême de l'Union européenne, en charge d’interpréter et d’appliquer le droit de l'Union.
+>    - **Origine** : La CJUE a été fondée en 1952 et représente l'organe judiciaire suprême de l'Union européenne, en charge d'interpréter et d'appliquer le droit de l'Union.
 >    - **Siège** : Luxembourg.
 >    - **Champ de compétence** : La CJUE applique uniquement le droit de l'Union européenne, couvrant des domaines tels que le commerce, la concurrence, l'environnement, la protection des consommateurs, etc.
 >    - **États membres** : La CJUE ne concerne que les 27 États membres de l'Union européenne.
->    - **Public concerné** : Les institutions de l'Union européenne, les gouvernements des États membres, ainsi que les individus et les entreprises peuvent saisir la CJUE pour garantir l’interprétation et l’application uniformes du droit de l'Union. La CJUE peut aussi statuer sur la conformité des lois nationales au droit de l'UE.
->    - **Fonctions principales** : La CJUE assure l’uniformité du droit de l'Union européenne dans tous les États membres. Elle règle également les litiges entre les institutions de l'Union, les États membres, et entre les individus ou entreprises et les institutions européennes.
+>    - **Public concerné** : Les institutions de l'Union européenne, les gouvernements des États membres, ainsi que les individus et les entreprises peuvent saisir la CJUE pour garantir l'interprétation et l'application uniformes du droit de l'Union. La CJUE peut aussi statuer sur la conformité des lois nationales au droit de l'UE.
+>    - **Fonctions principales** : La CJUE assure l'uniformité du droit de l'Union européenne dans tous les États membres. Elle règle également les litiges entre les institutions de l'Union, les États membres, et entre les individus ou entreprises et les institutions européennes.
 >
 > Synthèse des principales différences :
 >
-> - **Cadre juridique** : La CEDH s’appuie sur la Convention européenne des droits de l'homme, tandis que la CJUE se fonde sur les traités de l'Union européenne et le droit de l'UE.
+> - **Cadre juridique** : La CEDH s'appuie sur la Convention européenne des droits de l'homme, tandis que la CJUE se fonde sur les traités de l'Union européenne et le droit de l'UE.
 > - **États membres** : La CEDH inclut les 47 pays membres du Conseil de l'Europe, alors que la CJUE concerne uniquement les 27 États membres de l'Union européenne.
-> - **Objectifs judiciaires** : La CEDH vise à protéger les droits de l'homme, alors que la CJUE vise à assurer l’application uniforme du droit européen.
+> - **Objectifs judiciaires** : La CEDH vise à protéger les droits de l'homme, alors que la CJUE vise à assurer l'application uniforme du droit européen.
 >
 > Relations entre les deux Cours :
 >
-> Bien que la CEDH et la CJUE fonctionnent de manière indépendante, les décisions de la CEDH peuvent avoir une influence indirecte sur le droit et les politiques de l'Union européenne, car tous les États membres de l'Union sont également membres du Conseil de l'Europe et sont tenus de respecter la Convention européenne des droits de l'homme. Par conséquent, il existe une certaine interaction entre les deux juridictions en matière d’application des droits en Europe.
+> Bien que la CEDH et la CJUE fonctionnent de manière indépendante, les décisions de la CEDH peuvent avoir une influence indirecte sur le droit et les politiques de l'Union européenne, car tous les États membres de l'Union sont également membres du Conseil de l'Europe et sont tenus de respecter la Convention européenne des droits de l'homme. Par conséquent, il existe une certaine interaction entre les deux juridictions en matière d'application des droits en Europe.
 
 Le juge administratif est effectivement un juge et, à ce titre, doit satisfaire aux deux exigences fondamentales de toute institution de justice : **l'indépendance** et **l'impartialité**. Ces deux qualités sont inhérentes à toute juridiction. Dans la mythologie, la déesse Thémis incarne l'allégorie de la justice, symbolisant ces valeurs essentielles de l'institution judiciaire.
 
@@ -398,19 +398,19 @@ Ces deux qualités, indépendance et impartialité, trouvent leur source dans un
 
 > *Toute personne a droit à ce que sa cause soit entendue équitablement, publiquement et dans un délai raisonnable, par un tribunal indépendant et impartial, établi par la loi, qui décidera, soit des contestations sur ses droits et obligations de caractère civil, soit du bien-fondé de toute accusation en matière pénale dirigée contre elle.*
 
-Cet article consacre le **principe du droit au procès équitable**. Parmi les garanties d’un tel procès figure le droit de tout justiciable à être jugé par un tribunal indépendant et impartial.
+Cet article consacre le **principe du droit au procès équitable**. Parmi les garanties d'un tel procès figure le droit de tout justiciable à être jugé par un tribunal indépendant et impartial.
 
 Être **indépendant**, c'est être libre de toute influence extérieure. L'indépendance du juge administratif est garantie au plus haut niveau de la hiérarchie des normes depuis la décision **Loi de validation** du Conseil constitutionnel du 22 juillet 1980, qui lui confère une protection constitutionnelle. Être **impartial**, c'est être en mesure de juger sans aucun parti pris, à l'image de la déesse Thémis avec ses yeux bandés, symbole d'un jugement sans favoritisme. C'est sur cette question d'impartialité que l'organisation de la juridiction administrative a rencontré des difficultés, soulevant des critiques quant à la capacité de ses juges à demeurer impartiaux.
 
-La Cour européenne des droits de l'homme a précisé les contours de l'impartialité dans une décision de 1982, **Piersack contre Belgique**, en distinguant deux types d’impartialité : **subjective** et **objective**.
+La Cour européenne des droits de l'homme a précisé les contours de l'impartialité dans une décision de 1982, **Piersack contre Belgique**, en distinguant deux types d'impartialité : **subjective** et **objective**.
 
 - **L'impartialité subjective** : Elle renvoie à l'**absence de préjugé ou de parti pris** du juge. Elle est liée à la personne du juge, à ses convictions propres et à ses sentiments. Le juge doit s'abstraire de ses opinions personnelles pour exercer ses fonctions de manière impartiale.
 
-- **L'impartialité objective** : Elle s'apprécie en tenant compte de facteurs extérieurs au comportement personnel du juge. Il s’agit de se demander si des **éléments structurels, fonctionnels ou organiques** propres à l'institution pourraient faire naître un doute quant à l'impartialité du juge.
+- **L'impartialité objective** : Elle s'apprécie en tenant compte de facteurs extérieurs au comportement personnel du juge. Il s'agit de se demander si des **éléments structurels, fonctionnels ou organiques** propres à l'institution pourraient faire naître un doute quant à l'impartialité du juge.
 
-> L’affaire **Piersack contre Belgique** (1982) est une décision clé de la Cour européenne des droits de l’homme concernant l’impartialité judiciaire, un principe du droit à un procès équitable garanti par l'article 6 de la Convention européenne des droits de l’homme. M. Piersack, condamné pour meurtre en Belgique, a contesté l’impartialité de son procès parce que le président de la cour d’assises avait, par le passé, dirigé le service du parquet qui avait instruit l’affaire contre lui.
+> L'affaire **Piersack contre Belgique** (1982) est une décision clé de la Cour européenne des droits de l'homme concernant l'impartialité judiciaire, un principe du droit à un procès équitable garanti par l'article 6 de la Convention européenne des droits de l'homme. M. Piersack, condamné pour meurtre en Belgique, a contesté l'impartialité de son procès parce que le président de la cour d'assises avait, par le passé, dirigé le service du parquet qui avait instruit l'affaire contre lui.
 >
-> La CEDH a jugé qu'il y avait eu violation de l'article 6, établissant que la justice doit être non seulement subjectivement impartiale (absence de parti pris du juge) mais aussi objectivement impartiale (**absence d’apparence de partialité**). Ce cas a renforcé le principe selon lequel toute apparence de conflit d’intérêt doit être évitée pour garantir l’équité des procès.
+> La CEDH a jugé qu'il y avait eu violation de l'article 6, établissant que la justice doit être non seulement subjectivement impartiale (absence de parti pris du juge) mais aussi objectivement impartiale (**absence d'apparence de partialité**). Ce cas a renforcé le principe selon lequel toute apparence de conflit d'intérêt doit être évitée pour garantir l'équité des procès.
 
 En examinant la juridiction administrative, deux spécificités majeures ont soulevé des interrogations concernant l'impartialité, notamment dans sa dimension objective. Ces questions d'organisation et de fonctionnement de l'institution ont conduit à des difficultés auxquelles la Cour européenne des droits de l'homme (CEDH) a apporté des réponses, menant à des réformes pour mettre la juridiction administrative française en conformité avec les exigences de la CEDH relatives au procès équitable. Les deux spécificités problématiques sont :
 
@@ -421,7 +421,7 @@ En examinant la juridiction administrative, deux spécificités majeures ont sou
 
 Le dualisme fonctionnel du Conseil d'État soulève des questions d'impartialité en raison de la **cumul des fonctions** consultatives et juridictionnelles, une spécificité historique de l'institution. Depuis sa création en 1799, le Conseil d'État est le conseiller de l'exécutif et, depuis 1872, il exerce également des fonctions juridictionnelles. Ce cumul de rôles peut engendrer des doutes quant à l'impartialité.
 
-Le problème se pose notamment lorsque le Conseil d'État est amené à **contrôler la légalité d'un acte administratif** sur lequel il a auparavant rendu un avis consultatif. Par exemple, si un juge doit statuer sur la légalité d’un décret au contentieux alors qu’il a donné un avis préalable sur cet acte en tant que conseiller, cela peut légitimement susciter des interrogations sur son impartialité.
+Le problème se pose notamment lorsque le Conseil d'État est amené à **contrôler la légalité d'un acte administratif** sur lequel il a auparavant rendu un avis consultatif. Par exemple, si un juge doit statuer sur la légalité d'un décret au contentieux alors qu'il a donné un avis préalable sur cet acte en tant que conseiller, cela peut légitimement susciter des interrogations sur son impartialité.
 
 La question est de savoir si cette spécificité du Conseil d'État – à la fois juge et conseiller – en fait un tribunal qui ne respecterait pas les standards d'impartialité fixés par l'article 6, paragraphe 1 de la Convention européenne des droits de l'homme. Le dualisme fonctionnel, c'est-à-dire le cumul des fonctions consultative et juridictionnelle, pourrait-il rendre le Conseil d'État partiel et incompatible avec les standards du droit au procès équitable ? La CEDH a rendu deux arrêts importants sur cette question.
 
@@ -431,7 +431,7 @@ Dans l'**arrêt Procola contre Luxembourg** de 1995, la Cour européenne des dro
 
 > La société Procola, une coopérative laitière, contestait une décision administrative luxembourgeoise concernant les quotas laitiers. Ce recours a été examiné par le Conseil d'État du Luxembourg, dont certains membres avaient précédemment donné un avis consultatif sur le même sujet, soulevant des inquiétudes quant à l'impartialité du jugement.
 >
-> La CEDH a conclu que cette double intervention constituait une violation de l'article 6§1 de la Convention européenne des droits de l’homme, qui garantit un procès équitable. En effet, le fait que les mêmes personnes participent à la fois à l'avis consultatif et à la décision juridictionnelle créait une apparence de partialité et un potentiel conflit d’intérêts.
+> La CEDH a conclu que cette double intervention constituait une violation de l'article 6§1 de la Convention européenne des droits de l'homme, qui garantit un procès équitable. En effet, le fait que les mêmes personnes participent à la fois à l'avis consultatif et à la décision juridictionnelle créait une apparence de partialité et un potentiel conflit d'intérêts.
 
 La CEDH a répondu que le **dualisme statutaire en lui-même** n'est pas problématique au regard de l'article 6, paragraphe 1. Ce qui pose problème, en revanche, est que les **mêmes personnes** participent à l'élaboration d'un avis consultatif sur une norme, puis statuent ultérieurement sur la légalité de cette même norme en tant que juges. Le seul fait que des individus exercent successivement, à propos des mêmes actes, des fonctions de conseiller puis de juge, est suffisant pour remettre en cause l'impartialité de la juridiction.
 
@@ -461,13 +461,13 @@ Quelques années plus tard, la Cour européenne des droits de l'homme s'est pron
 >
 > Conclusion : violation (unanimité).
 
-Sans surprise, la CEDH a réaffirmé dans l’arrêt Sacilor Lormines contre France qu’il n’y avait pas de problème en soi à ce qu’une juridiction cumule des fonctions consultatives et juridictionnelles. En revanche, un problème d’impartialité se pose si des individus sont d'abord conseillers sur un acte, puis juges de sa légalité. Cela crée un risque de préjugement de l'affaire, car les requérants peuvent penser que le juge a déjà un avis sur la légalité de l'acte.
+Sans surprise, la CEDH a réaffirmé dans l'arrêt Sacilor Lormines contre France qu'il n'y avait pas de problème en soi à ce qu'une juridiction cumule des fonctions consultatives et juridictionnelles. En revanche, un problème d'impartialité se pose si des individus sont d'abord conseillers sur un acte, puis juges de sa légalité. Cela crée un risque de préjugement de l'affaire, car les requérants peuvent penser que le juge a déjà un avis sur la légalité de l'acte.
 
-La difficulté résidait dans le fait qu’en France, aucun dispositif n’avait été mis en place pour éviter qu’une même personne participe d’abord à l’élaboration d’un avis consultatif sur un texte, puis, plus tard, statue sur sa légalité dans une formation contentieuse. En l'absence de telles précautions, la France a été condamnée par la CEDH dans l’arrêt Sacilor Lormines.
+La difficulté résidait dans le fait qu'en France, aucun dispositif n'avait été mis en place pour éviter qu'une même personne participe d'abord à l'élaboration d'un avis consultatif sur un texte, puis, plus tard, statue sur sa légalité dans une formation contentieuse. En l'absence de telles précautions, la France a été condamnée par la CEDH dans l'arrêt Sacilor Lormines.
 
 #### Décret 6 mars 2008
 
-À la suite de la décision Sacilor Lormines de 2006, un **décret du 6 mars 2008** est venu modifier le Code de justice administrative pour mettre la situation française en conformité avec les exigences de la CEDH. Depuis ce décret, le CJA précise qu’un membre du Conseil d’État ayant participé à la rédaction d’un avis consultatif ne peut pas siéger dans la formation de jugement appelée à statuer sur la légalité de l'acte pris après cet avis. Ces garde-fous, instaurés aux articles R.122-21-1 à 3 du CJA, visent à éviter que les mêmes personnes exercent successivement des fonctions de conseiller et de juge sur un même acte administratif. La France a ainsi tiré les conséquences de sa condamnation dans l'arrêt Sacilor Lormines.
+À la suite de la décision Sacilor Lormines de 2006, un **décret du 6 mars 2008** est venu modifier le Code de justice administrative pour mettre la situation française en conformité avec les exigences de la CEDH. Depuis ce décret, le CJA précise qu'un membre du Conseil d'État ayant participé à la rédaction d'un avis consultatif ne peut pas siéger dans la formation de jugement appelée à statuer sur la légalité de l'acte pris après cet avis. Ces garde-fous, instaurés aux articles R.122-21-1 à 3 du CJA, visent à éviter que les mêmes personnes exercent successivement des fonctions de conseiller et de juge sur un même acte administratif. La France a ainsi tiré les conséquences de sa condamnation dans l'arrêt Sacilor Lormines.
 
 > Article R122-21-1 : *Sans préjudice des dispositions de l'article R. 721-1, les membres du Conseil d'Etat ne peuvent participer au jugement des recours dirigés contre les actes pris après avis du Conseil d'Etat, s'ils ont pris part à la délibération de cet avis.*
 >
@@ -477,7 +477,7 @@ La difficulté résidait dans le fait qu’en France, aucun dispositif n’avait
 
 #### CE, 16 avril 2010, Association Alcaly
 
-Dans l’arrêt **Association Alcaly** de 2010, le Conseil d'État a lui-même affirmé que la dualité fonctionnelle qui le caractérise est parfaitement conforme à la Constitution. Il s'est ainsi fait juge de sa propre impartialité.
+Dans l'arrêt **Association Alcaly** de 2010, le Conseil d'État a lui-même affirmé que la dualité fonctionnelle qui le caractérise est parfaitement conforme à la Constitution. Il s'est ainsi fait juge de sa propre impartialité.
 
 Le problème venait de ce que le droit au procès équitable n'est pas seulement garanti par la Convention européenne des droits de l'homme ; il est aussi protégé par le droit interne, notamment par la Constitution. Bien que ce droit ne soit pas explicitement mentionné, il découle de l'article 16 de la Déclaration des droits de l'homme et du citoyen (DDHC), qui protège la séparation des pouvoirs et la garantie des droits.
 
@@ -485,7 +485,7 @@ Le problème venait de ce que le droit au procès équitable n'est pas seulement
 
 Pour ceux qui souhaitaient contester le dualisme statutaire, une QPC pouvait être soulevée, invoquant la méconnaissance de la Constitution par les dispositions législatives du CJA relatives au dualisme statutaire. Des requérants ont effectivement tenté de soulever une telle QPC, malgré les précédents examinés par la CEDH deux fois.
 
-Lorsque le Conseil d'État a été saisi d'une QPC concernant le dualisme fonctionnel, il a décidé de ne pas la renvoyer au Conseil constitutionnel. Il a jugé que la question n'était ni nouvelle ni sérieuse, estimant ainsi qu'elle ne justifiait pas une réévaluation constitutionnelle. En refusant de transmettre la QPC, le Conseil s’est de facto fait juge de sa propre impartialité.
+Lorsque le Conseil d'État a été saisi d'une QPC concernant le dualisme fonctionnel, il a décidé de ne pas la renvoyer au Conseil constitutionnel. Il a jugé que la question n'était ni nouvelle ni sérieuse, estimant ainsi qu'elle ne justifiait pas une réévaluation constitutionnelle. En refusant de transmettre la QPC, le Conseil s'est de facto fait juge de sa propre impartialité.
 
 #### Conclusion
 
@@ -493,6 +493,60 @@ Aujourd'hui, cette dualité institutionnelle et statutaire est à l'abri de tout
 
 ### Ⅱ. Procès équitable et rapporteur public
 
+Une autre spécificité de la juridiction administrative a soulevé des questions quant au principe d'impartialité : la **présence du rapporteur public**. Devant les trois niveaux de juridiction administrative — tribunaux administratifs, cours administratives d'appel et Conseil d'État — le rapporteur public joue un rôle particulier lors de l'audience. Ce magistrat, en effet, occupe une position unique, qui a suscité des interrogations sur l'impartialité de la procédure.
+
 #### A. Le rôle du rapporteur public
 
-#### B. L’influence de la Cour européenne des droits de l’homme
+Jusqu'en 2009, le rapporteur public portait un autre nom : commissaire du gouvernement. Cette figure emblématique de la juridiction administrative française, dont l'existence remonte à une ordonnance du 12 mars 1831, a été rebaptisée en 2009.
+
+Les conclusions des commissaires du gouvernement ont marqué l'histoire de la juridiction administrative. Parmi elles, celles du commissaire David sur l'arrêt Blanco restent particulièrement célèbres, tout comme celles d'autres commissaires dont certains sont devenus des figures emblématiques. Par exemple, **Léon Blum**, avant de diriger le Front populaire dans les années 1930, était conseiller d'État et commissaire du gouvernement. Il a rendu des conclusions essentielles entre 1910 et 1912. Les commissaires du gouvernement ont joué un rôle significatif, tant par leurs conclusions que par leur influence dans l'évolution du droit administratif.
+
+Le rôle du commissaire du gouvernement a été défini par le Conseil d'État dans l'arrêt **Gervaise de 1957**. Dans cet arrêt, le Conseil d'État précise que le commissaire du gouvernement expose, par ses **conclusions**, son **opinion** sur trois aspects de l'affaire :
+
+- Les **circonstances de fait**,
+- Les **règles de droit** applicables,
+- Les **solutions** que le litige appelle, selon lui.
+
+En tant que magistrat ayant le plus étudié le dossier, il éclaire ainsi la formation de jugement. Après l'audience, la formation de jugement se retire pour délibérer et rendre sa décision, sans être obligée de suivre les conclusions du commissaire. Dans certains cas, des décisions sont prises **contre les conclusions** du commissaire, ce qui est notable car cela souligne généralement un point de controverse ou une complexité particulière dans le litige.
+
+> Le commissaire du gouvernement (désormais appelé rapporteur public depuis 2009) est une fonction spécifique au droit administratif en France, et il n'existe pas d'équivalent dans le droit civil.
+
+#### B. L'influence de la Cour européenne des droits de l'homme
+
+Le rôle du rapporteur public a soulevé des difficultés au regard du droit au procès équitable. Ces péripéties ont été telles que certains auteurs de la doctrine ont évoqué les "aventures du rapporteur public à Strasbourg", en référence au siège de la Cour européenne des droits de l'homme. En effet, de nombreux rebondissements et points de vue divers ont émergé sur cette question.
+
+Deux grandes difficultés se sont élevées à son propos, toutes deux soulevées dans un arrêt fondamental : **l'arrêt Kress contre France de 2001**. Ces deux difficultés peuvent être distinguées car elles n'ont pas connu la même issue.
+
+##### 1. La communication des conclusions aux parties
+
+Dans l'affaire Kress contre France, Mme Kress contestait l'absence de communication préalable des conclusions du commissaire du gouvernement. Elle n'avait pas eu connaissance de ces conclusions avant l'audience, ni la possibilité d'y répondre pendant ou après celle-ci. Selon elle, cette absence constituait une violation du **principe du contradictoire**, qui garantit aux parties le droit de prendre connaissance de toutes les observations présentées au juge et de pouvoir les discuter. Le problème soulevé était clair : les parties ne recevaient pas les conclusions avant l'audience et ne pouvaient y répliquer. Le commissaire du gouvernement intervenait en dernier, après quoi l'audience se clôturait. Cela pouvait donner aux requérants l'impression que leur cause risquait de ne pas être jugée de manière impartiale.
+
+Dans l'arrêt de 2001, la CEDH a validé la procédure suivie devant le juge administratif français. Elle n'a pas exigé que les conclusions du commissaire du gouvernement soient communiquées intégralement aux parties avant l'audience. La procédure suivie est donc jugée conforme, et les parties ne sont pas tenues de recevoir quelques jours avant l'audience le document écrit du commissaire. Cependant, la CEDH a précisé que le principe du contradictoire impose que les parties soient informées du **sens des conclusions** avant l'audience, même sans en connaître tous les détails. Ce principe impose également que les parties aient la possibilité d'y répondre, par exemple en déposant une note pour contester la position du commissaire. Ces pratiques étaient déjà courantes en usage devant le Conseil d'État, mais après cette décision, la France a rapidement codifié ces usages, profitant de la validation par la CEDH pour formaliser ces règles.
+
+À la suite de l'arrêt **Kress**, plusieurs changements ont été intégrés dans le CJA :
+
+1. **Note en délibéré** : Depuis un décret du 19 décembre 2005 (article R731-3 du CJA), les parties peuvent désormais répondre aux conclusions du commissaire du gouvernement en déposant une note en délibéré.
+
+   > *A l'issue de l'audience, toute partie à l'instance peut adresser au président de la formation de jugement une note en délibéré.*
+
+2. **Information du sens des conclusions et droit de réponse orale** : Un décret du 7 janvier 2009 a ajouté que le commissaire du gouvernement (désormais **rapporteur public**) doit communiquer le sens de ses conclusions aux parties avant l'audience. De plus, les parties peuvent faire de courtes observations orales après la présentation des conclusions. Cela signifie que ce n'est plus le rapporteur public qui a le dernier mot ; les parties ont une réelle possibilité de réponse. Ces dispositions sont inscrites aux articles R711-3 et R733-1 du CJA.
+
+   R711-3 :
+
+   > *Si le jugement de l'affaire doit intervenir après le prononcé de conclusions du rapporteur public, les parties ou leurs mandataires sont mis en mesure de connaître, avant la tenue de l'audience, le sens de ces conclusions sur l'affaire qui les concerne.*
+   >
+   > *Lorsque l'affaire est susceptible d'être dispensée de conclusions du rapporteur public, en application de l'article R. 732-1-1, les parties ou leurs mandataires sont mis en mesure de connaître, avant la tenue de l'audience, si le rapporteur public prononcera ou non des conclusions et, dans le cas où il n'en est pas dispensé, le sens de ces conclusions.*
+
+   R733-1 :
+
+   > *Après le rapport, le rapporteur public prononce ses conclusions.*
+   >
+   > *Les avocats au Conseil d'Etat représentant les parties peuvent présenter des observations orales après le prononcé des conclusions du rapporteur public.*
+
+Ainsi, le Code de justice administrative reprend désormais pleinement les principes établis par l'arrêt Kress, permettant aux parties de connaître le sens des conclusions, de répondre par écrit et même de faire de brèves observations orales après l'intervention du rapporteur public.
+
+L'arrêt **Communauté d'agglomération de Martigues** du 21 juin 2013 apporte des précisions quant à l'obligation de communiquer le sens des conclusions du rapporteur public. Le Conseil d'État y limite la portée de la réforme inspirée par l'arrêt Kress. Désormais, l'obligation de communication se limite aux éléments essentiels du **dispositif** des conclusions. Ce dispositif correspond à la partie finale d'un jugement, celle où le juge statue en indiquant si la demande est rejetée ou accueillie (ex. : « rejet » ou « annulation »). Les parties ne reçoivent donc qu'une indication succincte du résultat final des conclusions du rapporteur public, sans accès au raisonnement complet.
+
+Cette position restrictive a trouvé un écho auprès de la Cour européenne des droits de l'homme. Dans l'arrêt **Marc-Antoine contre France** de 2013, la CEDH a accepté cette approche, nuançant ainsi les exigences de transparence et de contradictoire qu'elle avait initialement soutenues dans l'arrêt Kress.
+
+La question de la communication des conclusions du rapporteur public est désormais largement résolue. Elle ne pose plus de difficultés en matière de droit au procès équitable, puisque les parties ont accès au sens des conclusions et peuvent y répondre. La possibilité pour les parties de connaître ce sens et d'y répliquer satisfait aujourd'hui aux exigences procédurales, et la question est considérée comme réglée.
