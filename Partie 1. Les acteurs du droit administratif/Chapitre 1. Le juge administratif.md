@@ -83,7 +83,7 @@ Cette double compétence, annuler ou réformer des actes administratifs, est dé
 
 Mais il y a deux exceptions à ce premier principe.
 
-**Première exception** : sont exclues de la compétence administrative les matières **réservées par nature** à l'autorité judiciaire. Ces matières concernent principalement la **liberté individuelle**. L'autorité judiciaire est compétente pour juger les mesures administratives qui restreignent la liberté individuelle, en vertu de l'article 66 de la Constitution, qui désigne le juge judiciaire comme gardien de la liberté individuelle.
+**Première exception** : sont exclues de la compétence administrative les matières **réservées par nature** à l'autorité judiciaire. Ces matières concernent principalement la **liberté individuelle**. L'autorité judiciaire est compétente pour juger les mesures administratives qui restreignent la liberté individuelle, en vertu de l'article 66 de la Constitution, qui désigne ==le juge judiciaire comme gardien de la liberté individuelle==.
 
 > *Nul ne peut être arbitrairement détenu.*
 >
