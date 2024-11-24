@@ -137,11 +137,41 @@ Le juge administratif est compétent pour se prononcer sur la légalité des act
 
 ## Section 2. L'administration d'État
 
+L'administration, selon Maurice Hauriou, peut être perçue comme une certaine manière d'être de l'État. Elle représente la projection de l'État dans le cadre de son action concrète et quotidienne. C'est l'État en action, en mouvement.
+
+Actuellement, au sein de l'État, les administrations civiles se divisent en deux catégories principales. D'une part, on trouve les **administrations centrales**, qui incluent également les services à compétence nationale. D'autre part, on distingue les **administrations déconcentrés**.
+
 ### I. L'administration centrale
+
+L'administration centrale relève directement de l'État, en tant que personne morale de droit public. Si l’on reprend la distinction entre personne morale et autorité administrative, la question se pose de savoir quelles sont les autorités administratives habilitées à agir au nom et pour le compte de l’État. Ces autorités administratives peuvent être classées en deux catégories principales, conformément à une approche typique des juristes consistant à opérer des distinctions binaires : les **autorités administratives classiques** et les **autorités administratives indépendantes** (AAI).
 
 #### A. Les autorités administratives classiques
 
+Quelles sont les autorités administratives qui agissent au nom de l'État ? Parmi les autorités administratives centrales, le Premier ministre et les ministres qui composent le gouvernement incarnent particulièrement l'administration au niveau national. Le président de la République est certes une autorité politique, mais il possède également des attributions administratives. Ainsi, **le président de la République, le Premier ministre et les ministres** sont des autorités administratives, des personnes physiques qui édictent des actes applicables sur l'ensemble du territoire et agissent au nom de l'État.
+
 ##### 1. Le Premier ministre et les ministres
+
+Deux articles de la Constitution sont particulièrement importants pour comprendre les attributions administratives du gouvernement.
+
+Le premier article est **l’article 21 de la Constitution**, qui dispose que *« Le Premier ministre dirige l’action du gouvernement. »* Le Premier ministre, bien qu’étant une autorité politique, comme le président de la République, est également, et davantage encore que ce dernier, une autorité administrative.
+
+> *Le Premier ministre dirige l'action du Gouvernement. Il est responsable de la Défense nationale. Il assure l'exécution des lois. Sous réserve des dispositions de l'article 13, il exerce le pouvoir réglementaire et nomme aux emplois civils et militaires.*
+>
+> *Il peut déléguer certains de ses pouvoirs aux ministres.*
+>
+> *Il supplée, le cas échéant, le Président de la République dans la présidence des conseils et comités prévus à l'article 15.*
+>
+> *Il peut, à titre exceptionnel, le suppléer pour la présidence d'un Conseil des ministres en vertu d'une délégation expresse et pour un ordre du jour déterminé.*
+
+Le Premier ministre dispose notamment de **la compétence de principe en matière réglementaire**. L’article 21. précise qu’il exerce le pouvoir réglementaire, *« sous réserve du pouvoir d’attribution dévolu au président de la République »*. (art. 13 C°)
+
+Enfin, le Premier ministre et, plus largement, le gouvernement, peuvent s’appuyer sur une structure transversale essentielle : le **Secrétariat général du gouvernement (SGG)**. Créé en 1935, ce dernier existe indépendamment des alternances politiques.
+
+Le SGG est une institution méconnue mais fondamentale au sein de l’administration. Il joue un rôle clé dans la coordination du travail gouvernemental et veille à lui donner une cohérence globale. Le SGG est une **structure permanente**, indépendante des alternances politiques, qui assure **la continuité administrative** malgré les changements de gouvernement. Ce rôle de stabilité est particulièrement crucial dans des périodes de flottement ou d’instabilité politique.
+
+Actuellement, le SGG est dirigé par **Claire Landais**, ancienne rapporteure publique au Conseil d’État. Elle a été nommée en 2020 et, depuis, elle a maintenu sa fonction à la tête de cette institution, indépendamment des nombreux remaniements gouvernementaux survenus depuis.
+
+Historiquement, le SGG est souvent un tremplin vers le **vice-président du Conseil d’État**. Plusieurs figures illustres, telles que **Marceau Long** ou **Jean-Marc Sauvé**, ont dirigé le SGG avant d’occuper ce poste au Conseil d’État.
 
 ##### 2. Le Président de la République
 
